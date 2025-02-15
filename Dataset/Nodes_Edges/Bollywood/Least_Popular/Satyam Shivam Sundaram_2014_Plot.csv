@@ -1,0 +1,33 @@
+node_1,node_2,edge
+roopa,rajeev,"Rajeev falls in love with Roopa after hearing her sing at the village temple, but has not yet seen her disfigured side."
+village priest (roopa's father),roopa,"Roopa lives with her father, the village priest."
+roopa,disfigured side,"Part of Roopa's face and neck were burned by a pot of boiling oil as a child, leaving her right cheek disfigured."
+village priest (roopa's father),roopa,"After the accident, Roopa keeps her right cheek hidden under the veil of her sari."
+village priest (roopa's father),roopa,"Despite her disfigurement, Roopa remains religious and goes to the village temple daily, singing hymns and devotional songs."
+rajeev,roopa,Rajeev asks Roopa's father for permission to marry her after hearing her sing at the village temple.
+roopa,rajeev,Roopa does not want to cheat Rajeev because she loves him deeply and first requests his father to reject the marriage proposal.
+village,roopa,Roopa lives in a village.
+engineer (rajeev),village,Rajeev arrives in the village to oversee the operation of a major dam.
+dam,village,Rajeev is working on a dam in the village.
+disfigurement (roopa's),ugly (rajeev's opinion),"Rajeev abhors anything ugly, but has not yet seen Roopa's disfigured side."
+rajeev,disfigurement (roopa's),"After seeing Roopa's lovely singing, Rajeev falls in love with her and does not see her disfigured side."
+roopa,marriage proposal (rajeev's),Rajeev asks Roopa's father for permission to marry her after falling in love with her.
+roopa,marriage proposal (rajeev's),Roopa does not want to cheat Rajeev because she loves him deeply and first requests his father to reject the marriage proposal.
+village priest (roopa's father),roopa,"After everyone from the village requests Roopa to change her mind, she agrees to marry Rajeev thinking he may accept her with her condition as he claimed to love her truly."
+disfigurement (roopa's),cheating,"After the wedding, Rajeev discovers Roopa's disfigured side and thinks he was cheated and forced to marry someone else."
+rajeev,disfigurement (roopa's),"After discovering Roopa's disfigured side, Rajeev disowns her and drives her out of the house."
+rajeev,another roopa (his search),"After driving Roopa out of the house, Rajeev roams around the village on the wedding night in search of another Roopa."
+roopa,rajeev,"husband-wife relationship; rejection, search for another, mistreatment, accusation of infidelity"
+roopa,another roopa (mistaken identity),search for on wedding night
+rajeev,another girl with the same name,belief in mistaken identity on wedding night
+roopa,mistress (loving relationship),"meeting at night, hiding behind veil to conceal scarred side of face"
+rajeev,mistress,"ignoring wife during days and loving mistress during nights, not knowing they are both the same woman"
+roopa,pregnant,getting pregnant after making love with mistress/husband
+rajeev,wife (suspicion of infidelity),"accusing wife of infidelity, shaming her in public"
+roopa,father (dies out of agony),"leaving house due to husband's rejection and returning home after being rescued, father dies out of agony"
+roopa,vows not to return as mistress,vowing not to return as mistress after being publicly shamed by husband
+rajeev,realizes wife and mistress are one,recognizing voice of wife while searching for mistress in swirling waters during flood
+flood,rajeev,"In the swirling waters of the flood, Rajeev sees how shallow he has been."
+rajeev,his wife and mistress is one.,Her voice and realization leads Rajeev to understand that his wife and mistress is one.
+rajeev,roopa,Rajeev saves Roopa from drowning in the flood.
+rajive,roopa,Rajeev asks for Roopa's forgiveness and accepts Roopa as his wife.

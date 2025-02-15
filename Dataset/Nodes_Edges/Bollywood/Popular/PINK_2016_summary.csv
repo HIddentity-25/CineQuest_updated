@@ -1,0 +1,6 @@
+node_1,node_2,edge
+movie,summary,"Movie's Summary refers to the brief description or preview of a movie that provides an overview of its plot, characters, and genre."
+details,movie,"Details refer to specific information about a movie, such as its cast, crew, production house, release date, etc."
+here,details,Here refers to the current location or position where the Details of the Movie are being provided or displayed.
+displayed,message,"Message is any form of communication, such as text, audio, video, etc., that can be displayed on a device's screen. The Message may contain information about the reasons why it is being displayed."
+other,reasons,There may be other reasons besides those already mentioned that can cause this message to be displayed.

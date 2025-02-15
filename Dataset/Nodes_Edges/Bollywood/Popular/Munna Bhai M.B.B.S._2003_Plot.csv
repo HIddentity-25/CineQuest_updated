@@ -1,0 +1,32 @@
+node_1,node_2,edge
+munna bhai,hariprasad,Munna Bhai is the son of Hariprasad
+parvati,munna bhai,Parvati is the wife of Munna Bhai's father Hariprasad
+hariprasad,parvati,Hariprasad is the husband of Parvati
+munna bhai,sarkeshwar 'circuit' sharma,Munna Bhai and Sarkeshwar 'Circuit' Sharma are members of the same gang
+dean dr. jagdish asthana,chinki,Dr. Jagdish Asthana and Chinki are friends
+munna bhai,chinki,Munna Bhai and Chinki are childhood friends
+dean dr. jagdish asthana,hari,Dr. Jagdish Asthana and Hari know each other
+munna bhai,asthana college,Munna Bhai enrolls into Asthana College
+dr. rustom pawri,munna bhai,Dr. Rustom Pawri helps Munna Bhai enroll into the college
+asthana college,dr. jagdish asthana,Dean Dr. Jagdish Asthana is associated with Asthana College
+munna bhai,common-sense treatment,Munna Bhai challenges the conventional method of 'common-sense treatment'
+munna,asthana's conventional opinions,directly challenges Asthana's conventional opinions to get under his skin
+munna,empathetic and almost holistic regimen,constantly seeks to impose a more empathetic and almost holistic regimen around himself
+conventional medicine,incurable patients,"lack of empathy towards patients, especially those who are deemed incurable by conventional medicine"
+munna,hospital staff and patients,his behavior is well-received by the hospital staff and patients
+asthana,laughter therapy,resorts to laughter therapy to deal with his stress
+dr. suman,chinki,unaware that she is 'Chinki'
+dr. suman,old-fashioned kindness and love,uses old-fashioned kindness and love to 'cure' many patients at the hospital
+karan,munna,"develops a friendly relationship with Dr. Suman, who works at the hospital, unaware that she is 'Chinki'"
+zaheer,munna,"befriends Zaheer, a man dying from stomach cancer who he meets on his first day of college"
+stomach cancer,munna,"Munna, a patient with stomach cancer, befriends the college dean Asthana during his treatment. Asthana tries to expel Munna due to a stripper episode, but he is prevented from doing so after injuring himself."
+munna,zaheer,"Munna's friend Zaheer dies, leaving Munna in shock and causing him to give up during a test."
+anand banerjee,life,"Paraplegic patient Anand Banerjee, who has been brain-dead for 12 years, comes back to life after Munna's 'miraculous' treatments. His recovery is attributed to Munna."
+suman,munna,"After learning of Suman's true identity, Munna marries her and they open a real hospital in Munna's family village together."
+circuit,munna,"Circuit becomes friends with Munna during his treatment, and later gets married and has a son named 'Short Circuit'."
+asthana,munna,"After learning of Anand Banerjee's recovery, Suman gives a heartfelt speech defending Munna's actions. Asthana is moved and changes his opinion about Munna."
+suman,anand banerjee,"After Anand Banerjee recovers, Suman falls in love with him, but it is revealed that he was already married and had died years ago."
+munna's parents,munna,"After hearing news of Munna's 'miraculous' treatments, Munna's parents return to the city and forgive him."
+asthana,munna,"After injuring himself to stay in the hospital, Munna prevents Asthana from expelling him due to a stripper episode."
+patients and students,munna,"The patients, students, and hospital staff stand in Asthana's way and refuse to let Munna leave after he recovers from his injuries."
+asthana,munna,"After Munna gives up during the test, Asthana is finally moved by Suman's heartfelt speech and changes his opinion about Munna."

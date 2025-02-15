@@ -1,0 +1,21 @@
+node_1,node_2,edge
+rj,inaaya,"Initially, Inaaya mistakenly believes that RJ is her ex-boyfriend Babloo Ranawat."
+babloo ranawat,inaaya,Inaaya used to be in a relationship with Babloo Ranawat.
+rj,babloo ranawat,"RJ claims that he does not know Inaaya, who accuses him of being her ex-boyfriend Babloo Ranawat."
+babloo ranawat,cbi officer azaad khan,Babloo was recruited by CBI officer Azaad Khan to help stop Laila's plans.
+laila,cbi officer azaad khan,CBi officer Azaad Khan is trying to stop Laila's plans.
+babloo ranawat,laila,Babloo was initially a member of Laila's gang.
+inaaya,laila,Inaaya is the sister of Laila.
+ambulance driver's wife hema,bank account hacking,The bank account of the ambulance driver's wife Hema was hacked and her money went missing due to Laila's app.
+laila,bank account hacking,Laila designed an app that steals users' data and their bank accounts' money.
+babloo ranawat,guilt,"Due to guilt, Babloo rejoins CBI officer Azaad Khan."
+hema,rj,RJ meets Hema and learns about her husband's suicide due to bank account hacking caused by Laila's app.
+babloo,laila,enemy relationship as Laila orders his henchmen to kidnap Babloo's mother and challenges Babloo to stop the extraction of money
+babloo,inaaya,allies relationship as Inaaya joins Babloo in the fight against Laila's crimes
+hema,babloo,"mother-son relationship as Hema left Bablu to visit Kedar Ghat, India and later joins Babloo and Inaaya in their new life"
+egypt,laila's crime syndicate,location-syndicate relationship as Babloo leaves for Egypt where Laila had established his crime syndicate and kills the syndicate members
+russia,laila's crime syndicate,location-syndicate relationship as Babloo leaves for Russia where Laila had established his crime syndicate and kills the syndicate members
+china,laila's crime syndicate,location-syndicate relationship as Babloo leaves for China where Laila had established his crime syndicate and kills the syndicate members
+babloo,hema,biological relationship as Hema is Babloo's adopted mother
+inaaya,laila,enemy relationship as Laila reveals to Inaaya about his crimes and challenges her in the fight against Laila's extraction of money
+vietnam,"babloo, inaaya and babloo's mother","location-group relationship as Babloo, Inaaya and Babloo's mother are living in Vietnam"

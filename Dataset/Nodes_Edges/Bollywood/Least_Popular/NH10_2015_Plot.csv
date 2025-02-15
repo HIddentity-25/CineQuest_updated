@@ -1,0 +1,26 @@
+node_1,node_2,edge
+meera,arjun,"Married couple, both working in corporate business in Gurugram"
+meera,office,Received a telephone call from while enjoying a party
+meera,thugs,Attacked by thugs who smashed her car's window while leaving for office after receiving a telephone call
+arjun,meera,Bought Meera a gun when she was shaken by the incident of being attacked by thugs while leaving for office after receiving a telephone call
+arjun,road trip,Suggested a road trip for Meera's upcoming birthday after she left for office following the attack by thugs and receiving a telephone call
+meera,pinky,Encountered Pinky at a roadside dhaba during their road trip
+pinky,gang of men,Rounded up by the gang of men whom Pinky and a young man were about to be murdered
+arjun,satbir,"Intervened in the incident when Satbir, the gang leader, slapped him and claimed Pinky as his own sister during their road trip"
+meera,gang of men,Witnessed ongoing honor killing: Pinky and the young man were beaten and Pinky was poisoned by Satbir during their road trip
+arjun,gang of men,Chased the gang when they ran away after attacking Pinky and the young man during their road trip
+meera,police station,Asked for help at a police station while running away from the gang during their road trip
+meera,arjun,"Meera shoots the gangster dead, at a railway bridge, Meera leaves Arjun to get help."
+meera,police station,She finds a police station and asks the officer to help but he rejects her when she says she has witnessed an honour killing.
+inspector,meera,They drive back to find Arjun.
+meera,honour killing,"She realizes the Inspector is connected with the attackers; she kills the inspector and drives off in his car, chased by the gang."
+meera,village's chief ammaji,"She tells the village's chief Ammaji her story; after telling her of the honour killing, Meera sees a pillow cover with the word Pinky stitched on it on Ammaji's lap and a pic of Pinky in the room."
+ammaji,meera,"Ammaji locks Meera in the room, calls the gang and hands Meera over to them."
+satbir,meera,Satbir drags her out in front of Ammaji and beat her ruthlessly by slapping her repeatedly and also punches her hard in the stomach.
+arjun,meera,"Grief-stricken, Meera returns to the village to avenge Arjun's death;"
+meera,suv,She drives the SUV at the gang members and kills them.
+pinky,ammaji,"Ammaji tells Meera that Pinky was her daughter who broke rules and needed to be punished,"
+meera,pinky,Meera told Men that Pinky was her daughter who broke rules and needed to be punished
+men,meera,"In the context, Men is a listener when Meera reveals that her daughter Pinky broke rules and needed to be punished."
+ammaji,arjun,Ammaji told Men that Arjun was her husband and they killed him and needed to be punished
+men,ammaji,"In the context, Men is a listener when Ammaji reveals that her husband Arjun was killed."

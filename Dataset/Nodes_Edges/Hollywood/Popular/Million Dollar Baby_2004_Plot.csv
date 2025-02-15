@@ -1,0 +1,22 @@
+node_1,node_2,edge
+margaret 'maggie' fitzgerald,hit pit,"Entering the Hit Pit, a rundown boxing gym in Los Angeles."
+margaret 'maggie' fitzgerald,frankie dunn,"Maggie asks Frankie to train her, but he refuses because he does not want to train women and believes Maggie is too old."
+eddie 'scrap-iron' dupris,frankie dunn,Friend and employee of Frankie Dunn
+margaret 'maggie' fitzgerald,eddie 'scrap-iron' dupris,"Scrap, concerned when Frankie rejects several offers for big fights, arranges a meeting for Maggie with Mickey Mack."
+margaret 'maggie' fitzgerald,frankie dunn,"Frankie bestows Maggie a Gaelic nickname, embroidered on her boxing robe, Mo Chuisle, but does not tell her its meaning."
+margaret 'maggie' fitzgerald,europe,Two travel to Europe as she continues to win.
+margaret 'maggie' fitzgerald,her mother,"Saves enough of her winnings to buy her mother a house, but her mother berates Maggie for endangering her government aid, claiming that everyone back home is laughing at her."
+frankie dunn's prize prospect,big willie little,Signs with the successful manager Mickey Mack after becoming impatient with Frankie rejecting offers for a championship bout.
+maggie,title fight,"relation: participates in, role: active"
+maggie,infected leg,"relation: undergoes amputation for, consequence: active"
+frankie,maggie's wish to die,"relation: assists with, role: agent"
+maggie,amputation,Undergoes an amputation for an infected leg.
+maggie,frankie,"Asks Frankie to help her die, declaring that she had everything she wanted out of life."
+maggie,scrap,Watching from the shadows as Frankie sneaks into the hospital to administer a fatal injection of adrenaline.
+frankie,maggie's request,"Feels horrified at Maggie's request and refuses, but later feels guilty for leaving her to die."
+maggie,biting own tongue,Makes an attempt to bleed to death by biting her own tongue.
+frankie,maggie's affection,"Develops a fatherly affection for Maggie, which makes him hesitate to carry out her request."
+priest,frankie,Warns Frankie that he would never find himself again if he were to go through with Maggie's request.
+adrenaline,maggie,Administering a fatal injection of adrenaline to Maggie just before she takes her final breath.
+mo chuisle,frankie,"Tells Maggie the meaning of 'mo chuisle': 'my darling, and my blood', before giving her a final goodbye kiss."
+scrap,frankie's daughter,Informs Frankie's daughter of his true character after Maggie's death.

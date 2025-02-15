@@ -1,0 +1,4 @@
+node_1,node_2,edge
+movie,summary,a movie has a summary that provides details about its plot and storyline
+message,displayed,"the message is displayed to the user, indicating that some action or information has been communicated"
+other,reasons,"there are other reasons why this specific message might be shown to the user, indicating potential issues or errors with the system or application being used."

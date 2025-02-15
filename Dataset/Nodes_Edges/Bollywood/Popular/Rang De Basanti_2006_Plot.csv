@@ -1,0 +1,58 @@
+node_1,node_2,edge
+bhagat singh,ram prasad bismil,"Competed against each other in real life for the Indian independence movement, depicted in the film."
+bhagat singh,sue mckinley,Director of the movie casting Bhagat Singh in the plot.
+bhagat singh,james (grandfather of sue),"Grandfather of Sue, who served as a colonel in the British Army and expressed admiration for Bhagat Singh's revolutionary spirit."
+bhagat singh,laxman pandey,"Cast as Ram Prasad Bismil in the movie, while Bhagat Singh was portrayed by Karan Singhania."
+bhagat singh,daljit 'dj' singh,"Cast as Chandra Shekhar Azad in the movie, working alongside Bhagat Singh in the Indian independence movement."
+bhagat singh,sukhi ram,"Cast as Shivaram Rajguru in the movie, working alongside Bhagat Singh and Rajguru during the Indian independence movement."
+bhagat singh,aslam khan,"Cast as Ashfaqulla Khan in the movie, working alongside Bhagat Singh and Ashfaq during the Indian independence movement."
+sue mckinley,bhagat singh,Director of the movie portraying Bhagat Singh in the plot.
+sue mckinley,daljit 'dj' singh,"Cast DJ as Chandra Shekhar Azad in the movie, working alongside Sue as the director."
+sue mckinley,karan singhania,"Cast Karan Singhania as Bhagat Singh in the movie, expressing initial reluctance towards working on a patriotic film."
+sue mckinley,aslam khan,"Cast Aslam Khan as Ashfaqulla Khan in the movie, initially skeptical towards working on a patriotic film."
+sue mckinley,sukhi ram,"Cast Sukhi Ram as Shivaram Rajguru in the movie, initially unsure about working on a patriotic film."
+sue mckinley,laxman pandey,"Cast Laxman Pandey as Ram Prasad Bismil in the movie, initially opposed to working on a patriotic film."
+daljit 'dj' singh,sue mckinley,Director of the movie casting DJ as Chandra Shekhar Azad.
+daljit 'dj' singh,bhagat singh,"Worked alongside Bhagat Singh during the Indian independence movement, depicted in the movie."
+karan singhania,sue mckinley,Director of the movie casting Karan Singhania as Bhagat Singh.
+karan singhania,bhagat singh,"Depicted in the movie as Bhagat Singh, initially reluctant towards working on a patriotic film."
+aslam khan,sue mckinley,Director of the movie casting Aslam Khan as Ashfaqulla Khan.
+aslam khan,bhagat singh,"Worked alongside Bhagat Singh and Ashfaq during the Indian independence movement, depicted in the movie."
+sukhi ram,sue mckinley,Director of the movie casting Sukhi Ram as Shivaram Rajguru.
+sukhi ram,bhagat singh,"Worked alongside Bhagat Singh and Rajguru during the Indian independence movement, depicted in the movie."
+aslam khan,karan singhania,"Worked alongside Bhagat Singh and Ashfaq during the Indian independence movement, depicted in the movie."
+sukhi ram,aslam khan,"Worked alongside Bhagat Singh, Rajguru, and Ashfaq during the Indian independence movement, depicted in the movie."
+sukhi ram,karan singhania,"Worked alongside Bhagat Singh, Rajguru, and Ashfaq during the Indian independence movement, depicted in the movie."
+aslam khan,karan singhania,"Worked alongside Bhagat Singh, Rajguru, and Ashfaq during the Indian independence movement, depicted in the movie."
+daljit 'dj' singh,karan singhania,"Worked alongside Bhagat Singh during the Indian independence movement, depicted in the movie."
+sukhi ram,aslam khan,"Worked alongside Bhagat Singh, Rajguru, Ashfaq, and other Indian independence activists depicted in the movie."
+sue,laxman pandey,"Sue casts Laxman Pandey as Ram Prasad Bismil in their film, but over the course of working on the project, they develop a closer relationship."
+dj,sue,Sue begins a romantic relationship with DJ.
+sonia,ajay singh rathod,Sonia and Ajay Singh Rathod are in a romantic relationship.
+ajay singh rathod,indian air force,Ajay Singh Rathod is a flight lieutenant in the Indian Air Force.
+mig-21 jet,ajay singh rathod,Ajay Singh Rathod dies when his MiG-21 jet malfunctions and crashes.
+mig-21 jet,cheap parts,The corrupt Defense Minister Shastri signed a contract importing cheap parts for MiG-21 aircraft in exchange for a personal favor.
+rajnath,karan,Karan realizes that his father Rajnath was involved in orchestrating the deal to import cheap parts for MiG-21 aircraft.
+india gate,peaceful protest,The group organizes a peaceful protest at the India Gate.
+police,peaceful protest,The police arrive and violently break up the demonstration.
+aishwarya,police,"Aishwarya, Ajay's mother, is beaten by the police during the protest and goes into a coma."
+raghuvir mishra,laxman pandey,"Laxman realizes that his senior party official, Raghuvir Mishra, was in league with the government officials who ordered the police to stop the protest."
+protest,disillusionment,the protest led to disillusionment for the individual mentioned in the context
+shastri,terrorists,Shastri was killed by terrorists as reported by the media
+ajay's death,revolutionaries,"inspired by the revolutionaries, the group decided to take action themselves due to Ajay's death"
+shastri,martyr,the media reported Shastri as a martyr after his assassination by the group
+group,ajay's death,the group decided to take action themselves due to Ajay's death
+shastri,assassination,the group assassinated Shastri in order to avenge Ajay's death
+rajnath,murder,Karan confronted and murdered Rajnath as mentioned in the context
+all india radio station,group,the group decided to take over the All India Radio station after evacuating its employees
+all india radio station,public clarification,"towards this end, the group took over the All India Radio station to publicly clarify their intent behind the assassination"
+karan,all india radio station,Karan went on air from the All India Radio station
+karan,defense ministry's corruption,Karan called out the defense ministry's corruption to the public while on air from the All India Radio station
+police,all india radio station,the police arrived at the All India Radio station under instructions to kill them
+sukhi,death,Sukhi was shot dead during the group's occupation of the All India Radio station
+aslam,death,Aslam was killed by a grenade during the group's occupation of the All India Radio station
+laxman,death,Laxman was killed during the group's occupation of the All India Radio station
+dj,injury,DJ was severely injured during the group's occupation of the All India Radio station
+dj,karan,DJ reunited with Karan in the recording room as the latter finished his public statement and they both got killed together during the group's occupation of the All India Radio station
+aishwarya,coma,Aishwarya woke up from her coma after the wave of demonstrations against the government caused by the boys' deaths
+media,shastri,the media reported Shastri as a martyr after his assassination by the group

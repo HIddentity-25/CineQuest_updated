@@ -1,0 +1,13 @@
+node_1,node_2,edge
+lucky,jani (lucky's father),disturbed family due to Jani's remarriage
+lucky,bengali (lucky's friend),collaborates with lucky in stealing activities
+handa (doctor),lucky (as sunny arora),fake identity used by lucky
+devander singh (officer from crime branch),gogi,requests information about lucky from Gogi
+babul awasthi (news reporter),lucky,target of lucky's theft attempt in Mumbai
+lucky,babul awasthi,"Lucky tries to steal at the house of news reporter Babul Awasthi, but fails. Later, in anger, Babul kills his dog due to Lucky's theft."
+lucky,dr handa,Lucky seeks advice from Dr Handa on how to enter a house with a guard dog.
+lucky,sonal,Lucky goes out of town with his lover Sonal to avoid police after successfully stealing from Babul Awasthi's house.
+bengali,lucky,Bengali is ready to serve Lucky and later meets him again.
+news reporter,lucky,Lucky is labeled as a normal thief by news reporter Babul Awasthi.
+house,babul awasthi's house,"Lucky tries to steal from Babul Awasthi's house but fails initially, and later successfully steals."
+dog,babul awasthi's dog,Lucky's theft causes Babul to kill his own dog out of anger.

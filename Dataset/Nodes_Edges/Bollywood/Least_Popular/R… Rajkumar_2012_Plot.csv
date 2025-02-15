@@ -1,0 +1,21 @@
+node_1,node_2,edge
+romeo rajkumar,dhartipur,"Rajkumar arrives in Dhartipur, a small town ruled by drug barons."
+shivraj gurjar,manik parmar,Shivraj and Manik Parmar are drug barons who control Dhartipur and have an arch-enemy relationship.
+ajit taaka,hong kong,Ajit Taaka is a mafia boss who operates in Hong Kong and has influence over Dhartipur.
+chanda,manik parmar,"Chanda is an orphan being raised by Manik Parmar, who opposes her relationship with Rajkumar."
+shivraj,chanda,Shivraj sees Chanda emerging from water during a pooja ritual and lusts after her.
+rajkumar,chanda,"Rajkumar falls in love with Chanda, despite her uncle's opposition."
+shivraj,parmar,Shivraj compromises with Parmar to get Chanda married against her will.
+chanda,shivraj,Chanda challenges Shivraj to strip herself naked if he defeats Rajkumar in a challenge.
+rajkumar,truck,Rajkumar captures Shivraj's narcotic truck and drives it to Ajit Taaka.
+shivraj,rajkumar,Shivraj tries a lot to impress Chanda but keeps failing.
+takka,dhartipur,"Ajit Takka is the recipient of Rajkumar's stolen truck, which he believes contains narcotics."
+rajkumar,drug cartel,Rajkumar works for Ajit Taaka and was sent to Dhartipur to take over the drug cartel.
+shivraj,rajkumar,Shivraj plans to get Rajkumar killed in an encounter by his pet cop.
+shivraj,takka,join hands to make Rajkumar steal the empty truck
+rajkumar,shivraj's stolen truck,stole but later discovered that it was empty
+rajkumar,shivraj,"[{'sentence': 'interrupted his wedding celebrations with Chanda'}, {'sentence': ""rescued after being buried by Shivraj's men""}]"
+shivraj,rajkumar,[{'sentence': 'brutally killed Rajkumar and had his men bury him'}]
+rajkumar,shivraj's men,[{'sentence': 'backed off as they are now friends with Rajkumar'}]
+rajkumar,shivraj,"[{'sentence': 'overpowers Rajkumar for the majority of the fight'}, {'sentence': 'was killed with a power punch to the throat'}]"
+takka,rajkumar,[{'sentence': 'betrayed Rajkumar by joining hands with Shivraj'}]

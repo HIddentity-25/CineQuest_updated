@@ -1,0 +1,42 @@
+node_1,node_2,edge
+first order,new republic,The First Order has risen from the fallen Galactic Empire and seeks to end the New Republic.
+general leia organa,luke skywalker,"Leia searches for her twin brother, Luke Skywalker,"
+poe dameron,bb-8,Poe receives a map to Luke's location from BB-8.
+kylo ren,poe dameron,First Order stormtroopers commanded by Kylo Ren arrive and capture Poe.
+fn-2187,poe dameron,"Stormtrooper FN-2187, disillusioned with the First Order, saves Poe."
+fn-2187,kylo ren,"Kylo tortures Poe using the Force and learns of BB-8. Stormtrooper FN-2187, disillusioned with the First Order, saves Poe."
+poe dameron,millennium falcon,"Reys, Finn, and BB-8 steal the Millennium Falcon and escape Jakku."
+stormtrooper fn-2187,poe dameron,FN-2187 assumes Poe was killed after finding his jacket in the wreck.
+rey,bb-8,"Rey, Finn, and BB-8 steal the Millennium Falcon and escape Jakku. Rey, Finn, and BB-8 encounter each other."
+first order star destroyer,millennium falcon,"A First Order Star Destroyer shoots them, and they crash-land."
+han solo,falcon,Han Solo discovered and boarded the Falcon.
+falcon,gangs seeking to settle debts with han,Gangs seeking to settle debts with Han attacked the Falcon but the group escaped in it.
+luke,jedi order,Luke attempted to rebuild the Jedi Order.
+luke,apprentice,"An apprentice turned to the dark side, destroyed Luke's temple, and slaughtered the other apprentices."
+rey,childhood memory,Rey experiences a childhood memory of a ship leaving her on Jakku.
+maz kanata,bb-8,Maz offers help getting BB-8 to the Resistance.
+rey,secluded vault,The Force draws Rey to a secluded vault.
+maz kanata,lightsaber,Maz gives Finn the lightsaber for safekeeping.
+rey,anakin skywalker's lightsaber,Rey finds Anakin Skywalker's lightsaber in a secluded vault.
+maz kanata,cantina,Maz Kanata owns a cantina.
+supreme leader snoke,general hux,General Hux requests to use the weapon for the first time on the New Republic and Supreme Leader Snoke approves it.
+kylo,emotions,"Snoke questions Kylo's ability to deal with emotions surrounding his father, Han Solo."
+starkiller base,new republic capital,"destroys the New Republic capital and its four neighboring planets, leaving the Resistance on their own."
+starkiller base,takodana,The First Order attacks Takodana in search of BB-8.
+bb-8,resistance x-wing fighters,"Rescued by Resistance X-wing fighters led by Poe, who survived the crash."
+leia,c-3po,Arrives at Takodana with C-3PO and reunites with Han.
+kylo,rey,"Captures Rey, having realized that she had seen the map,"
+snoke,kylo,Orders Kylo to bring Rey to him.
+rey,stormtrooper guard,Escapes using a Jedi mind trick on a stormtrooper guard.
+han,chewbacca,"Using the Falcon, Han, Chewbacca, and Finn infiltrate the facility,"
+rey,han,"Finds Rey, who had been seen by Han."
+han,kylo,"Confronts Kylo, calling him by his birth-name Ben,"
+kylo,ben,Snoke seems to consider this but ultimately kills Han.
+poe,resistance x-wing fighters,Attack and destroy the base's thermal oscillator.
+rey,kylo,Kylo pursues Rey and Finn into the woods and incapacitates Rey.
+finn,kylo,"While trying to escape with Rey, Finn gets defeated by Kylo."
+rey,kylo,Rey awakens and takes the lightsaber from Kylo after defeating him in a duel.
+hux,snoke,Snoke orders Hux to evacuate and bring Kylo to him to complete his training.
+chewbacca,rey,Chewbacca saves Rey and the injured Finn from Kylo's clutches.
+finn,rey,"While trying to escape with Rey, Finn gets defeated by Kylo."
+luke,rey,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.

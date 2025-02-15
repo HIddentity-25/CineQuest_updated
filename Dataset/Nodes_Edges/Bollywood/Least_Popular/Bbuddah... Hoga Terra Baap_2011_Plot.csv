@@ -1,0 +1,20 @@
+node_1,node_2,edge
+acp karan,kaban bhai,Kaban Bhai decides to eliminate ACP Karan instead.
+vijju,acp karan,"Vijju tries to protect his son, ACP Karan from being eliminated by gangsters."
+tanya,acp karan,ACP Karan is trying to woo Tanya.
+amrita,vijju,"Amrita presumes that Vijju and her mother must've had an affair many years ago, due to her mother's overly friendly nature to Vijju."
+acp karan,tanya's conservative father,ACP Karan finally succeeds in winning over Tanya and her conservative father.
+sita,vijju,"Vijju meets his estranged wife, Sita, but fails to patch up the relationship."
+tedha,acp karan,"Tedha attempts once again and is successful in pumping some bullets into ACP Karan, failing Vijju's attempts to stop him from going to the place of the shootout."
+karan,hospital,Admitted by Vijju due to injury during shootout
+vijju,kaban,Visits Kabir's den after admitting Karan to hospital
+karan,undercover officer,Accused by Vijju of being an undercover officer during shootout at den
+tedha,karan,Mentioned as alive by Vijju after shootout at den
+vijju,paris,"Decides to go back to Paris, telling his wife Sita to bring Karan along when she is ready to do so"
+karan,vijju,"Son of Vijju, failed Vijju's attempts to stop him from going to the place of shootout"
+vijju,wife,Finally reconciles with his wife during hospital scene
+sita,karan,"Bring Karan along when she is ready to do so, according to Vijju's decision in the hospital scene"
+vijju,aging,Finally acknowledges that he is ageing during hospital scene
+kabir,mac,"Both roped in by Vijju to the underworld don, but only Mac was spared by Vijju during shootout at den"
+kaban,shootout,Place of the shootout where Karan was present and Vijju attempted to stop him from going
+tedha,killed by kabir,"Thought to be an undercover officer by Kabir, but actually wasn't during shootout at den"

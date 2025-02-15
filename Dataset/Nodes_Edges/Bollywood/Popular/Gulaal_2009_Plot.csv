@@ -1,0 +1,25 @@
+node_1,node_2,edge
+dilip,ransa,"Are acquaintances who meet in an old, run-down British-era pub. Dilip is a mild-mannered law student from Bikaner, and Ransa is a prince who despises the ideologies of his father and the aristocracy."
+dilip,anuja,Are both naked and imprisoned in a university hostel room after being ragged by Jadwal's gang.
+ransa,dukey banna,"Ransa meets Dukey Banna, a local leader gathering support for the Rajputana separatist movement, who promises protection from Jadwal's gang."
+karan,ransa,"Karan kidnaps Ransa and asks him to withdraw from the General Secretary elections at the university, where his opponent is Kiran, Ransa's half-sister."
+jadwal,dilip,Jadwal and his gang strip and lock Dilip in a room with Anuja as part of ragging him at the university hostel.
+kiran,ransa,"Kiran is Ransa's half-sister, and he is running against her in the General Secretary elections at the university."
+dilip,kiran,"romantic relationship, Kiran seduces Dilip and convinces him to allow her to become the cultural secretary"
+karan,opponent (kiran's half-brother),"relationship between Kiran's brother and his opponent, Karan kidnaps Ransa and asks him to withdraw from the elections"
+ransa,opponent (karan's victim),"relationship between Kiran's brother's victim and his opponent, Ransa refuses to withdraw from the elections and gets killed by Karan"
+dukey,opponent (dilip),"power struggle between Dukey and Dilip, Dukey starts using university funds for the Rajputana movement and bribes the electoral panel to rig the count in Dilip's favour"
+anuja,supporter (dilip),"relationship between Dilip's girlfriend and his supporter, Anuja moves in with Dilip when Jadwal throws her out of the hostel"
+jadwal,antagonist (anuja),"antagonistic relationship between Anuja and her opponent, Jadwal throws Anuja out of the hostel"
+kiran,dukey,"relationship between Kiran and Dukey, Dukey threatens Karan and Kiran by telling them that the only reason they're alive is because they are the king's offspring"
+dukey,opponent (karan and kiran),"relationship between Dukey and his opponents, Dukey tells Karan and Kiran that the only reason they're alive is because they are the king's offspring"
+anuja,dilip,"relationship between Anuja and Dilip, Anuja tries to explain to Dilip that Kiran has no interest in him or in traditional married life"
+kiran,dilip,"relationship between Kiran and Dilip, Kiran gets pregnant accidentally and ends her relationship with Dilip"
+anuja,kiran,"relationship between Anuja and Kiran, Anuja tries to reason with Kiran but realizes that she holds no leverage in the situation"
+dukey,separatist movement,"relationship between Dukey and the separatist movement, Dukey tells Dilip about the separatist movement"
+kiran,dukey,"Kiran tries to seduce Dukey, but they are interrupted by Dukey's second-in-command, Bhati. Kiran used Dilip to get to Dukey."
+dilip,dukey,The only reason they're alive is because they are the king's offspring. Dilip finds out about Kiran and Dukey's relationship from Dukey's mistress Madhuri.
+karan,dukey,"Once Dukey Banna is eliminated, the Rajputana movement will choose him as their leader and legitimize him."
+madhuri,dilip,Dilip finds out about Kiran and Dukey's relationship from Dukey's mistress Madhuri.
+karan's gang,dukey's defenses,Karan's gang decide to eliminate Bhati so that Dukey's defenses will be weakened.
+bhati,kiran,"When Bhati goes off to find her, he is killed by Karan's gang."

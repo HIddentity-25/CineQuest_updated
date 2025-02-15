@@ -1,0 +1,4 @@
+node_1,node_2,edge
+movie,summary,A movie has a summary to provide details about its plot.
+details,movie's summary,The details provided in a movie's summary help us understand the plot of that movie.
+message,other reasons,"When this message is displayed, it indicates that there are other reasons why this message is being shown besides the primary reason."

@@ -1,0 +1,4 @@
+node_1,node_2,edge
+movie,summary,a movie has a summary that describes its plot and main events
+details,movie,the specifics or characteristics of the movie are referred to as details
+message,other reasons,"when the message being displayed is not related to the current context, it could be due to other reasons."

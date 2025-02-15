@@ -1,0 +1,22 @@
+node_1,node_2,edge
+best film,"ajay devgn ffilms, t",Recipient of the Best Film award at the Filmfare Awards and IIFA Awards. Ajay Devgn FFilms is the production house responsible for producing the movie.
+best film,national film awards,Won the Best Popular Film Providing Wholesome Entertainment award at the National Film Awards for the movie.
+best actor,ajay devgn,Recipient of the Best Actor award at the Filmfare Awards and National Film Awards for his performance in the movie.
+best supporting actor,saif ali khan,Won the Best Supporting Actor award at the Filmfare Awards for his role in the movie.
+category,best film,"A category of awards presented at the Filmfare Awards, IIFA Awards, and National Film Awards."
+date of ceremony,filmfare awards,The date on which the Filmfare Awards ceremony was held in 2021.
+result,best film,Indicates whether the movie won or was nominated for the Best Film award at various ceremonies.
+recipient(s),best actor,The person(s) who received the Best Actor award at various ceremonies.
+nominated,best film,Indicates whether the movie was nominated for the Best Film award at various ceremonies.
+recipient(s),best supporting actor,The person who received the Best Supporting Actor award at various ceremonies.
+nominated,best dialogue,Indicates whether the movie was nominated for the Best Dialogue award at various ceremonies.
+recipient(s),best cinematography,The person who received the Best Cinematography award at various ceremonies.
+nominated,best action,Indicates whether the movie was nominated for the Best Action award at various ceremonies.
+won,best choreography,Indicates whether the movie won or was nominated for the Best Choreography award at various ceremonies.
+nominated,best special effects,Indicates whether the movie was nominated for the Best Special Effects award at various ceremonies.
+won,best background score,Indicates whether the movie won or was nominated for the Best Background Score award at various ceremonies.
+nominated,best sound design,Indicates whether the movie was nominated for the Best Sound Design award at various ceremonies.
+ajay devgn,won,Ajay Devgn won the award for Best Actor.
+nachiket barve & mahesh sherla,won,Nachiket Barve & Mahesh Sherla won the award for Best Costume Design.
+tanhaji,highest most-rated film of the year,"Tanhaji was the highest most-rated film of the year, according to a survey report by Book My Show."
+google trends,third most searched films,"According to a report from Google Trends, Tanhaji was the third most searched film of Google."

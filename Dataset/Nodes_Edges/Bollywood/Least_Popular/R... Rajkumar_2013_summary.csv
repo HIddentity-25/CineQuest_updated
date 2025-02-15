@@ -1,0 +1,4 @@
+node_1,node_2,edge
+movie,summary,a movie has a summary as its description
+details,summary,the details of the movie include its summary
+other reasons,message may be displayed,"when other specific reasons exist for displaying a message, in addition to summarizing a movie"

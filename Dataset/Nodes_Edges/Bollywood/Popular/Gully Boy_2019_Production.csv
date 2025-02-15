@@ -1,0 +1,8 @@
+node_1,node_2,edge
+akhtar,nas,American rapper Nas was an executive producer for the film.
+akhtar,akhtar,"Akhtar co-opted the story of two Mumbai based MCs, Naezy and DIVINE,"
+naezy,divine,"Naezy and DIVINE were two Mumbai based MCs,"
+divine,mcs,DIVINE was one of the two Mumbai based MCs mentioned in the context.
+mcs,hip-hop culture,MCs are a part of the hip-hop culture.
+production,akhtar,The details of the production were provided for this film directed by Akhtar.
+mumbai,two mcs,The two Mumbai based MCs mentioned in the context were from Mumbai.

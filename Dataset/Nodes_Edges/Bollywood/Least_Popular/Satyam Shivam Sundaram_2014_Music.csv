@@ -1,0 +1,30 @@
+node_1,node_2,edge
+satyam shivam sundaram,laxmikant-pyarelal,The music of the movie 'Satyam Shivam Sundaram' is composed by Laxmikant-Pyarelal.
+satyam shivam sundaram,studio album,The movie 'Satyam Shivam Sundaram' has a studio album named after it.
+laxmikant-pyarelal,badalte rishtey,The music composers Laxmikant-Pyarelal also composed the music for the movie 'Badalte Rishtey'.
+satyam shivam sundaram,raj kapoor,"The lead character in the movie, portrayed by Raj Kapoor"
+satyam shivam sundaram,lata mangeshkar,The iconic singer Lata Mangeshkar lent her voice to the main theme song of the movie
+satyam shivam sundaram,laxmikant pyarelal,The Music Directors Laxmikant Pyarelal won the Filmfare Best Music Director Award for their work in this movie
+chanchal sheetal nirmal komal,mukesh,The late singer Mukesh gave his final performance for this song before his untimely demise
+satyam shivam sundaram,yashomati maiya se,"A popular song from the movie, listed at #6 on Binaca Geetmala annual list 1977"
+satyam shivam sundaram,chanchal sheetal nirmal komal,"Another hit song from the movie, listed at #24 on Binaca Geetmala annual list 1978"
+satyam shivam sundaram,raj kapoor,Dedicated to the late actor Mukesh by Raj Kapoor
+satyam shivam sundaram,soundtrack,"Satyam Shivam Sundaram is a Bollywood film released in 1978, and its soundtrack is still considered a shining example of melodious music by Rakesh Budhu of Planet Bollywood, who gave it 9 stars."
+rakesh budhu,planet bollywood,"Rakesh Budhu is a critic associated with Planet Bollywood, where he has given Satyam Shivam Sundaram's soundtrack 9 stars, calling it still a shining example of melodious music amidst L-P's many melody accomplishments."
+maiya se,satyam shivam sundaram,"Maiya Se is a song from the Bollywood film Satyam Shivam Sundaram, listed at #7 on Binaca Geetmala annual list 1978."
+chanchal sheetal nirmal komal,binaca geetmala annual list,Chanchal Sheetal Nirmal Komal is a song listed at #24 on Binaca Geetmala annual list 1978.
+song,singers,A song is performed by singers.
+song,lyricist,A song has lyrics written by a lyricist.
+song,time,A song is played for a certain duration of time.
+"""satyam shivam sundaram""",lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Satyam Shivam Sundaram"""
+"""bhor bhaye panghat pe""",lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Bhor Bhaye Panghat Pe"""
+woh aurat hai too mehbooba,lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Woh Aurat Hai Too Mehbooba"""
+chanchal sheetal nirmal komal,mukesh & chorus,"The singers Mukesh and chorus perform the song ""Chanchal Sheetal Nirmal Komal"""
+saiyan nikas gaye,lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Saiyan Nikas Gaye"" along with Bhupinder Singh."
+vitalbhai patel,4:45,"The duration of the performance by singer(s) is 4:45, dedicated to Vitalbhai Patel."
+"""suni jo unke aane ki aahat""",lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Suni Jo Unke Aane Ki Aahat"""
+"""satyam shivam sundaram""",pandit narendra sharma,"The lyrics of the song ""Satyam Shivam Sundaram"" are written by Pandit Narendra Sharma."
+yashomati maiya se bole nandlala,"lata mangeshkar, nitin mukesh","The singers Lata Mangeshkar and Nitin Mukesh perform the song ""Yashomati Maiya Se Bole Nandlala"""
+yashomati maiya se bole nandlala,lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Yashomati Maiya Se Bole Nandlala"""
+shree radha mohan shyam shobhan,"lata mangeshkar, manna dey & chorus","The singers Lata Mangeshkar, Manna Dey and chorus perform the song ""Shree Radha Mohan Shyam Shobhan"""
+shri radhamohan,manna dey,"The singer Manna Dey performs the song ""Shri Radhamohan"""

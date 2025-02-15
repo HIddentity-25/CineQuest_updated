@@ -1,0 +1,20 @@
+node_1,node_2,edge
+movies,summary,"A movie is represented by its summary, which provides a brief overview of the plot and key events."
+villagers,makdee,belief in the existence and haunting abilities of Makdee by villagers
+mansion,makdee,presence and association of Makdee with a mansion believed to be haunted
+chunni,villagers,pranks played by Chunni on villagers leading to misunderstanding and fear
+chunni,makdee,encounter with Makdee during her pranks and belief in Makdee's supernatural powers as a witch
+kallu,chunni,conflict and animosity between Chunni and the local butcher Kallu
+chunni,haunted mansion,searches for Munni in the haunted mansion
+witch,munni,turns Munni into a hen
+chunni,witch,pleads with the Witch to let Munni go
+witch,chunni,asks Chunni to strike a deal in exchange for Munni's release
+mughal-e-azam,pet dog,realizes it is his pet dog that entered the mansion and disappeared
+chunni,makdee's plan,realizes Makdee's plan is a ruse and she does not turn humans into animals
+makdee,conwoman,Makdee is actually a conwoman who is looking for a hidden treasure in the village.
+children,makdee,Makdee abducts many children to dig up the place where the hidden treasure is located.
+policemen,makdee,Two policemen accompany Makdee in her plan of finding the hidden treasure.
+kallu,makdee,Kallu enters Makdee's mansion looking for the children who have been abducted by her.
+conwoman,children,"Makdee traps all the people, including the policemen, in an attempt to flee the village with the children."
+kallu,conwoman,Kallu confronts Makdee when she finds her trapped by Chunni.
+children,kallu,The kids and other people beat up the policemen for their notoriety and help Chunni stop Makdee.

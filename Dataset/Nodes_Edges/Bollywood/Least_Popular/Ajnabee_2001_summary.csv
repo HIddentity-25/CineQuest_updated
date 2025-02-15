@@ -1,0 +1,64 @@
+node_1,node_2,edge
+movie,details,The statement 'HERE IS THE DETAILS OF MOVIE'S SUMMARY:' indicates that MOVIE and its summary are related through the details. This relation is represented by an edge in our ontology.
+ajnabee,indian hindi-language action thriller film,Ajnabee is a 2001 Indian Hindi-language action thriller film directed by Abbas–Mustan and produced by Vijay Galani.
+abbas–mustan,directors,Ajnabee is directed by Abbas–Mustan.
+vijay galani,producer,Ajnabee is produced by Vijay Galani.
+kareena kapoor,actor,Ajnabee stars Kareena Kapoor in her debut.
+bipasha basu,actor,Ajnabee stars Bipasha Basu in her debut.
+johnny lever,supporting role,Ajnabee has Johnny Lever in a supporting role.
+dalip tahil,supporting role,Ajnabee has Dalip Tahil in a supporting role.
+narendra bedi,supporting role,Ajnabee has Narendra Bedi in a supporting role.
+sharat saxena,supporting role,Ajnabee has Sharat Saxena in a supporting role.
+consenting adults,unofficial adaptation of the 1992 american thriller ,Ajnabee is an unofficial adaptation of the 1992 American thriller Consenting Adults.
+raj,character,"In Ajnabee, Raj moves to Switzerland with his wife."
+priya malhotra,character,"In Ajnabee, Priya Malhotra moves to Switzerland with her husband."
+vikram bajaj,character,"In Ajnabee, Vikram Bajaj is an Indian neighbor of Raj and Priya Malhotra in Switzerland."
+sonia bajaj,character,"In Ajnabee, Sonia Bajaj is an Indian neighbor of Raj and Priya Malhotra in Switzerland."
+switzerland,location,Raj and Priya Malhotra move to Switzerland in Ajnabee.
+mauritius,location,"Raj, Priya Malhotra, Vikram Bajaj, and Sonia Bajaj go on a Christmas vacation together to Mauritius in Ajnabee."
+christmas vacation,event,"Raj, Priya Malhotra, Vikram Bajaj, and Sonia Bajaj go on a Christmas vacation together to Mauritius in Ajnabee."
+vicky manipulates the scenario,action,"In Ajnabee, Vicky manipulates the scenario leading to Raj and Sonia getting paired while himself (Vicky) getting paired with Priya."
+sonia becomes more forward in her advances,action,"In Ajnabee, Sonia becomes more forward in her advances towards Raj."
+raj sees vikram kissing another woman,action,"In Ajnabee, Raj sees Vikram kissing another woman."
+vikram eagerly suggests they should also too try it out,action,"In Ajnabee, Vicky eagerly suggests Raj and Sonia should also try partner-swapping."
+partner-swapping,vicky,Vicky eagerly suggests they should also too try it out
+vicky,raj,casually talks to Raj about partner-swapping .
+priya,partner-swapping,Priya manages to reconcile Raj and Vicky on the eve of Vicky's birthday a few days later
+vicky,priya,"Vicky suggests Raj To enjoy with Sonia and Vicky simultaneously request Raj to Let Himself (Vicky) to Enjoy with Priya for the night. Raj is disgusted by the offer, and an argument breaks out between the men."
+raj,priya,"Priya being unaware of the whole situation going around her, she manages to reconcile Raj and Vicky on the eve of Vicky's birthday a few days later."
+vicky,raj,"With Priya being unaware of the whole situation going around her, she manages to reconcile Raj and Vicky on the eve of Vicky's birthday a few days later."
+vicky,priya,The two men celebrate by getting drunk together. Vicky Again suggests Raj to become Vicky and asks whether he(Vicky) could become Raj just for the night
+raj,priya,"and manages to send a drunk Raj into his house, while he goes on to Raj's house to meet Priya."
+vicky,raj,The next day Raj wakes up to find a partially clothed woman in bed with him and realizes he was tricked and is in Vicky's house.
+priya,vicky,Raj enquires if Vicky Came over last night to which Priya confirms Vicky coming over as Raj had sent him over.
+priya,vicky,She states she fulfilled his request when he came over as it was his birthday and didn't want him to feel disappointed on his birthday by refusing to give what he was asking from her.
+priya,vicky,She further states it should not be a regular occurrence but won't mind if it's on special occasions.
+sonia bajaj,raj,"Raj finds a boarding pass that belongs to Sonia Bajaj, which states that Sonia arrived in Zürich from Geneva on 29 December. However, Sonia was supposedly murdered on that night. Raj suspects her as the woman he saw with Vikram in Mauritius."
+vikram,sonia bajaj,Raj suspects Sonia Bajaj as the woman he saw with Vikram in Mauritius.
+malhotras,vicky,Malhotras recall that Vicky entered the house the night of the murder with someone.
+raj,priya,Priya eventually believes in Raj's innocence and aids him in finding out what really happened.
+vicky,raj,"Vicky claims how the idea of wife swapping came from Raj, and while Vicky just spent the night in Raj's house, Raj tried to force Sonia and later killed her."
+sonia bajaj,zürich,"Raj finds a boarding pass that belongs to Sonia Bajaj, which states that Sonia arrived in Zürich from Geneva on 29 December."
+geneva,sonia bajaj,Raj meets an insurance officer who is trying to find evidence that Vikram was in Geneva on the night of Sonia Bajaj's supposed murder.
+vikram,geneva,Raj meets an insurance officer who is trying to find evidence that Vikram was in Geneva on the night of Sonia Bajaj's supposed murder.
+vikram,sonia bajaj,Raj suspects that Sonia Bajaj was with Vikram in Mauritius.
+priya,raj,"The protagonist Priya and her friend Raj travel together to Geneva in search of answers regarding the mysterious death of a woman. Their journey leads them to uncover a web of deceit involving Vikram, Priya's ex-boyfriend."
+vikram,sonia bajaj (real wife),"Vikram is married to a wealthy heiress named Sonia Bajaj, and convinces her to take out a $100 million insurance policy on herself. This leads to his devious plan of killing her and claiming the insurance money."
+sonia bajaj (real wife),neeta,"In contrast, while traveling with Vikram in Mauritius, Raj sees a woman revealed to be Sonia alive and well. However, Vikram's girlfriend Neeta accompanies him on their travels."
+insurance officer,vikram,"An insurance officer tries to find evidence of Vikram's involvement in the death of his wife, in order to claim her life insurance policy worth $100 million."
+neeta,insurance officer,"Working with the insurance agent, Raj traces Vikram to a cruise ship where he sees Neeta, and later confronts Vikram regarding his plan. However, during their fight, Neeta dies."
+vikram,raj,"In the climax, Vikram gets aggressive and kills the insurance officer in a fit of rage after losing his girlfriend Neeta. Raj impales Vikram with an anchor from the cruise ship, killing him."
+ajnabee,commercially successful indian film,Ajnabee is a commercially successful Indian film.
+taran adarsh,indian film critic,Taran Adarsh is an Indian film critic who reviewed Ajnabee.
+box office india,indian trade website,Box Office India reported on the box office performance of Ajnabee in 2011.
+anu malik,indian music composer,Anu Malik composed the soundtrack for Ajnabee.
+sameer,lyricist,Sameer wrote the lyrics for the songs in Ajnabee's soundtrack.
+tips music,indian music label,Tips Music released the soundtrack album for Ajnabee.
+shah rukh khan,bollywood actor,"Initially, Shah Rukh Khan was offered the role of Vikram Bajaj in Ajnabee but declined."
+character dheela,song from the indian film ready,Malik claimed that the song 'Character Dheela' from Ready is an unauthorised copy of the song 'Mohabbat Naam Hai' from Ajnabee in 2011.
+pritam,indian music composer,Malik accused composer Pritam of plagiarism for the song 'Character Dheela' from Ready in 2011.
+ajnabee,shoddy feel,the film has a shoddy feel to it
+script,loss of control,when vague scenes are pieced together at the climax
+insipid humour,overboard,the insipid humour goes overboard
+bold attempt,vain,Ajnabee could have been the precursor of the new niche thriller. But its makers haven't displayed enough bravado.
+plot,bizarre,a plot so dramatic that you continue to watch just to see what bizarre thing will happen next

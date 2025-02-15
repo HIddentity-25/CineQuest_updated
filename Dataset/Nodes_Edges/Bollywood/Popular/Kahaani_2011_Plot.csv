@@ -1,0 +1,34 @@
+node_1,node_2,edge
+poison-gas attack,kolkata metro rail compartment,causal relationship as the poison gas attack occurred in a Kolkata Metro Rail compartment
+vidya bagchi,kolkata,locational relationship as Vidya Bagchi arrived in Kolkata during Durga Puja festivities.
+arnab bagchi,national data center (ndc),workplace relationship as Arnab Bagchi was reportedly employed by the NDC according to initial investigations
+milan damji,old ndc office,"locational relationship as Agnes D'Mello suggested that Milan Damji, a former employee of the NDC, might have kept his file in the old NDC office"
+bob biswas,assistant working undercover as a life insurance agent,professional relationship as Bob Biswas works as an assassin undercover as a life insurance agent
+agnes d'mello,national data center (ndc),employment relationship as Agnes D'Mello was the head of human resources at the NDC
+damji's file,old ndc office,locational relationship as Vidya and Rana found Damji's file in the old NDC office
+bhaskaran k.,intelligence bureau officials in delhi,employment relationship as Bhaskaran K. Is one of the two Intelligence Bureau officials in Delhi
+khan,intelligence bureau officials in delhi,employment relationship as Khan is the deputy of the other Intelligence Bureau official in Delhi
+damji,ib agent,Damji was a rogue IB agent responsible for the poison gas attack.
+vidya,damji,"Vidya continues her search, fearing that Arnab's resemblance to Damji may have led him into trouble."
+rana,damji,The address on Damji's record leads Vidya and Rana to a dilapidated flat.
+errand boy,damji,"An errand boy from the neighbourhood tea stall identifies R. Sridhar, an NDC officer, as a frequent visitor to Damji's flat."
+bob,damji,Tries but fails to kill Vidya
+truck,bob,Is run over by a truck during a chase.
+vidya's mobile phone,damji,"Examination of Bob's mobile phone leads Vidya and Rana to an IP address, sending instructions to kill her."
+sridhar,damji,"Breaks into Sridhar's office to verify his IP address, but he is alerted electronically and returns to his office."
+vidya,sridhar,Accidentally kills Sridhar during a scuffle
+khan,sridhar,"Upsets Khan, who had wanted him alive."
+bhaskaran,damji,Vidya calls Bhaskaran to tell him that she has retrieved sensitive documents from Sridhar's office.
+bhaskaran,vidya,Tells her to contact the local police
+unknown number,vidya,Warns her that she should hand over the documents if she wishes to see her husband alive.
+damji,unknown number,Thinks the caller is Damji
+vidya,rana,followed by Rana and Khan.
+vidya,damji,Damji cuts the meeting short when Vidya expresses her doubt that he will be able to return her husband in exchange for the sensitive file.
+vidya,police,Flees into the crowd before the police arrive.
+vidya,ib,Neither Vidya nor Arnab Bagchi ever existed and that Vidya had been using the police and the IB to achieve her own ends.
+vidya,arup basu,"Widow of Major Arup Basu, an IB and Army officer"
+damji,vidya,"In the ensuing struggle, Damji draws a gun on her."
+vidya,hairstick,Disarms him using the prosthetic belly she has been using to fake her pregnancy and promptly stabbing him in the neck with her hairstick
+damji,vidya,Finally killing him with his own gun.
+sridhar's computer,pen drive,Contains data from Sridhar's computer
+pratap bajpayee,ib officer,Retired IB officer who suspected the involvement of a top IB official.
