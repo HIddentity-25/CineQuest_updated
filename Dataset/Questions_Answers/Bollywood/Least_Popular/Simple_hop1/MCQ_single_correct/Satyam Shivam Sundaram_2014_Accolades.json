@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which accolade did the movie 'Satyam Shivam Sundaram' receive at the 26th Filmfare Awards in 2014?",
+    "Options": "A. Best Director - Raj Kapoor\nB. Best Music Director - Laxmikant-Pyarelal\nC. Best Actor - Shashi Kapoor\nD. Best Actress - Zeenat Aman",
+    "Answer": "Best Music Director - Laxmikant-Pyarelal"
+  },
+  {
+    "Question": "At the 26th Filmfare Awards, which accolade was nominated for the movie 'Satyam Shivam Sundaram' released in 2014?",
+    "Options": "A. Best Director - Raj Kapoor\nB. Best Cinematography - Radhu Karmakar\nC. Best Actor - Shashi Kapoor\nD. Best Actress - Zeenat Aman",
+    "Answer": "Best Cinematography - Radhu Karmakar"
+  },
+  {
+    "Question": "At the 26th Filmfare Awards, which director was nominated for Best Director for the movie 'Satyam Shivam Sundaram' released in 2014?",
+    "Options": "A. Raj Kapoor\nB. Yash Chopra\nC. Satyajit Ray\nD. Ramesh Sippy",
+    "Answer": "Raj Kapoor"
+  },
+  {
+    "Question": "In the movie 'Satyam Shivam Sundaram', released in 2014, which actress won the Best Actress award at the 26th Filmfare Awards?",
+    "Options": "A. Zeenat Aman\nB. Rekha\nC. Sridevi\nD. Madhuri Dixit",
+    "Answer": "Zeenat Aman"
+  },
+  {
+    "Question": "In the movie 'Satyam Shivam Sundaram' released in 2014, which accolade did Pandit Narendra Sharma receive for his work on the song?",
+    "Options": "A. Best Director\nB. Best Actor\nC. Best Lyricist\nD. Best Music Composer",
+    "Answer": "Best Lyricist"
+  },
+  {
+    "Question": "In the movie 'Satyam Shivam Sundaram' released in 2014, which singer won the Best Male Playback Singer award at the 26th Filmfare Awards for the song 'Chanchal Sheetal'?",
+    "Options": "A. Kumar Sanu\nB. Mohammed Rafi\nC. Mukesh\nD. Sonu Nigam",
+    "Answer": "Mukesh"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "Which of the following statements accurately describe the movie 'Raazi' (2018)?",
+    "Options": "A. 'Raazi' is based on a true story.\nB. The film features a female protagonist who is a spy.\nC. 'Raazi' is set during World War II.\nD. The movie highlights themes of patriotism and sacrifice.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Raazi' (2018), which of the following statements are true regarding the message displayed when trying to access certain features of the program or website?",
+    "Options": "A. The message indicates that further details are required before proceeding.\nB. The message is only displayed for successful access to features.\nC. The message provides information about the program's limitations.\nD. The message is related to accessing features that require additional permissions.",
+    "Answer": "A, D"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following statements about the characters Gene, Mel, and Mary are true?",
+    "Options": "A. Gene is a meh emoji.\nB. Mel and Mary are the parents of Gene.\nC. Mel and Mary are both meh emojis.\nD. Gene is the only child of Mel and Mary.",
+    "Answer": "B) Mel and Mary are the parents of Gene.; C) Mel and Mary are both meh emojis."
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following statements about Gene's parents are true?",
+    "Options": "A. Gene's parents are named Mel and Mary.\nB. Mel and Mary are happy emojis.\nC. Gene is the only child of Mel and Mary.\nD. Mel and Mary are meh emojis.",
+    "Answer": "A, D"
+  },
+  {
+    "Question": "In the movie 'The Emoji Movie' (2017), which of the following statements are true regarding the relationship between Gene and Alex?",
+    "Options": "A. Gene is the main character in the movie.\nB. Alex chooses Gene to send as a text message.\nC. Gene represents a specific emotion.\nD. Alex dislikes Gene's character.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following statements are true regarding the relationship between Smiler and Gene?",
+    "Options": "A. Smiler views Gene as a threat to the emoji community.\nB. Smiler believes Gene is a 'malfunction' that should be deleted.\nC. Gene is a close friend of Smiler.\nD. Smiler supports Gene's journey to become a normal emoji.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following statements are true regarding the relationship between Hi-5 and Gene?",
+    "Options": "A. Hi-5 helps Gene escape from Smiler's bots.\nB. Gene is Hi-5's main rival throughout the film.\nC. Hi-5 and Gene work together to navigate the app world.\nD. Hi-5 is a character that provides emotional support to Gene.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'The Emoji Movie' (2017), which characters are involved in the conflict regarding Gene's actions that affect Alex's phone? Select all that apply.",
+    "Options": "A. Smiler\nB. Gene\nC. Alex\nD. Hi-5",
+    "Answer": "Smiler, Gene, Alex"
+  },
+  {
+    "Question": "In the movie 'The Emoji Movie' (2017), which of the following statements are true regarding the characters Jailbreak and Gene?",
+    "Options": "A. Jailbreak is a hacker emoji.\nB. Gene is looking to become a more popular emoji.\nC. Jailbreak wants to reach Dropbox to live in the cloud.\nD. Gene and Hi-5 do not interact with Jailbreak during their adventure.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', what does Jailbreak reveal about Gene's ability to be fixed?",
+    "Options": "A. Gene can be fixed in the cloud.\nB. Gene cannot be fixed at all.\nC. Gene needs a physical upgrade.\nD. Jailbreak has a special tool to fix Gene.",
+    "Answer": "Gene can be fixed in the cloud."
+  },
+  {
+    "Question": "In the movie 'The Emoji Movie' (2017), which of the following statements are true regarding the characters and their actions related to 'Candy Crush' and 'Jailbreak'?",
+    "Options": "A. Jailbreak is a princess emoji who escapes home.\nB. Candy Crush is a game that Jailbreak escapes into.\nC. Jailbreak and Candy Crush are both games featured in the movie.\nD. Jailbreak helps other emojis escape from their respective games.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following actions involve Gene interacting with the Just Dance app?",
+    "Options": "A. Gene goes off into the Just Dance app\nB. Gene uses the Just Dance app to express himself\nC. Gene competes in a dance-off within the Just Dance app\nD. Gene learns new dance moves from the Just Dance app",
+    "Answer": "Gene goes off into the Just Dance app, Gene uses the Just Dance app to express himself"
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which elements are involved in the escape from being stereotyped in the Just Dance app?",
+    "Options": "A. Just Dance app\nB. Jailbreak\nC. Princess emoji\nD. Texting emoji",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following statements accurately describe the relationship between Gene and Smiler?",
+    "Options": "A. Gene views Smiler as a friend who supports him.\nB. Smiler threatens to delete Gene, creating an enemy relationship.\nC. Gene seeks to challenge Smiler's authority in the Emoji world.\nD. Smiler is jealous of Gene's ability to express multiple emotions.",
+    "Answer": "Smiler threatens to delete Gene, creating an enemy relationship.; Gene seeks to challenge Smiler's authority in the Emoji world."
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following statements are true regarding the relationship between Mel and Smiler?",
+    "Options": "A. Mel and Smiler are friends who support each other.\nB. Smiler poses a threat to delete Mel.\nC. Mel tries to confront Smiler about their differences.\nD. Smiler considers Mel an enemy.",
+    "Answer": "B, D"
+  },
+  {
+    "Question": "In the 2017 movie 'The Emoji Movie', which of the following statements accurately describe the communication relationship between Alex and Addie through text messages?",
+    "Options": "A. Alex uses emojis to express his feelings to Addie.\nB. Addie prefers phone calls over text messages.\nC. Alex and Addie share a close friendship that is reflected in their text exchanges.\nD. Their text messages often include misunderstandings due to emoji interpretations.",
+    "Answer": "Alex uses emojis to express his feelings to Addie., Alex and Addie share a close friendship that is reflected in their text exchanges., Their text messages often include misunderstandings due to emoji interpretations."
+  }
+]

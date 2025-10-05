@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Who did Laurel admit to having killed due to wanting to cancel the product's release?",
+    "Options": "A. George\nB. Catwoman\nC. Dr. Slavicky\nD. Slavicky's body",
+    "Answer": "Dr. Slavicky"
+  },
+  {
+    "Question": "Who was wrongfully accused of killing Dr. Slavicky?",
+    "Options": "A. Laurel\nB. George\nC. Dr. Slavicky\nD. Patience Phillips",
+    "Answer": "Patience Phillips"
+  },
+  {
+    "Question": "Who was responsible for the death of Dr. Slavicky?",
+    "Options": "A. George\nB. Catwoman\nC. Laurel\nD. Dr. Slavicky himself",
+    "Answer": "Laurel"
+  },
+  {
+    "Question": "Who was wrongly accused of killing Dr. Slavicky in *Catwoman*?",
+    "Options": "A. Laurel\nB. Dr. Slavicky\nC. Patience Phillips\nD. Catwoman",
+    "Answer": "Patience Phillips"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which individuals or entities were associated with the production of a film by Excel Entertainment?",
+    "Options": "A. Aamir Khan\nB. Excel Entertainment\nC. Nitya Mehra\nD. Karan Johar",
+    "Answer": "Aamir Khan, Excel Entertainment, Nitya Mehra"
+  },
+  {
+    "Question": "Which individuals or entities were associated with the project produced by Excel Entertainment?",
+    "Options": "A. Deepika Padukone\nB. Excel Entertainment\nC. Nitya Mehra\nD. Karan Johar",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which individuals or entities were involved in the production of the film associated with Nitya Mehra?",
+    "Options": "A. Anushka Sharma\nB. Excel Entertainment\nC. Nitya Mehra\nD. Karan Johar",
+    "Answer": "Anushka Sharma, Excel Entertainment, Nitya Mehra"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the production of the film involving Karan Johar and Nitya Mehra?",
+    "Options": "A. Karan Johar co-produced the film with Excel Entertainment.\nB. Nitya Mehra made her directorial debut with Excel Entertainment.\nC. Excel Entertainment was involved in the production of the film.\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the film produced by Excel Entertainment?",
+    "Options": "A. a) Sidharth Malhotra was announced as the male lead.\nB. b) Nitya Mehra made her directorial debut with Excel Entertainment.\nC. c) Excel Entertainment produced the film 'Baar Baar Dekho'.\nD. d) Nitya Mehra was an assistant director for 'Life of Pi'.",
+    "Answer": "a) Sidharth Malhotra was announced as the male lead., b) Nitya Mehra made her directorial debut with Excel Entertainment., d) Nitya Mehra was an assistant director for 'Life of Pi'."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the film *Baar Baar Dekho*?",
+    "Options": "A. Katrina Kaif starred in the film opposite Sidharth Malhotra.\nB. Sidharth Malhotra was announced as the male lead for the film.\nC. Excel Entertainment produced *Baar Baar Dekho*.\nD. All of the above",
+    "Answer": "All of the above"
+  }
+]

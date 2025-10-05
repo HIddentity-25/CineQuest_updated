@@ -1,0 +1,114 @@
+[
+    {
+        "Question": "\"Did Cooper make his directorial debut with a movie other than 'A Star Is Born' in 2018?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Cooper make his directorial debut with 'A Star Is Born' in 2018?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Ray Liotta play the role of the manager to Cooper's character in the 2018 movie 'A Star Is Born'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was Ray Liotta in talks to join the film 'A Star Is Born' in 2016, two years before its release in 2018?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Sam Elliott join the film 'A Star Is Born' after its release in 2018?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Sam Elliott join the production of 'A Star Is Born' in 2017, before its release in 2018?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Rafi Gavron join the cast of 'A Star Is Born' after its release in 2018?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Rafi Gavron join the cast of 'A Star Is Born' in April 2017?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was Dave Chappelle not a part of the cast in the 2018 movie 'A Star Is Born'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was Dave Chappelle cast in the 2018 movie 'A Star Is Born'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Halsey have a major role in the 2018 movie 'A Star Is Born'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was it announced in April 2018 that Halsey would have a small role in the movie 'A Star Is Born'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did the filming for 'A Star Is Born' begin in 2019?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did the filming for 'A Star Is Born' start on April 17, 2017?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Nelson meet Lady Gaga after the release of 'A Star Is Born' in 2018?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Nelson collaborate with Lady Gaga in songwriting for the movie 'A Star Is Born' released in 2018?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the soundtrack for the 2018 movie 'A Star Is Born' not performed by Gaga and Cooper?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the soundtrack for 'A Star Is Born', released in 2018, performed by Gaga and Cooper?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was the album for the movie 'A Star Is Born' released in 2018 under the title 'Call Me By Your Name'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is the movie 'A Star Is Born' from the year 2018, related to the production context?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did the studio announce that the album 'Call Me By Your Name' was released in 2018 by a company other than Interscope Records in the film 'A Star Is Born'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the context of the 2018 movie 'A Star Is Born', was Interscope Records involved in releasing the album 'Call Me By Your Name'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was the movie 'A Star Is Born' released in 2018 on a date other than October 5th?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was the movie 'A Star Is Born' released on October 5, 2018?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did the 2018 movie 'A Star Is Born' feature an album called 'Call Me By Your Name' with less than 19 songs?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did the studio announce that the album for the movie 'A Star Is Born' released in 2018, features 19 songs in a wide range of musical styles?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did the studio announce that the album for 'A Star Is Born' released in 2018 features 15 dialogue tracks?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the number of dialogue tracks mentioned in the studio's announcement for the movie 'A Star Is Born' released in 2018?\"]",
+        "Answer": "yes"
+    }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Question": "Which of the following accolades were associated with the movie 'Gods of Egypt' released in 2016?",
+    "Options": "A. Best Original Music Score nomination\nB. Best Visual Effects nomination\nC. Best Production Design nomination\nD. Best Costume Design nomination",
+    "Answer": "Best Original Music Score nomination"
+  },
+  {
+    "Question": "Which of the following individuals were part of the sound team nominated for Best Sound at the AACTA Awards for the movie 'Gods of Egypt' released in 2016?",
+    "Options": "A. Wayne Pashley\nB. Peter Grace\nC. Derryn Pasquill\nD. John Doe",
+    "Answer": "Wayne Pashley, Peter Grace, Derryn Pasquill"
+  },
+  {
+    "Question": "In the movie 'Gods of Egypt' (2016), which of the following accolades are associated with costume designer Liz Palmer?",
+    "Options": "A. Nominated for Best Costume Design at the AACTA Awards\nB. Won Best Costume Design at the Oscars\nC. Nominated for Best Costume Design at the BAFTA Awards\nD. Worked on the costume design for other major films",
+    "Answer": "Nominated for Best Costume Design at the AACTA Awards, Worked on the costume design for other major films"
+  },
+  {
+    "Question": "Which of the following individuals were part of the visual effects team nominated for Best Visual Effects or Animation at the AACTA Awards for the movie 'Gods of Egypt' released in 2016?",
+    "Options": "A. Eric Durst\nB. Jack Geist\nC. Andrew Hellen\nD. Julian Dimsey",
+    "Answer": "Eric Durst, Jack Geist, Andrew Hellen, Julian Dimsey"
+  },
+  {
+    "Question": "Which of the following accolades were associated with the hair and makeup team for the movie 'Gods of Egypt' (2016)?",
+    "Options": "A. Nominated for Best Hair and Makeup at the AACTA Awards\nB. Won Best Costume Design at the Academy Awards\nC. Nominated for Best Visual Effects at the BAFTA Awards\nD. Recognized for Best Hair and Makeup at the AACTA Awards",
+    "Answer": "Nominated for Best Hair and Makeup at the AACTA Awards, Recognized for Best Hair and Makeup at the AACTA Awards"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the movie 'Gods of Egypt' released in 2016?",
+    "Options": "A. Alex Proyas was nominated for Worst Director at the Golden Raspberry Awards.\nB. The movie received multiple nominations at the Academy Awards.\nC. 'Gods of Egypt' was directed by Alex Proyas.\nD. The film was critically panned and received negative reviews.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "Which of the following statements are true regarding Gerard Butler's performance in the movie 'Gods of Egypt' (2016)?",
+    "Options": "A. Gerard Butler was nominated for Worst Actor at the Golden Raspberry Awards.\nB. Gerard Butler received critical acclaim for his role in the film.\nC. The movie was released in 2016.\nD. Gerard Butler played a leading role in 'Gods of Egypt'.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the movie 'Gods of Egypt' released in 2016?",
+    "Options": "A. The screenwriters Matt Sazama and Burk Sharpless received a nomination for Worst Screenplay.\nB. 'Gods of Egypt' was nominated for Best Picture at the Oscars.\nC. The Golden Raspberry Awards recognized the screenplay of 'Gods of Egypt' as one of the worst.\nD. Matt Sazama and Burk Sharpless are known for their work on other popular films.",
+    "Answer": "A) The screenwriters Matt Sazama and Burk Sharpless received a nomination for Worst Screenplay., C) The Golden Raspberry Awards recognized the screenplay of 'Gods of Egypt' as one of the worst."
+  },
+  {
+    "Question": "In the context of the movie 'Gods of Egypt' released in 2016, which of the following statements are true regarding the accolades associated with the producers?",
+    "Options": "A. Basil Iwanyk and Alex Proyas were nominated for Worst Film.\nB. The film received multiple awards for its visual effects.\nC. The producers were recognized for their contributions to the film industry.\nD. The movie was nominated for Worst Film at the Houston Film Critics Society.",
+    "Answer": "A, D"
+  }
+]

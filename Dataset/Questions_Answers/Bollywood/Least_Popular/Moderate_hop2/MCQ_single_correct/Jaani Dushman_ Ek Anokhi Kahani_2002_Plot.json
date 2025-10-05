@@ -1,0 +1,962 @@
+[
+  {
+    "Question": "Who is looked after by Karan Saxena as if he were his brother?",
+    "Options": "A. Divya\nB. Karan Saxena\nC. Vivek\nD. Rahul",
+    "Answer": "Vivek"
+  },
+  {
+    "Question": "Who is accused of stabbing Vivek, leading to Karan's arrest?",
+    "Options": "A. Karan Saxena\nB. Kapil\nC. Vivek\nD. Karan",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is involved in the accusation related to Vivek's stabbing?",
+    "Options": "A. Preeti\nB. Vivek\nC. Karan\nD. Kapil",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who was fatally wounded by Kapil, leading to the arrest of Karan?",
+    "Options": "A. Karan\nB. Vivek\nC. Kapil\nD. Rohan",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is a member of the same group of best friends as Divya?",
+    "Options": "A. Atul\nB. Prem Srivastav\nC. Rahul\nD. Sita",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "Who is currently dating Atul?",
+    "Options": "A. Divya\nB. Pinky Campbell\nC. Neha\nD. Sita",
+    "Answer": "Pinky Campbell"
+  },
+  {
+    "Question": "What item was crucial in helping Atul survive an attack in the story involving Divya?",
+    "Options": "A. ring\nB. bracelet\nC. necklace\nD. earrings",
+    "Answer": "necklace"
+  },
+  {
+    "Question": "Which character is part of the same group of best friends as Divya?",
+    "Options": "A. Atul\nB. Karan\nC. Vivek\nD. Rohan",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "Who is involved in a conflict with Atul while attempting to save Vivek's life?",
+    "Options": "A. Divya\nB. Kapil\nC. Vivek\nD. Atul",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is the ghost that refuses to believe in the innocence of Atul and his friends?",
+    "Options": "A. Atul\nB. Divya\nC. Prem Srivastav\nD. Principal Joseph",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is dating Atul in the movie 'Jaani Dushman: Ek Anokhi Kahani'?",
+    "Options": "A. Divya\nB. Pinky Campbell\nC. Principal Joseph\nD. Anjali",
+    "Answer": "Pinky Campbell"
+  },
+  {
+    "Question": "What object played a crucial role in Atul's survival during the attack by Kapil?",
+    "Options": "A. Divya\nB. Necklace\nC. Principal Joseph\nD. Atul's friends",
+    "Answer": "Necklace"
+  },
+  {
+    "Question": "Who is the ghost that is summoned by Atul and his friends in the movie 'Jaani Dushman: Ek Anokhi Kahani'?",
+    "Options": "A. Divya\nB. Karan\nC. Vivek\nD. Principal Joseph",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is the character that tries to kill Atul while attempting to save Vivek's life?",
+    "Options": "A. Divya\nB. Atul\nC. Kapil\nD. Vivek",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is assured by the principal that they cannot be harmed by supernatural forces when wearing the necklace?",
+    "Options": "A. Atul\nB. Principal Joseph\nC. Prem Srivastav\nD. The group of friends",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who is dating Pinky Campbell in the movie?",
+    "Options": "A. Principal Joseph\nB. Atul\nC. The supernatural forces\nD. The group",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "What item did Principal Joseph give to the group that protects them from supernatural forces?",
+    "Options": "A. amulet\nB. ring\nC. necklace\nD. bracelet",
+    "Answer": "necklace"
+  },
+  {
+    "Question": "Who received necklaces with higher powers from Principal Joseph that protect them from supernatural forces?",
+    "Options": "A. Atul\nB. Karan\nC. Vivek\nD. Ravi",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is involved in a conflict while trying to save Vivek's life?",
+    "Options": "A. Principal Joseph\nB. Atul\nC. Kapil\nD. Vivek",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who fights against Vijay in a boxing match as part of a plan involving Preeti's father?",
+    "Options": "A. Divya\nB. Vijay\nC. Raju\nD. Preeti",
+    "Answer": "Raju"
+  },
+  {
+    "Question": "Who fights against Vijay in a boxing match as part of a plan involving Preeti's father?",
+    "Options": "A. Divya\nB. Raju\nC. Kapil\nD. Vijay",
+    "Answer": "Raju"
+  },
+  {
+    "Question": "Who was involved in a boxing match to remove Vijay from the picture as part of a plan?",
+    "Options": "A. Divya\nB. Vijay\nC. Raju\nD. Preeti",
+    "Answer": "Raju"
+  },
+  {
+    "Question": "Who is secretly in love with Rashmi?",
+    "Options": "A. Atul\nB. Prem Srivastav\nC. Ravi\nD. Sanjay",
+    "Answer": "Prem Srivastav"
+  },
+  {
+    "Question": "Who is secretly in love with Rashmi in the movie?",
+    "Options": "A. Prem Srivastav\nB. Rashmi\nC. Ashok Kejriwal\nD. Rajesh",
+    "Answer": "Prem Srivastav"
+  },
+  {
+    "Question": "Who is secretly in love with Rashmi and is the reason she is willing to give a false statement?",
+    "Options": "A. Prem Srivastav\nB. Rashmi\nC. Amit\nD. Rajesh",
+    "Answer": "Prem Srivastav"
+  },
+  {
+    "Question": "Who is dating Rashmi in the movie?",
+    "Options": "A. Kapil\nB. Ashok Kejriwal\nC. Prem\nD. Rashmi's father",
+    "Answer": "Ashok Kejriwal"
+  },
+  {
+    "Question": "Who is willing to give a false statement in court due to their feelings for Prem?",
+    "Options": "A. Kapil\nB. Rashmi\nC. Prem\nD. The judge",
+    "Answer": "Rashmi"
+  },
+  {
+    "Question": "Who is engaged to Divya in the group of friends that includes Victor?",
+    "Options": "A. Victor\nB. Karan Saxena\nC. Rahul\nD. Siddharth",
+    "Answer": "Karan Saxena"
+  },
+  {
+    "Question": "Which individual is in the same group of friends as Victor?",
+    "Options": "A. Divya\nB. Atul\nC. Rahul\nD. Sita",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is in the same group of friends as Victor?",
+    "Options": "A. Divya\nB. Vijay\nC. Rahul\nD. Sita",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is part of the same group of friends as Victor in the movie 'Jaani Dushman: Ek Anokhi Kahani'?",
+    "Options": "A. Victor\nB. Rajesh\nC. Karan\nD. Anita",
+    "Answer": "Victor"
+  },
+  {
+    "Question": "Which character is involved in a tragic event leading to severe consequences in the story?",
+    "Options": "A. Victor\nB. Divya\nC. Madan\nD. Raj",
+    "Answer": "Madan"
+  },
+  {
+    "Question": "Who is summoned by Atul and his friends with the help of their Principal Joseph?",
+    "Options": "A. Victor\nB. Divya\nC. Atul\nD. Joseph",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who helped summon Divya's ghost in the story?",
+    "Options": "A. Victor\nB. Divya\nC. Principal Joseph\nD. Atul",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who is impersonated by Kapil, leading to a serious incident with Atul?",
+    "Options": "A. Victor\nB. Divya\nC. Nita\nD. Atul",
+    "Answer": "Nita"
+  },
+  {
+    "Question": "Who is the nemesis that Divya kills after entering Prem's body?",
+    "Options": "A. Victor\nB. Ashok\nC. Prem\nD. Raj",
+    "Answer": "Ashok"
+  },
+  {
+    "Question": "Who is involved in the act of entering Vijay's body and knocking him out?",
+    "Options": "A. Victor\nB. Divya\nC. Kapil\nD. Vijay",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Which character's actions lead to a tragic outcome involving jumping off the terrace in the story?",
+    "Options": "A. Victor\nB. Divya\nC. Vijay\nD. Raj",
+    "Answer": "Vijay"
+  },
+  {
+    "Question": "Who is the character that is in love and engaged to Divya?",
+    "Options": "A. Rajesh\nB. Karan Saxena\nC. Ravi\nD. Suresh",
+    "Answer": "Karan Saxena"
+  },
+  {
+    "Question": "Who is always lusted after by Rajesh?",
+    "Options": "A. Divya\nB. Atul\nC. Rajesh\nD. None of the above",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is known for always lusting for Divya in their group of friends?",
+    "Options": "A. Rajesh\nB. Divya\nC. Vijay\nD. Rahul",
+    "Answer": "Rajesh"
+  },
+  {
+    "Question": "Who is characterized by always lusting for Divya in the story?",
+    "Options": "A. Rajesh\nB. Divya\nC. The Fort\nD. The Villain",
+    "Answer": "Rajesh"
+  },
+  {
+    "Question": "Who is involved in a storyline that leads to tragic consequences for Divya in the film?",
+    "Options": "A. Rajesh\nB. Madan\nC. Ravi\nD. Suresh",
+    "Answer": "Rajesh"
+  },
+  {
+    "Question": "Who is the character that summons Divya's ghost with the help of Principal Joseph?",
+    "Options": "A. Rajesh\nB. Atul\nC. Divya\nD. Joseph",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "Who helped Atul and his friends summon Divya's ghost?",
+    "Options": "A. Rajesh\nB. Divya\nC. Principal Joseph\nD. Atul",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who is the character that Kapil impersonates and injures Atul in the story?",
+    "Options": "A. Rajesh\nB. Divya\nC. Nita\nD. Atul",
+    "Answer": "Nita"
+  },
+  {
+    "Question": "Who is the character that is killed by Divya after she enters Prem's body?",
+    "Options": "A. Rajesh\nB. Divya\nC. Ashok\nD. Prem",
+    "Answer": "Ashok"
+  },
+  {
+    "Question": "Who is the character that Divya attempts to enter in order to knock him out?",
+    "Options": "A. Rajesh\nB. Vijay\nC. Kapil\nD. Ramesh",
+    "Answer": "Vijay"
+  },
+  {
+    "Question": "Who is the character that experiences a tragic fate due to Divya's influence in the story?",
+    "Options": "A. Rajesh\nB. Divya\nC. Vijay\nD. Ravi",
+    "Answer": "Vijay"
+  },
+  {
+    "Question": "Who is in love with Divya and engaged to her in the story?",
+    "Options": "A. Divya's friends\nB. Karan Saxena\nC. Rajesh Kumar\nD. Anil Mehta",
+    "Answer": "Karan Saxena"
+  },
+  {
+    "Question": "Who is part of the same group of best friends as Divya in the context of the story?",
+    "Options": "A. Divya's friends\nB. Ravi\nC. Sita\nD. Mohan",
+    "Answer": "Divya's friends"
+  },
+  {
+    "Question": "Which character is in the same group of best friends as Divya?",
+    "Options": "A. Divya's friends\nB. Ravi\nC. Sita\nD. Raj",
+    "Answer": "Divya's friends"
+  },
+  {
+    "Question": "Who was involved in tricking Divya's friends into coming to an abandoned fort?",
+    "Options": "A. Divya\nB. Rajesh\nC. Amit\nD. Suresh",
+    "Answer": "Rajesh"
+  },
+  {
+    "Question": "Who was involved in brutally raping Divya and prompting her to kill herself in the story?",
+    "Options": "A. Divya's friends\nB. Madan\nC. Amit\nD. Ravi",
+    "Answer": "Madan"
+  },
+  {
+    "Question": "Who is summoned by Atul and his friends with the help of their Principal Joseph in the story?",
+    "Options": "A. Divya's friends\nB. Divya\nC. Atul\nD. Principal Joseph",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who helped summon Divya's ghost in the story involving her friends?",
+    "Options": "A. Divya's friends\nB. Principal Joseph\nC. Atul's friends\nD. The school staff",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who was impersonated by Kapil and became a victim in the conflict involving Atul?",
+    "Options": "A. Divya's friends\nB. Nita\nC. Atul\nD. Kapil",
+    "Answer": "Nita"
+  },
+  {
+    "Question": "Who is killed by Divya when she enters Prem's body?",
+    "Options": "A. Divya's friends\nB. Ashok\nC. Prem\nD. Ravi",
+    "Answer": "Ashok"
+  },
+  {
+    "Question": "Who is involved in a controversial situation where Divya enters their body to take action against them?",
+    "Options": "A. Divya's friends\nB. Divya\nC. Vijay\nD. Kapil",
+    "Answer": "Vijay"
+  },
+  {
+    "Question": "Who was involved in the tragic events leading to the death of Vijay after Divya entered his body?",
+    "Options": "A. Divya's friends\nB. Divya\nC. Vijay\nD. The fort's spirit",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is engaged to Divya in the story?",
+    "Options": "A. Principal Joseph\nB. Karan Saxena\nC. Ravi Kumar\nD. Anil Sharma",
+    "Answer": "Karan Saxena"
+  },
+  {
+    "Question": "Who received necklaces with higher powers from Principal Joseph to protect against supernatural forces?",
+    "Options": "A. Divya\nB. Atul\nC. Principal Joseph\nD. None of the above",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who is a member of the same group of best friends as Divya?",
+    "Options": "A. Principal Joseph\nB. Vijay\nC. Rahul\nD. Sita",
+    "Answer": "Vijay"
+  },
+  {
+    "Question": "Who is assured by the principal that they cannot be harmed by supernatural forces when wearing the necklace?",
+    "Options": "A. Divya\nB. Rajesh\nC. The principal\nD. The group",
+    "Answer": "The group"
+  },
+  {
+    "Question": "Who is the character that is assured by the principal that they cannot be harmed by supernatural forces when wearing the necklace?",
+    "Options": "A. principal joseph\nB. divya\nC. madan\nD. the group",
+    "Answer": "madan"
+  },
+  {
+    "Question": "Who is the character that summons Divya's ghost with the help of Principal Joseph?",
+    "Options": "A. Principal Joseph\nB. Divya\nC. Atul\nD. Supernatural Forces",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "Who provides a group with necklaces that protect them from supernatural forces in the story?",
+    "Options": "A. Atul\nB. Divya\nC. Principal Joseph\nD. The ghost",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who is assured by the principal that they cannot be harmed by supernatural forces when wearing the necklace?",
+    "Options": "A. principal joseph\nB. divya\nC. nita\nD. Atul",
+    "Answer": "nita"
+  },
+  {
+    "Question": "Who is the character that is killed by Divya after she enters Prem's body?",
+    "Options": "A. Principal Joseph\nB. Divya\nC. Ashok\nD. Prem",
+    "Answer": "Ashok"
+  },
+  {
+    "Question": "Who is the character that is involved in a supernatural act by entering another character's body?",
+    "Options": "A. Principal Joseph\nB. Divya\nC. Kapil\nD. Vijay",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is the character that enters another's body, leading to a tragic event in the story?",
+    "Options": "A. Principal Joseph\nB. Divya\nC. Vijay\nD. The supernatural forces",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is engaged to Divya in the movie?",
+    "Options": "A. Raju\nB. Karan Saxena\nC. Vijay\nD. The Principal",
+    "Answer": "Karan Saxena"
+  },
+  {
+    "Question": "Who is a member of the same group of best friends as Divya?",
+    "Options": "A. Raju\nB. Atul\nC. Vijay\nD. Principal",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "Who was almost knocked out by Divya when she entered Raju's body?",
+    "Options": "A. Raju\nB. Divya\nC. Vijay\nD. The principal",
+    "Answer": "Vijay"
+  },
+  {
+    "Question": "Who is involved in a scenario where Divya enters Raju's body to confront Vijay?",
+    "Options": "A. Raju\nB. Divya\nC. Rajesh\nD. Vijay",
+    "Answer": "Raju"
+  },
+  {
+    "Question": "Who is involved in a storyline that leads to a tragic event in the film?",
+    "Options": "A. raju\nB. divya\nC. madan\nD. vijay",
+    "Answer": "madan"
+  },
+  {
+    "Question": "Who is the character that is summoned by Atul and his friends with the help of their Principal Joseph?",
+    "Options": "A. Raju\nB. Divya\nC. Vijay\nD. Principal Joseph",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who used his paraphernalia to block Divya's presence in Raju's body?",
+    "Options": "A. Raju\nB. Divya\nC. Principal Joseph\nD. Atul",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who is impersonated by Kapil and is involved in a violent incident with Atul?",
+    "Options": "A. Raju\nB. Divya\nC. Nita\nD. Vijay",
+    "Answer": "Nita"
+  },
+  {
+    "Question": "Who was killed by Divya when she entered Prem's body?",
+    "Options": "A. Raju\nB. Divya\nC. Ashok\nD. Vijay",
+    "Answer": "Ashok"
+  },
+  {
+    "Question": "Who was almost knocked out by Divya entering Raju's body?",
+    "Options": "A. Raju\nB. Divya\nC. Vijay\nD. Kapil",
+    "Answer": "Vijay"
+  },
+  {
+    "Question": "Who is the character that enters Raju's body and almost knocks out Vijay in the movie?",
+    "Options": "A. Raju\nB. Divya\nC. Vijay\nD. Principal",
+    "Answer": "Raju"
+  },
+  {
+    "Question": "What was the name of Divya in her past life, where she was in love with Kapil?",
+    "Options": "A. Vasundhara\nB. Sita\nC. Radha\nD. Meera",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "Who was cursed by an angry sage due to their love life being disturbed?",
+    "Options": "A. Divya\nB. Kapil\nC. Sage\nD. Vasundhara",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "What was the name of Divya in her past life when she was in love with Kapil?",
+    "Options": "A. Vasundhara\nB. Kavya\nC. Sita\nD. Radha",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "Who was cursed with separation due to disturbing an angry sage in a past life?",
+    "Options": "A. Divya\nB. Kapil\nC. Vasundhara\nD. Sage",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "What is the motivation behind the actions of Divya in her quest for revenge in the present?",
+    "Options": "A. To find Kapil\nB. To seek revenge on everyone in the group\nC. To break the curse\nD. To learn about her past life",
+    "Answer": "To seek revenge on everyone in the group"
+  },
+  {
+    "Question": "In the story of Divya and Vasundhara, who was the character that had magical powers and was in love with Divya in her past life?",
+    "Options": "A. Vasundhara\nB. Kapil\nC. Victor\nD. The angry sage",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "What was the name of Divya in her past life, in which she was in love with Kapil?",
+    "Options": "A. Vasundhara\nB. Meera\nC. Sita\nD. Radha",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "In the story, who is the character that Kapil shapeshifts into during the court proceedings?",
+    "Options": "A. Divya\nB. Vasundhara\nC. Rashmi\nD. Sage",
+    "Answer": "Rashmi"
+  },
+  {
+    "Question": "Who is the character that Divya learns was a significant part of her past life, being in love with her and possessing magical powers?",
+    "Options": "A. Kapil\nB. Karan\nC. Rohan\nD. Vikram",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who was in love with Kapil in a past life as revealed in the story of Divya?",
+    "Options": "A. Vasundhara\nB. Karan\nC. Vivek\nD. The angry sage",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "What was the name of Divya in her past life, in which she was in love with Kapil?",
+    "Options": "A. Divya\nB. Vasundhara\nC. Sita\nD. Radha",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "What supernatural ability did Vasundhara's lover possess in their past life?",
+    "Options": "A. Magical powers\nB. Telepathy\nC. Shape-shifting\nD. Invisibility",
+    "Answer": "Magical powers"
+  },
+  {
+    "Question": "In a past life, who was in love with Vasundhara and faced separation due to a curse?",
+    "Options": "A. Kapil\nB. Divya/Vasundhara (past life)\nC. An angry sage\nD. A cursed soul",
+    "Answer": "Divya/Vasundhara (past life)"
+  },
+  {
+    "Question": "In a past life, who was separated from Kapil by a curse until the 21st century?",
+    "Options": "A. Kapil\nB. Divya/Vasundhara\nC. Sage\nD. Supernatural Being",
+    "Answer": "Divya/Vasundhara"
+  },
+  {
+    "Question": "In a past life, who was in love with Kapil, who possessed magical powers and supernatural strength?",
+    "Options": "A. Divya/Vasundhara\nB. Sita\nC. Radha\nD. Meera",
+    "Answer": "Divya/Vasundhara"
+  },
+  {
+    "Question": "In the past life, who was the reason for Kapil's penance due to disturbing an angry sage?",
+    "Options": "A. Divya\nB. Kapil\nC. Vasundhara\nD. Sage",
+    "Answer": "Sage"
+  },
+  {
+    "Question": "What motivated Divya/Vasundhara in her quest in the 21st century?",
+    "Options": "A. To seek peace and reconciliation\nB. To find Kapil\nC. To take revenge on everyone in the group\nD. To break the curse",
+    "Answer": "To take revenge on everyone in the group"
+  },
+  {
+    "Question": "In a past life, who was separated from Kapil by a curse until the 21st century?",
+    "Options": "A. Divya\nB. Victor\nC. Kapil\nD. None of the above",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "What significant event is linked to the past life of Divya/Vasundhara?",
+    "Options": "A. The curse that separated them\nB. The death of Abdul\nC. The party in Lonavala\nD. The 21st century reunion",
+    "Answer": "The death of Abdul"
+  },
+  {
+    "Question": "In the story, who is the character that Kapil shapeshifts into and uses to accuse Prem of murder in court?",
+    "Options": "A. Divya\nB. Vasundhara\nC. Rashmi\nD. Sita",
+    "Answer": "Rashmi"
+  },
+  {
+    "Question": "In a past life, who was separated from Kapil by a curse until the 21st century?",
+    "Options": "A. Divya\nB. Karan\nC. Kapil\nD. Vasundhara",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "In the context of a past life, who was separated from Kapil by a curse until the 21st century?",
+    "Options": "A. Divya/Vasundhara\nB. Karan\nC. Vivek\nD. Ravi",
+    "Answer": "Divya/Vasundhara"
+  },
+  {
+    "Question": "Who is connected to Divya/Vasundhara through a curse that separated them until the 21st century?",
+    "Options": "A. Kapil\nB. Vasundhara\nC. Arjun\nD. Ravi",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "What ability does Kapil possess that is significant to the story of Divya/Vasundhara's past life?",
+    "Options": "A. Cursed\nB. Supernatural powers\nC. Reincarnated\nD. Separated",
+    "Answer": "Supernatural powers"
+  },
+  {
+    "Question": "Who is associated with the higher powers and protection against supernatural forces in the story?",
+    "Options": "A. Kapil\nB. Divya\nC. Principal Joseph\nD. Vasundhara",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who provides the group with necklaces that protect them from supernatural forces?",
+    "Options": "A. Kapil\nB. Sage\nC. Principal Joseph\nD. An Immortal Being",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who was in love with Kapil in a past life and is connected to supernatural themes?",
+    "Options": "A. principal joseph\nB. Divya\nC. Kapil\nD. Vasundhara",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "Who had to undergo penance until the 21st century due to disturbing an angry sage?",
+    "Options": "A. Principal Joseph\nB. Kapil\nC. The Sage\nD. The Necklace",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "What motivates the principal to take action against the group after learning of Divya's death?",
+    "Options": "A. principal joseph\nB. revenge on everyone in the group\nC. kapil\nD. the supernatural forces",
+    "Answer": "revenge on everyone in the group"
+  },
+  {
+    "Question": "Who is assured by the principal that they cannot be harmed by supernatural forces when wearing the necklace?",
+    "Options": "A. principal joseph\nB. kapil\nC. victor\nD. the group",
+    "Answer": "victor"
+  },
+  {
+    "Question": "What event is associated with the death of Abdul in the context of the supernatural powers given by Principal Joseph?",
+    "Options": "A. Principal Joseph\nB. Kapil\nC. Victor\nD. The group",
+    "Answer": "Principal Joseph"
+  },
+  {
+    "Question": "Who is accused of murder in court after shapeshifting into another character?",
+    "Options": "A. Principal Joseph\nB. Kapil\nC. Rashmi\nD. Prem",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is targeted for assassination by Kapil after he assumes his identity?",
+    "Options": "A. Principal Joseph\nB. Karan\nC. The principal\nD. The group",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who was fatally wounded while stopping Kapil from committing murder?",
+    "Options": "A. Principal Joseph\nB. Kapil\nC. Karan\nD. Vivek",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is killed by Kapil and is later reunited with him in heaven?",
+    "Options": "A. Principal Joseph\nB. Kapil\nC. Vasundhara\nD. The Necklace",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "What does the principal give to the group to protect them from supernatural forces?",
+    "Options": "A. A magical book\nB. A shield\nC. Necklaces with higher powers\nD. A potion",
+    "Answer": "Necklaces with higher powers"
+  },
+  {
+    "Question": "In the story, who is connected to a past life love affair that was cursed by an angry sage?",
+    "Options": "A. Karan\nB. Kapil\nC. Divya\nD. Vasundhara",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who warns Kapil about a potential defeat or death by a supernatural being considered an equal opponent?",
+    "Options": "A. Karan\nB. Kapil\nC. Sage\nD. The Principal",
+    "Answer": "Sage"
+  },
+  {
+    "Question": "Who was in love with Kapil in a past life and is associated with a magical narrative?",
+    "Options": "A. Karan\nB. Divya/Vasundhara\nC. Kapil\nD. The Principal",
+    "Answer": "Divya/Vasundhara"
+  },
+  {
+    "Question": "Who had to undergo penance until the 21st century due to disturbing an angry sage in a past life?",
+    "Options": "A. Karan\nB. Kapil\nC. Sage\nD. Rohan",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "What motivated Karan's actions against everyone in the group?",
+    "Options": "A. Karan\nB. Kapil\nC. Divya\nD. The college principal",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is the character that receives a lift from a driver in the story?",
+    "Options": "A. Karan\nB. Kapil\nC. Victor\nD. Rohan",
+    "Answer": "Victor"
+  },
+  {
+    "Question": "What significant event occurs involving Abdul in the story where Karan and Kapil impersonate their college principal?",
+    "Options": "A. Karan\nB. Kapil\nC. Death of Abdul\nD. Victor",
+    "Answer": "Death of Abdul"
+  },
+  {
+    "Question": "Who is impersonated by Kapil during the court scene in the story?",
+    "Options": "A. Karan\nB. Kapil\nC. Rashmi\nD. Prem",
+    "Answer": "Rashmi"
+  },
+  {
+    "Question": "Who is the character that Kapil tries to kill after assuming his identity in the story?",
+    "Options": "A. Karan\nB. Kapil\nC. The Principal\nD. The College Dean",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who breaks out of the police lockup to stop Kapil from killing Vivek in the story?",
+    "Options": "A. Karan\nB. Kapil\nC. Vivek\nD. The Principal",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is killed by Kapil and is said to reunite with him in heaven?",
+    "Options": "A. Karan\nB. Kapil\nC. Vasundhara\nD. The Principal",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "Which character possesses supernatural powers in the story involving Karan and Kapil?",
+    "Options": "A. Karan\nB. Kapil\nC. The college principal\nD. The antagonist",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "In a past life, who was in love with Vasundhara before their love life was shattered by a curse?",
+    "Options": "A. Atul\nB. Kapil\nC. Vivek\nD. An angry sage",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is warned by the sage about being defeated or killed by a supernatural opponent?",
+    "Options": "A. Atul\nB. Kapil\nC. Vivek\nD. Sage",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "In a past life, who was in love with Kapil, who possessed magical powers and near-immortality?",
+    "Options": "A. Atul\nB. Divya\nC. Vasundhara\nD. Vivek",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "Who had to undergo penance until the 21st century due to disturbing an angry sage?",
+    "Options": "A. Atul\nB. Kapil\nC. Vivek\nD. Sage",
+    "Answer": "Sage"
+  },
+  {
+    "Question": "What motivated Atul to seek revenge on everyone in the group?",
+    "Options": "A. A desire for justice\nB. A promise made after learning of Divya's death\nC. A personal vendetta against Kapil\nD. A quest for redemption",
+    "Answer": "A promise made after learning of Divya's death"
+  },
+  {
+    "Question": "Who is the character that tries to kill Atul while attempting to save Vivek's life?",
+    "Options": "A. Atul\nB. Kapil\nC. Victor\nD. Vivek",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "What event is associated with Atul in the context of Kapil's actions?",
+    "Options": "A. Atul's heroic act\nB. Kapil's betrayal\nC. Death of Abdul\nD. Vivek's rescue",
+    "Answer": "Death of Abdul"
+  },
+  {
+    "Question": "Who is accused of murder in court after Kapil shapeshifts into them?",
+    "Options": "A. Atul\nB. Kapil\nC. Rashmi\nD. Vivek",
+    "Answer": "Rashmi"
+  },
+  {
+    "Question": "Who was the target of Kapil's attack while he was trying to save Vivek's life?",
+    "Options": "A. Atul\nB. Karan\nC. Vivek\nD. Rahul",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "Who intervened to stop Kapil from killing Vivek but was fatally wounded in the process?",
+    "Options": "A. Atul\nB. Kapil\nC. Karan\nD. Vivek",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is killed by Kapil and is later said to reunite with him in heaven?",
+    "Options": "A. Atul\nB. Vivek\nC. Vasundhara\nD. Ravi",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "What ability does Kapil possess in the context of the story involving Atul?",
+    "Options": "A. Atul\nB. Kapil\nC. Vivek\nD. Amit",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Which character impersonates the college principal along with Karan in the story?",
+    "Options": "A. Divya\nB. Karan\nC. Kapil\nD. Vasundhara",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who survives as the only survivor among his best friends after Karan's fatal wounding?",
+    "Options": "A. Divya\nB. Karan\nC. Vivek\nD. Kapil",
+    "Answer": "Vivek"
+  },
+  {
+    "Question": "What extraordinary abilities did Karan gain after being resurrected by Principal Joseph?",
+    "Options": "A. Divya\nB. Karan\nC. Supernatural powers\nD. Vasundhara",
+    "Answer": "Supernatural powers"
+  },
+  {
+    "Question": "Who tries to kill Karan after assuming his identity in the movie?",
+    "Options": "A. Karan\nB. Kapil\nC. The college principal\nD. The antagonist",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is the only survivor among the best friends after Kapil's attack on Karan?",
+    "Options": "A. Kapil\nB. Karan\nC. Vivek\nD. Rohan",
+    "Answer": "Vivek"
+  },
+  {
+    "Question": "What kind of abilities does Karan possess after being resurrected by Principal Joseph?",
+    "Options": "A. Identity theft\nB. Supernatural powers\nC. Combat skills\nD. Telepathy",
+    "Answer": "Supernatural powers"
+  },
+  {
+    "Question": "Who was accused of stabbing Vivek, leading to an arrest?",
+    "Options": "A. Vivek\nB. Karan\nC. Kapil\nD. Ravi",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is the only survivor among his best friends after Karan's fatal wounding?",
+    "Options": "A. Karan\nB. Kapil\nC. Vivek\nD. Raj",
+    "Answer": "Vivek"
+  },
+  {
+    "Question": "What abilities did Karan gain after being resurrected by Principal Joseph?",
+    "Options": "A. Healing powers\nB. Supernatural powers\nC. Telepathic abilities\nD. Invisibility",
+    "Answer": "Supernatural powers"
+  },
+  {
+    "Question": "Which character comes out of a coma and escapes the hospital in the story?",
+    "Options": "A. Atul\nB. Karan\nC. Kapil\nD. Vivek",
+    "Answer": "Atul"
+  },
+  {
+    "Question": "Who escapes the hospital with Atul after he comes out of a coma?",
+    "Options": "A. Karan\nB. Vivek\nC. Kapil\nD. Rahul",
+    "Answer": "Vivek"
+  },
+  {
+    "Question": "What ability does Karan gain after being resurrected by Principal Joseph?",
+    "Options": "A. Healing powers\nB. Supernatural powers\nC. Telekinesis\nD. Invisibility",
+    "Answer": "Supernatural powers"
+  },
+  {
+    "Question": "Who fatally wounds Karan after breaking out of the police lockup?",
+    "Options": "A. Karan\nB. Kapil\nC. Vivek\nD. The Principal",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is the only survivor among his best friends after Karan is fatally wounded by Kapil?",
+    "Options": "A. Kapil\nB. Karan\nC. Vivek\nD. Rohan",
+    "Answer": "Vivek"
+  },
+  {
+    "Question": "What powers does Karan possess after being resurrected by Principal Joseph?",
+    "Options": "A. Killing powers\nB. Supernatural powers\nC. Healing powers\nD. Time travel abilities",
+    "Answer": "Supernatural powers"
+  },
+  {
+    "Question": "Who is granted supernatural powers by Principal Joseph through the merging of three major religions?",
+    "Options": "A. Joseph\nB. Karan\nC. Kapil\nD. None of the above",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who is the only survivor among Karan's best friends after the fatal wounding?",
+    "Options": "A. Joseph\nB. Karan\nC. Vivek\nD. Kapil",
+    "Answer": "Vivek"
+  },
+  {
+    "Question": "Who is responsible for resurrecting Karan and granting him supernatural powers by merging three major religions?",
+    "Options": "A. Karan\nB. Joseph\nC. Kapil\nD. The Principal",
+    "Answer": "Joseph"
+  },
+  {
+    "Question": "In a past life, who was in love with Divya, known as Vasundhara, and had magical powers?",
+    "Options": "A. Rajesh\nB. Kapil\nC. Madan\nD. Karan",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who intervened to stop the attempted assault on Divya in the present?",
+    "Options": "A. Rajesh\nB. Karan\nC. Madan\nD. The Principal",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "Who was in love with Divya in her past life as Vasundhara and had magical powers?",
+    "Options": "A. Madan\nB. Divya\nC. Kapil\nD. Rajesh",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who intervened to stop Madan and Rajesh from committing a crime against Divya?",
+    "Options": "A. Madan\nB. Karan\nC. Rajesh\nD. Divya",
+    "Answer": "Karan"
+  },
+  {
+    "Question": "In the movie 'Jaani Dushman: Ek Anokhi Kahani', who was in love with Divya/Vasundhara in her past life?",
+    "Options": "A. Manisha Koirala\nB. Kapil\nC. Anil Kapoor\nD. Rajesh Khanna",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who plays the character that is the most beautiful girl in college in the movie 'Jaani Dushman: Ek Anokhi Kahani'?",
+    "Options": "A. Karan\nB. Divya/Vasundhara\nC. Rani Mukerji\nD. Akshay Kumar",
+    "Answer": "Divya/Vasundhara"
+  },
+  {
+    "Question": "Who was cursed with separation alongside Rajesh in a past life until the 21st century?",
+    "Options": "A. Divya\nB. Vasundhara\nC. Kapil\nD. An angry sage",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is in love with Vasundhara in a past life and faces a curse that separates them until the 21st century?",
+    "Options": "A. Divya\nB. Vasundhara\nC. Kapil\nD. The angry sage",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "In a past life, who was in love with Kapil, who had magical powers and gained supernatural strength?",
+    "Options": "A. Divya\nB. Vasundhara\nC. Kapil\nD. Ananya",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is the character that Rajesh, played by Rajat Bedi, is always lusting for?",
+    "Options": "A. Rajat Bedi\nB. Rajesh\nC. Divya\nD. Mimicry Artist",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is the character that Rajesh, played by Rajat Bedi, lusts for in the present?",
+    "Options": "A. Rajat Bedi\nB. Divya/Vasundhara\nC. Karan\nD. Madan",
+    "Answer": "Divya/Vasundhara"
+  },
+  {
+    "Question": "Who is the principal character that Rajesh, played by Rajat Bedi, interacts with in the story?",
+    "Options": "A. Rajat Bedi\nB. Rajesh\nC. Professor Joseph\nD. Divya",
+    "Answer": "Professor Joseph"
+  },
+  {
+    "Question": "Who is the character that Rajesh lusts for in the present as a mimicry artist and womanizer?",
+    "Options": "A. Rajat Bedi\nB. Divya/Vasundhara (past life)\nC. Rajesh\nD. An angry sage",
+    "Answer": "Divya/Vasundhara (past life)"
+  },
+  {
+    "Question": "Who is the character that Rajesh, played by Rajat Bedi, is lusting for in the story?",
+    "Options": "A. Rajat Bedi\nB. Divya\nC. The Bride\nD. Rajesh",
+    "Answer": "The Bride"
+  },
+  {
+    "Question": "Which character is involved in a plot to assault Divya in the film?",
+    "Options": "A. Sushant 'Siddharth' Ray\nB. Rajesh\nC. Divya\nD. Another Student",
+    "Answer": "Sushant 'Siddharth' Ray"
+  },
+  {
+    "Question": "Who plays a character that attempts to rape Divya in the movie?",
+    "Options": "A. Sushant 'Siddharth' Ray\nB. Rajesh Khanna\nC. Amitabh Bachchan\nD. Shahrukh Khan",
+    "Answer": "Sushant 'Siddharth' Ray"
+  },
+  {
+    "Question": "Who plays one of the two students involved in a controversial incident in the film?",
+    "Options": "A. Sushant 'Siddharth' Ray\nB. Rajesh\nC. Professor Joseph\nD. Divya",
+    "Answer": "Sushant 'Siddharth' Ray"
+  },
+  {
+    "Question": "In the movie 'Jaani Dushman: Ek Anokhi Kahani', who is cursed with separation until the 21st century due to their past life actions?",
+    "Options": "A. Sushant 'Siddharth' Ray\nB. Rajesh\nC. Divya\nD. Vasundhara",
+    "Answer": "Vasundhara"
+  },
+  {
+    "Question": "Who is involved in a sinister act by entering the body of his bride and committing murder?",
+    "Options": "A. Sushant 'Siddharth' Ray\nB. Rajesh\nC. Divya\nD. The villain",
+    "Answer": "Sushant 'Siddharth' Ray"
+  },
+  {
+    "Question": "Who is the character that Rajesh always lusts for in the story involving a trick to an abandoned fort?",
+    "Options": "A. Rajesh\nB. Divya\nC. Anjali\nD. Sita",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Which character is involved in a plot where Rajesh lusts after her and is nearly attacked by two students?",
+    "Options": "A. Divya\nB. Rajesh\nC. Karan\nD. Madan",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is involved in a plot that includes tricking someone into coming to an abandoned fort?",
+    "Options": "A. Divya\nB. Rajesh\nC. Professor Joseph\nD. The Principal",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "In the story, who is connected to the character that experiences a curse leading to separation until the 21st century?",
+    "Options": "A. Divya\nB. Rajesh\nC. Vasundhara\nD. An angry sage",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who was tricked into coming to an abandoned fort in the story involving the bride?",
+    "Options": "A. Divya\nB. Rajesh\nC. The groom\nD. The villain",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "What is the name of the character who is a victim of brutal actions leading to tragic consequences?",
+    "Options": "A. Divya\nB. Madan\nC. Vasundhara\nD. Karan",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "What tragic event is linked to Divya's involvement in a brutal crime that leads to her suicide?",
+    "Options": "A. Divya\nB. Madan\nC. Kapil\nD. Death",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is known for impersonating a driver who gives a lift to Victor when his car broke down?",
+    "Options": "A. Kapil\nB. Divya\nC. Victor\nD. Rahul",
+    "Answer": "Kapil"
+  },
+  {
+    "Question": "Who is the ghost that Atul and his friends summon with the help of Principal Joseph?",
+    "Options": "A. Atul\nB. Divya\nC. Principal Joseph\nD. The Necklace",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is the ghost that Atul and his friends summon with the help of Principal Joseph?",
+    "Options": "A. Atul\nB. Divya\nC. Kapil\nD. Principal Joseph",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is the ghost that Atul and his friends summon with the help of Principal Joseph?",
+    "Options": "A. Atul\nB. Principal Joseph\nC. Divya\nD. The supernatural forces",
+    "Answer": "Divya"
+  },
+  {
+    "Question": "Who is the character that has a father wanting her to marry Raju instead of Vijay?",
+    "Options": "A. Preeti\nB. Divya\nC. Vijay\nD. Raju",
+    "Answer": "Preeti"
+  },
+  {
+    "Question": "Who is the character that enters Raju's body and almost knocks out Vijay in the boxing match?",
+    "Options": "A. Vijay\nB. Raju\nC. Divya\nD. Preeti",
+    "Answer": "Divya"
+  }
+]

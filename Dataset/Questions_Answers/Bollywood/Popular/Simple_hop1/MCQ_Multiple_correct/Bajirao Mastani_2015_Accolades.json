@@ -1,0 +1,37 @@
+[
+  {
+    "Question": "Which of the following accolades were received by the movie 'Bajirao Mastani' released in 2015?",
+    "Options": "A. National Film Awards\nB. Filmfare Awards\nC. Oscar Awards\nD. IIFA Awards",
+    "Answer": "National Film Awards, Filmfare Awards, IIFA Awards"
+  },
+  {
+    "Question": "Which of the following accolades were received by the movie 'Bajirao Mastani' released in 2015?",
+    "Options": "A. National Film Awards\nB. Filmfare Awards\nC. BAFTA Awards\nD. IIFA Awards",
+    "Answer": "National Film Awards, Filmfare Awards, IIFA Awards"
+  },
+  {
+    "Question": "Which of the following accolades did 'Bajirao Mastani' win at the 63rd National Film Awards in 2015?",
+    "Options": "A. Best Director\nB. Best Cinematography\nC. Best Actor\nD. Best Supporting Actress",
+    "Answer": "Best Director, Best Cinematography"
+  },
+  {
+    "Question": "Which of the following accolades were awarded to 'Bajirao Mastani' (2015) for Tanvi Azmi's performance?",
+    "Options": "A. Best Supporting Actress at the 63rd National Film Awards\nB. Best Actress at the Filmfare Awards\nC. Best Supporting Actress at the Screen Awards\nD. Best Supporting Actress at the IIFA Awards",
+    "Answer": "Best Supporting Actress at the 63rd National Film Awards, Best Supporting Actress at the Screen Awards"
+  },
+  {
+    "Question": "Which of the following accolades did Ranveer Singh receive for his performance in 'Bajirao Mastani' (2015)?",
+    "Options": "A. Best Actor at the 61st Filmfare Awards\nB. Best Actor at the IIFA Awards\nC. Best Actor at the Screen Awards\nD. Best Actor at the National Film Awards",
+    "Answer": "Best Actor at the 61st Filmfare Awards, Best Actor at the IIFA Awards"
+  },
+  {
+    "Question": "Which of the following accolades did 'Bajirao Mastani' receive at the 14th Asian Film Awards in 2015?",
+    "Options": "A. Best Film\nB. Best Director\nC. Best Actor\nD. Best Cinematography",
+    "Answer": "Best Film, Best Director"
+  },
+  {
+    "Question": "Which of the following accolades did 'Bajirao Mastani' (2015) receive related to its special effects?",
+    "Options": "A. Won Best Special Effects at the 14th Asian Film Awards\nB. Nominated for Best Visual Effects at the Oscars\nC. Won Best Special Effects at the Filmfare Awards\nD. Received Best Special Effects recognition at the IIFA Awards",
+    "Answer": "Won Best Special Effects at the 14th Asian Film Awards"
+  }
+]

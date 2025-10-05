@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which of the following statements accurately describe the summary of the movie 'Fitoor' released in 2016?",
+    "Options": "A. The summary provides an overview of the main characters' motivations.\nB. The summary reveals the movie's setting and time period.\nC. The summary highlights key plot points and themes.\nD. The summary includes critical reception and box office performance.",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the movie 'Fitoor' released in 2016, which of the following reasons could explain why a message is displayed?",
+    "Options": "A. The user has requested the details of the movie's summary.\nB. There is a technical issue with the system.\nC. The movie is based on a classic novel.\nD. The film features a love triangle.",
+    "Answer": "The user has requested the details of the movie's summary., There is a technical issue with the system."
+  },
+  {
+    "Question": "In the movie 'Fitoor' (2016), which of the following elements are significant in shaping the narrative and characters?",
+    "Options": "A. The theme of unrequited love\nB. The influence of art and painting\nC. A tragic family history\nD. A futuristic setting",
+    "Answer": "The theme of unrequited love, The influence of art and painting, A tragic family history"
+  }
+]

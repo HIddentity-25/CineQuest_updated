@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What does the summary of the movie 'Yuva' (2004) provide details about?",
+    "Options": "A. The actors who starred in the film\nB. The plot, characters, and other important aspects of the film\nC. The box office earnings of the movie\nD. The director's biography",
+    "Answer": "The plot, characters, and other important aspects of the film"
+  },
+  {
+    "Question": "What do the details in the summary of the movie 'Yuva' (2004) provide?",
+    "Options": "A. A detailed analysis of the characters' motivations\nB. An overview of the events, scenes, and developments that take place in the movie\nC. A critical review of the film's cinematography\nD. An exploration of the film's soundtrack and music",
+    "Answer": "An overview of the events, scenes, and developments that take place in the movie"
+  },
+  {
+    "Question": "In the 2004 movie 'Yuva', what does a message typically contain regarding the events or scenes being summarized?",
+    "Options": "A. A summary of the entire movie's plot\nB. Details about a specific event or scene\nC. Character backstories and motivations\nD. Critical reviews and audience reactions",
+    "Answer": "Details about a specific event or scene"
+  }
+]

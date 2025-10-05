@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "Does the movie \"Haan Maine Bhi Pyaar Kiya\" released in 2002 have a summary that fails to describe its plot and main events?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is there a summary for the movie \"Haan Maine Bhi Pyaar Kiya\" released in 2002 that describes its plot and main events?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Does the movie \"Haan Maine Bhi Pyaar Kiya\" released in 2002 have no specific details associated with it?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Are the specifics or characteristics of the movie \"Haan Maine Bhi Pyaar Kiya\" from the year 2002 referred to as details?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Is the message displayed in \"Haan Maine Bhi Pyaar Kiya\" (2002) always related to the current context?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Can the message in \"Haan Maine Bhi Pyaar Kiya\" (2002) sometimes be influenced by other reasons?",
+        "Answer": "YES"
+    }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "Question": "Which statements accurately describe the relationships between the nodes in the context of the development of Facebook?",
+    "Options": "A. Facebook was initially exclusive to Harvard University students.\nB. Thefacebook was the original name of Facebook.\nC. Yale students were included in Facebook after its expansion.\nD. The Winklevoss twins thought Thefacebook was exclusive to Ivy League students.",
+    "Answer": "B) Thefacebook was the original name of Facebook., C) Yale students were included in Facebook after its expansion., D) The Winklevoss twins thought Thefacebook was exclusive to Ivy League students."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships between the nodes in the context of Facebook's development?",
+    "Options": "A. Facebook was initially exclusive to Ivy League students.\nB. Thefacebook was the original name before it became Facebook.\nC. Yale students were included in Facebook's expansion.\nD. The Winklevoss twins believed Thefacebook was limited to Ivy League students.",
+    "Answer": "B) Thefacebook was the original name before it became Facebook., C) Yale students were included in Facebook's expansion., D) The Winklevoss twins believed Thefacebook was limited to Ivy League students."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships between Yale, Facebook, Thefacebook, and Harvard University?",
+    "Options": "A. Facebook was expanded to include Yale students.\nB. Thefacebook was initially limited to students at Harvard University.\nC. Thefacebook was created by Mark Zuckerberg while he was a student at Yale.\nD. Facebook is the renamed version of Thefacebook.",
+    "Answer": "A) Facebook was expanded to include Yale students., B) Thefacebook was initially limited to students at Harvard University., D) Facebook is the renamed version of Thefacebook."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships between the nodes in the context of the movie 'The Social Network'?",
+    "Options": "A. Facebook was initially exclusive to Harvard University students.\nB. Columbia students were included in the expansion of Facebook.\nC. Thefacebook was the original name before it became Facebook.\nD. The Winklevoss twins believed Thefacebook was only for Ivy League students.",
+    "Answer": "B) Columbia students were included in the expansion of Facebook., C) Thefacebook was the original name before it became Facebook., D) The Winklevoss twins believed Thefacebook was only for Ivy League students."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships between the nodes in the context of Facebook's development?",
+    "Options": "A. Columbia students were included in the expansion of Facebook.\nB. Facebook was originally known as Thefacebook and was limited to Harvard students.\nC. The Winklevoss twins believed Thefacebook was exclusive to Ivy League students.\nD. Thefacebook was created for students from all universities.",
+    "Answer": "A) Columbia students were included in the expansion of Facebook., B) Facebook was originally known as Thefacebook and was limited to Harvard students., C) The Winklevoss twins believed Thefacebook was exclusive to Ivy League students."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships between Columbia, Facebook, Thefacebook, and Harvard University?",
+    "Options": "A. Facebook was expanded to include Columbia students.\nB. Thefacebook was initially limited to students at Harvard University.\nC. Facebook is a rebranded version of Thefacebook.\nD. The Winklevoss twins believed Thefacebook was created by Zuckerberg while he was at Columbia.",
+    "Answer": "A) Facebook was expanded to include Columbia students., B) Thefacebook was initially limited to students at Harvard University., C) Facebook is a rebranded version of Thefacebook."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships between the nodes in the context of the movie 'The Social Network'?",
+    "Options": "A. Facebook was initially exclusive to Harvard University students.\nB. Thefacebook was the original name of Facebook.\nC. Stanford students were included in the expansion of Facebook.\nD. The Winklevoss twins thought Thefacebook was only for students at Stanford.",
+    "Answer": "B) Thefacebook was the original name of Facebook., C) Stanford students were included in the expansion of Facebook."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships between Stanford, Facebook, Thefacebook, and Ivy League students?",
+    "Options": "A. Facebook was expanded to include Stanford students.\nB. Thefacebook was initially limited to Ivy League students.\nC. Facebook is a rebranded version of Thefacebook.\nD. The Winklevoss twins thought Thefacebook was exclusive to Ivy League students.",
+    "Answer": "A) Facebook was expanded to include Stanford students., C) Facebook is a rebranded version of Thefacebook., D) The Winklevoss twins thought Thefacebook was exclusive to Ivy League students."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships between Stanford, Facebook, Thefacebook, and Harvard University?",
+    "Options": "A. Facebook was expanded to include Stanford students.\nB. Thefacebook was initially limited to students at Harvard University.\nC. Facebook is a rebranded version of Thefacebook.\nD. The Winklevoss twins learned about Thefacebook while at Stanford.",
+    "Answer": "A) Facebook was expanded to include Stanford students., B) Thefacebook was initially limited to students at Harvard University., C) Facebook is a rebranded version of Thefacebook."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships among Palo Alto, Facebook, Thefacebook, and Harvard University?",
+    "Options": "A. Facebook was originally known as Thefacebook.\nB. Zuckerberg moved Facebook to Palo Alto based on Parker's advice.\nC. Thefacebook was initially exclusive to Harvard University students.\nD. Facebook has no connection to Harvard University.",
+    "Answer": "A) Facebook was originally known as Thefacebook., B) Zuckerberg moved Facebook to Palo Alto based on Parker's advice., C) Thefacebook was initially exclusive to Harvard University students."
+  },
+  {
+    "Question": "What are the relationships between Palo Alto, Facebook, Thefacebook, and Ivy League students?",
+    "Options": "A. Facebook was originally known as Thefacebook.\nB. Parker suggested moving Facebook to Palo Alto.\nC. Thefacebook was thought to be exclusive to Ivy League students.\nD. Facebook has no connection to Ivy League students.",
+    "Answer": "A) Facebook was originally known as Thefacebook., B) Parker suggested moving Facebook to Palo Alto., C) Thefacebook was thought to be exclusive to Ivy League students."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships among Palo Alto, Facebook, Thefacebook, and Harvard University?",
+    "Options": "A. Facebook was initially limited to Harvard students.\nB. Parker advised Zuckerberg to move Facebook to Palo Alto.\nC. Thefacebook was created while Zuckerberg was a student at Harvard University.\nD. Facebook is the original name of the platform.",
+    "Answer": "A) Facebook was initially limited to Harvard students., B) Parker advised Zuckerberg to move Facebook to Palo Alto., C) Thefacebook was created while Zuckerberg was a student at Harvard University."
+  },
+  {
+    "Question": "What roles or actions are associated with the Winklevoss twins and Zuckerberg in the context of the Henley Royal Regatta and Facebook?",
+    "Options": "A. The Winklevoss twins competed in the Henley Royal Regatta.\nB. Zuckerberg expanded Facebook to Europe.\nC. The Winklevoss twins accused Zuckerberg of stealing their idea.\nD. Zuckerberg sent a friend request to Albright.",
+    "Answer": "A) The Winklevoss twins competed in the Henley Royal Regatta., C) The Winklevoss twins accused Zuckerberg of stealing their idea., D) Zuckerberg sent a friend request to Albright."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships between the nodes in the context of 'The Social Network'?",
+    "Options": "A. Facebook was accused of intellectual property theft by the Winklevoss twins.\nB. Thefacebook was originally intended for Harvard University students.\nC. Facebook is an expansion and renaming of Thefacebook.\nD. The Winklevoss twins had no connection to Harvard University.",
+    "Answer": "A) Facebook was accused of intellectual property theft by the Winklevoss twins., B) Thefacebook was originally intended for Harvard University students., C) Facebook is an expansion and renaming of Thefacebook."
+  },
+  {
+    "Question": "What relationships exist between the entities involved in the founding and expansion of Facebook?",
+    "Options": "A. The Winklevoss twins accused Facebook of stealing their intellectual property.\nB. Facebook was originally known as Thefacebook and was limited to Ivy League students.\nC. Thefacebook was designed exclusively for Ivy League students.\nD. The Winklevoss twins were involved in the early development of Facebook.",
+    "Answer": "A) The Winklevoss twins accused Facebook of stealing their intellectual property., B) Facebook was originally known as Thefacebook and was limited to Ivy League students., C) Thefacebook was designed exclusively for Ivy League students."
+  },
+  {
+    "Question": "Which statements accurately describe the relationships and roles among the entities involved in the creation of Facebook?",
+    "Options": "A. The Winklevoss twins accused Facebook of intellectual property theft.\nB. Facebook was originally known as Thefacebook.\nC. Thefacebook was created while Mark Zuckerberg was a student at Harvard University.\nD. Harvard University had no involvement in the development of Thefacebook.",
+    "Answer": "A) The Winklevoss twins accused Facebook of intellectual property theft., B) Facebook was originally known as Thefacebook., C) Thefacebook was created while Mark Zuckerberg was a student at Harvard University."
+  },
+  {
+    "Question": "Which characters are involved in the conflict over Facebook's ownership in *The Social Network*?",
+    "Options": "A. Parker\nB. Saverin\nC. Zuckerberg\nD. Albright",
+    "Answer": "A) Parker, B) Saverin, C) Zuckerberg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Question": "Was the talisman originally guarded by a hammer-wielding, deformed monk in the monastery?",
+        "Answer": "No"
+    },
+    {
+        "Question": "Was the talisman guarded by a hammer-wielding, deformed monk in the monastery?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was the talisman guarded by a hammer-wielding, deformed monk in *BloodRayne*?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was the chamber flooded with holy water when Rayne took the talisman in *BloodRayne*?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was the eyeball absorbed into Rayne's own eye in *BloodRayne*?",
+        "Answer": "No"
+    },
+    {
+        "Question": "Was the eyeball absorbed into Rayne's own eye in *BloodRayne*?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was Katarin killed by Rayne in *BloodRayne*?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was the heart talisman one of three body parts that came from an ancient vampire called Belial?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was the heart talisman one of three body parts that came from an ancient vampire called Belial?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was the heart talisman hidden in water-filled caves by Katarin's grandfather?",
+        "Answer": "Yes"
+    }
+]

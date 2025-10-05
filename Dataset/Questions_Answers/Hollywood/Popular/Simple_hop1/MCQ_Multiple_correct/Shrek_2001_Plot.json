@@ -1,0 +1,57 @@
+[
+  {
+    "Question": "In the movie 'Shrek' (2001), what is the relationship between Shrek and Princess Fiona?",
+    "Options": "A. Shrek is tasked with rescuing Princess Fiona.\nB. Princess Fiona is a dragon.\nC. Shrek wants to keep Princess Fiona in his swamp.\nD. Lord Farquaad orders Shrek to rescue Princess Fiona.",
+    "Answer": "Shrek is tasked with rescuing Princess Fiona., Lord Farquaad orders Shrek to rescue Princess Fiona."
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which of the following statements about the relationship between Donkey and Shrek are true?",
+    "Options": "A. Donkey accompanies Shrek on his journey to Lord Farquaad's castle.\nB. Shrek initially enjoys having Donkey as a companion.\nC. Donkey helps Shrek complete his task.\nD. Shrek and Donkey become friends throughout their adventure.",
+    "Answer": "Donkey accompanies Shrek on his journey to Lord Farquaad's castle., Donkey helps Shrek complete his task., Shrek and Donkey become friends throughout their adventure."
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which characters are involved in the rescue of Princess Fiona from the castle guarded by a Dragon?",
+    "Options": "A. Shrek\nB. Donkey\nC. Fiona\nD. Dragon",
+    "Answer": "Shrek, Donkey"
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which characters are involved in a romantic relationship?",
+    "Options": "A. Donkey\nB. Princess Fiona\nC. Female Dragon\nD. Shrek",
+    "Answer": "Donkey, Female Dragon"
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which of the following statements are true regarding Lord Farquaad and the Magic Mirror?",
+    "Options": "A. Lord Farquaad seeks advice from the Magic Mirror.\nB. The Magic Mirror tells Lord Farquaad that he must defeat Shrek to become king.\nC. Lord Farquaad must marry a princess to fulfill his ambition of becoming king.\nD. The Magic Mirror provides Lord Farquaad with information about Shrek's swamp.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which of the following statements accurately describe the relationship between Fiona and Shrek?",
+    "Options": "A. Fiona is initially appalled by Shrek's appearance.\nB. Fiona and Shrek begin their journey as romantic partners.\nC. Fiona learns to appreciate Shrek's character beyond his ogre appearance.\nD. Shrek carries Fiona against her will at the beginning of their journey.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which of the following statements are true regarding the relationship between Fiona and Donkey?",
+    "Options": "A. Donkey helps Fiona keep her ogre transformation a secret from Shrek.\nB. Fiona transforms into an ogre at night and remains human during the day.\nC. Donkey encourages Fiona to reveal her true form to Shrek immediately.\nD. Fiona believes that true love's kiss is necessary to break her spell.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which of the following statements are true regarding Fiona's encounter with Robin Hood?",
+    "Options": "A. Fiona defeats Robin Hood in physical combat.\nB. Shrek is unimpressed by Fiona's fighting skills.\nC. Robin Hood leads a band of Merry Men.\nD. Fiona's combat skills impress Shrek.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), what significant realizations does Shrek come to regarding Fiona's curse and his feelings for her?",
+    "Options": "A. Shrek learns that Fiona is cursed to transform into an ogre at night.\nB. Shrek initially leaves Fiona because she calls herself an 'ugly beast'.\nC. Shrek realizes that he has fallen in love with Fiona after returning with Farquaad.\nD. Shrek believes that he is the only one who can break Fiona's curse.",
+    "Answer": "Shrek learns that Fiona is cursed to transform into an ogre at night., Shrek initially leaves Fiona because she calls herself an 'ugly beast'., Shrek realizes that he has fallen in love with Fiona after returning with Farquaad."
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which of the following statements correctly describe the relationship between Shrek and Farquaad?",
+    "Options": "A. Shrek initially trusts Farquaad completely.\nB. Shrek is hostile towards Farquaad due to past encounters.\nC. Farquaad seeks to marry Fiona despite her transformation.\nD. Shrek helps Farquaad rescue Fiona after realizing her situation.",
+    "Answer": "B, C, D"
+  },
+  {
+    "Question": "In the movie 'Shrek' (2001), which of the following statements accurately describe the relationship between Shrek and Farquaad?",
+    "Options": "A. Shrek was happy about Farquaad's marriage proposal to Fiona.\nB. Farquaad's proposal confused and hurt Fiona.\nC. Shrek interrupted the wedding to expose Farquaad's true intentions.\nD. Shrek and Farquaad became friends after the proposal.",
+    "Answer": "Farquaad's proposal confused and hurt Fiona.; Shrek interrupted the wedding to expose Farquaad's true intentions."
+  }
+]

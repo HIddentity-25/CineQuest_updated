@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "What is the total duration of the soundtrack album for the movie 'Thugs of Hindostan'?",
+    "Options": "A. 10:15\nB. 12:45\nC. 15:36\nD. 18:20",
+    "Answer": "15:36"
+  },
+  {
+    "Question": "What is the name of the soundtrack album for the movie 'Thugs of Hindostan'?",
+    "Options": "A. Dhadak\nB. Thugs of Hindostan\nC. Ajay-Atul\nD. Soundtrack Album",
+    "Answer": "Soundtrack Album"
+  },
+  {
+    "Question": "Who composed the music for the movie 'Thugs of Hindostan'?",
+    "Options": "A. Pritam\nB. A.R. Rahman\nC. Ajay-Atul\nD. Vishal-Shekhar",
+    "Answer": "Ajay-Atul"
+  },
+  {
+    "Question": "What is the total duration of the soundtrack album for the movie 'Thugs of Hindostan'?",
+    "Options": "A. 12:45\nB. 15:36\nC. 18:20\nD. 10:15",
+    "Answer": "15:36"
+  },
+  {
+    "Question": "What is the total duration of the soundtrack album for the movie 'Thugs of Hindostan'?",
+    "Options": "A. 12:00\nB. 15:36\nC. 18:45\nD. 20:00",
+    "Answer": "15:36"
+  }
+]

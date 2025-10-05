@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "In the movie 'Pearl Harbor' (2001), which of the following statements are true regarding its rating and production decisions?",
+    "Options": "A. The film was initially intended to be rated R.\nB. The rating was changed to PG-13 due to Disney's influence.\nC. Michael Bay wanted to graphically portray the horrors of war.\nD. The film was released with an R rating.",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the context of the movie 'Pearl Harbor' (2001), which of the following statements about the production budget are correct?",
+    "Options": "A. The proposed budget for 'Pearl Harbor' was $208 million.\nB. Walt Disney Studios executives fully supported the proposed budget.\nC. The production budget was a point of contention among the executives.\nD. A significant portion of the budget was allocated to production aspects.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the production of the movie 'Pearl Harbor' released in 2001?",
+    "Options": "A. A: 'Pearl Harbor' was produced by Walt Disney Studios.\nB. B: 'Pearl Harbor' was produced by Universal Pictures.\nC. C: 'Pearl Harbor' had a budget exceeding $100 million.\nD. D: 'Pearl Harbor' was produced by 20th Century Fox.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Pearl Harbor' (2001), which of the following statements are true regarding the depiction of aircraft carriers?",
+    "Options": "A. The USS Lexington was used to represent the USS Hornet.\nB. The USS Lexington was depicted as a Japanese carrier.\nC. Both the USS Lexington and a Japanese carrier were shown in the movie.\nD. The USS Hornet was the only carrier featured in the film.",
+    "Answer": "A, B, C"
+  }
+]

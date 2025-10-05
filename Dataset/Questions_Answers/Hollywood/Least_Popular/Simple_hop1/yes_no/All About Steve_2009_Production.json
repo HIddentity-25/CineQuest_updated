@@ -1,0 +1,50 @@
+[
+    {
+        "Question": "[\"Did Sandra Bullock not appear in the 2009 movie 'All About Steve'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Sandra Bullock star in the movie 'All About Steve' released in 2009?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the 2009 movie 'All About Steve' not acquired by Fox 2000 Pictures?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the script for the 2009 movie 'All About Steve' penned by Kim Barker and developed as a starring vehicle for Sandra Bullock?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the movie 'All About Steve' released in the year 2010?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the movie 'All About Steve' released on September 4, 2009?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Bradley Cooper not co-star with Sandra Bullock in the movie 'All About Steve' released in 2009?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Bradley Cooper co-star with Sandra Bullock in the 2009 movie 'All About Steve'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did the 2009 movie 'All About Steve' film its scenes featuring the collapsed mine and sink hole at a location other than The Walt Disney Company's Golden Oak Ranch near Santa Clarita, California?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Were the scenes featuring the collapsed mine and sink hole in the 2009 movie 'All About Steve' filmed at The Walt Disney Company's Golden Oak Ranch near Santa Clarita, California?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did the production of the movie 'All About Steve' begin in 2009?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did the production of the movie 'All About Steve' begin in July 2007?\"",
+        "Answer": "yes"
+    }
+]

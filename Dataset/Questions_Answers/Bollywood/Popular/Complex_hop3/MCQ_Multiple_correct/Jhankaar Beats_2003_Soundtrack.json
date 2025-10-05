@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which songs are part of the same movie and sung by different artists?",
+    "Options": "A. boss kaun tha\nB. jo gaya woh gaya\nC. suno na\nD. humein tumse pyaar kitna",
+    "Answer": "A) boss kaun tha, B) jo gaya woh gaya, C) suno na"
+  },
+  {
+    "Question": "Which songs are from the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. boss kaun tha\nB. jo gaya woh gaya\nC. suno na\nD. tera muskurana",
+    "Answer": "boss kaun tha, jo gaya woh gaya, tera muskurana"
+  },
+  {
+    "Question": "Which statements accurately describe the songs and their relationships in the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. 'boss kaun tha' and 'jo gaya woh gaya' are from the same movie.\nB. 'suno na' is sung by KK.\nC. 'jab kabhi chand na ho' is sung by Mahalakshmi Iyer.\nD. 'jo gaya woh gaya' and 'suno na' are sung by different singers.",
+    "Answer": "A) 'boss kaun tha' and 'jo gaya woh gaya' are from the same movie., C) 'jab kabhi chand na ho' is sung by Mahalakshmi Iyer., D) 'jo gaya woh gaya' and 'suno na' are sung by different singers."
+  },
+  {
+    "Question": "Which songs are popular tracks sung by KK from the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. boss kaun tha\nB. jo gaya woh gaya\nC. tu aashiqui hai\nD. humein tumse pyaar kitna",
+    "Answer": "A) boss kaun tha, B) jo gaya woh gaya"
+  },
+  {
+    "Question": "Which songs are popular tracks sung by KK from the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. boss kaun tha\nB. jo gaya woh gaya\nC. tu aashiqui hai\nD. ruk ruk rukna na",
+    "Answer": "boss kaun tha, jo gaya woh gaya"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the songs 'boss kaun tha' and 'jo gaya woh gaya' from the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. Both songs are sung by KK.\nB. Both songs are from the movie 'Jo Boley Giabbaan'.\nC. 'tu aashiqui hai' is also from the same movie.\nD. 'boss kaun tha' and 'jo gaya woh gaya' are sung by different singers.",
+    "Answer": "B) Both songs are from the movie 'Jo Boley Giabbaan'., D) 'boss kaun tha' and 'jo gaya woh gaya' are sung by different singers."
+  }
+]

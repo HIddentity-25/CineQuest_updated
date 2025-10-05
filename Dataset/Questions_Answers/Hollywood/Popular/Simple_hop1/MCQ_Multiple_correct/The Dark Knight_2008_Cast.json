@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "In the movie 'The Dark Knight' (2008), which of the following statements are true regarding the character Bruce Wayne?",
+    "Options": "A. Christian Bale plays the role of Bruce Wayne.\nB. Bruce Wayne is the alter ego of Batman.\nC. Bruce Wayne is portrayed by Heath Ledger.\nD. Bruce Wayne is a wealthy businessman.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'The Dark Knight' (2008), which of the following statements about Michael Caine's character are true?",
+    "Options": "A. Michael Caine plays the role of Alfred Pennyworth.\nB. Alfred Pennyworth is the main antagonist of the film.\nC. Alfred Pennyworth serves as a confidant to Bruce Wayne.\nD. Michael Caine is known for his role as a superhero in this movie.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'The Dark Knight' (2008), which of the following statements are true regarding Heath Ledger's portrayal of The Joker?",
+    "Options": "A. Heath Ledger's performance was critically acclaimed.\nB. The Joker is portrayed as a heroic figure in the film.\nC. Heath Ledger won a posthumous Academy Award for his role.\nD. The Joker's character aims to spread chaos and corruption in Gotham.",
+    "Answer": "Heath Ledger's performance was critically acclaimed., Heath Ledger won a posthumous Academy Award for his role., The Joker's character aims to spread chaos and corruption in Gotham."
+  },
+  {
+    "Question": "In the movie 'The Dark Knight' (2008), which of the following statements about the character James Gordon and the actor who portrayed him are true?",
+    "Options": "A. Gary Oldman played the character James Gordon.\nB. James Gordon is a police officer in Gotham.\nC. Gary Oldman is known for his role in a different superhero film.\nD. James Gordon collaborates with Batman to fight crime.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'The Dark Knight' (2008), which of the following statements about Maggie Gyllenhaal's character Rachel Dawes are true?",
+    "Options": "A. Rachel Dawes is portrayed by Maggie Gyllenhaal.\nB. Rachel Dawes is a contender for the position of assistant district attorney.\nC. Rachel Dawes is a childhood friend of Bruce Wayne.\nD. Rachel Dawes is the main antagonist of the film.",
+    "Answer": "A, B, C"
+  }
+]

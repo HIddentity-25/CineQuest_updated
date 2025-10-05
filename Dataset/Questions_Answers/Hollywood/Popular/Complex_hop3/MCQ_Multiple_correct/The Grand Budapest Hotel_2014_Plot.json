@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "What are the relationships between the characters in *The Grand Budapest Hotel*?",
+    "Options": "A. Dmitri is the son of Madame D.\nB. Gustave is the beneficiary of Madame D.'s fortune.\nC. Madame D. is arrested for murder.\nD. Gustave was arrested for Madame D.'s murder.",
+    "Answer": "A) Dmitri is the son of Madame D., B) Gustave is the beneficiary of Madame D.'s fortune., D) Gustave was arrested for Madame D.'s murder."
+  },
+  {
+    "Question": "What are the relationships among Dmitri, Madame D., and Gustave in *The Grand Budapest Hotel*?",
+    "Options": "A. Dmitri is the son of Madame D.\nB. Madame D. leaves her fortune to Gustave.\nC. Dmitri is responsible for Gustave's death.\nD. Gustave is the father of Dmitri.",
+    "Answer": "A) Dmitri is the son of Madame D., B) Madame D. leaves her fortune to Gustave., C) Dmitri is responsible for Gustave's death."
+  },
+  {
+    "Question": "What are the relationships and roles of the characters in *The Grand Budapest Hotel*?",
+    "Options": "A. Serge X is the butler of Madame D.\nB. Gustave is the beneficiary of Madame D.'s will.\nC. Madame D. was arrested for murder.\nD. Inspector Henckels arrested Gustave.",
+    "Answer": "A) Serge X is the butler of Madame D., B) Gustave is the beneficiary of Madame D.'s will., D) Inspector Henckels arrested Gustave."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the relationships among the characters in *The Grand Budapest Hotel*?",
+    "Options": "A. Serge X serves as the butler for Madame D.\nB. Gustave is the beneficiary of Madame D.'s hotel and fortune.\nC. Dmitri is revealed to be the killer of Gustave.\nD. Madame D. has only one will.",
+    "Answer": "A) Serge X serves as the butler for Madame D., B) Gustave is the beneficiary of Madame D.'s hotel and fortune., C) Dmitri is revealed to be the killer of Gustave."
+  },
+  {
+    "Question": "What relationships exist between Gustave, Dmitri, and Madame D. in *The Grand Budapest Hotel*?",
+    "Options": "A. Dmitri is the son of Madame D.\nB. Gustave is the real killer of Dmitri.\nC. Madame D. had a long-term affair with Gustave H.\nD. Dmitri killed Gustave.",
+    "Answer": "A) Dmitri is the son of Madame D., C) Madame D. had a long-term affair with Gustave H."
+  },
+  {
+    "Question": "What can be inferred about the relationships between Gustave, Dmitri, and Madame D. in *The Grand Budapest Hotel*?",
+    "Options": "A. Dmitri is responsible for Gustave's death.\nB. Madame D. is Dmitri's mother.\nC. The second will was connected to Madame D.'s murder.\nD. All of the above",
+    "Answer": "D) All of the above"
+  },
+  {
+    "Question": "What are the relationships between Gustave, Dmitri, and Madame D. in *The Grand Budapest Hotel*?",
+    "Options": "A. Dmitri is the son of Madame D.\nB. Gustave is the beneficiary of Madame D.'s fortune.\nC. Dmitri is the real killer of Gustave.\nD. All of the above",
+    "Answer": "D) All of the above"
+  },
+  {
+    "Question": "Which statements accurately describe the relationships among the characters in *The Grand Budapest Hotel*?",
+    "Options": "A. Gustave is the beneficiary of Madame D.'s fortune.\nB. Dmitri is Madame D.'s son.\nC. Dmitri is responsible for Gustave's death.\nD. Madame D. had only one will.",
+    "Answer": "A) Gustave is the beneficiary of Madame D.'s fortune., B) Dmitri is Madame D.'s son., C) Dmitri is responsible for Gustave's death."
+  },
+  {
+    "Question": "What are the relationships between the characters in *The Grand Budapest Hotel*?",
+    "Options": "A. Zero is Gustave's trusted friend.\nB. Dmitri is the son of Madame D.\nC. Dmitri is an ally of Gustave.\nD. Dmitri is the real killer of Gustave.",
+    "Answer": "A) Zero is Gustave's trusted friend., B) Dmitri is the son of Madame D., D) Dmitri is the real killer of Gustave."
+  },
+  {
+    "Question": "What are the relationships among the characters in *The Grand Budapest Hotel*?",
+    "Options": "A. Agatha is married to Gustave.\nB. Dmitri is the son of Madame D.\nC. Dmitri is the killer of Gustave.\nD. Gustave is the love interest of Madame D.",
+    "Answer": "A) Agatha is married to Gustave., B) Dmitri is the son of Madame D., C) Dmitri is the killer of Gustave."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Who was a line producer for the film and tragically died during the production?",
+    "Options": "A. Sarahna\nB. John\nC. Emily\nD. Michael",
+    "Answer": "Sarahna"
+  },
+  {
+    "Question": "Who was a line producer for the film and tragically died during the production?",
+    "Options": "A. line producer\nB. director\nC. cinematographer\nD. editor",
+    "Answer": "line producer"
+  },
+  {
+    "Question": "Who was a line producer for the film and tragically died during its production?",
+    "Options": "A. Sarahna\nB. John Doe\nC. Emma Stone\nD. Michael Bay",
+    "Answer": "Sarahna"
+  },
+  {
+    "Question": "What process was completed for the film by January 16, 2021?",
+    "Options": "A. Filming\nB. Editing\nC. Wrapping up\nD. Casting",
+    "Answer": "Wrapping up"
+  }
+]

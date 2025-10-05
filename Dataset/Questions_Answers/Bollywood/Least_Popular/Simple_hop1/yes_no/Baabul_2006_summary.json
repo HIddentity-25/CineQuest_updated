@@ -1,0 +1,18 @@
+[
+    {
+        "Question": "Does the movie \"Baabul\" released in 2006 have a summary that does not provide details about the plot, characters, and other important information?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is the summary of the movie \"Baabul\" released in 2006 essential for understanding its plot and characters?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Is the message related to the movie \"Baabul\" from 2006 displayed due to a positive reason?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is the message displayed for the movie \"Baabul\" from 2006 due to errors or other issues?",
+        "Answer": "YES"
+    }
+]

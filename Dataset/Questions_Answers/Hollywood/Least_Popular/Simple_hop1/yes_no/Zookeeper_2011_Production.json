@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "\"Was the news of an outbreak a part of the production context for the movie 'Zookeeper' released in 2011?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Since the outbreak of the news, was there a production context for the movie 'Zookeeper' released in 2011?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did ADI fail to contact the American Humane Association during the production of the movie 'Zookeeper' released in 2011?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did ADI contact the American Humane Association during the production of the movie 'Zookeeper' released in 2011?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did PETA support the 2011 movie 'Zookeeper'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did PETA urge the public to boycott the 2011 film 'Zookeeper'?\"",
+        "Answer": "yes"
+    }
+]

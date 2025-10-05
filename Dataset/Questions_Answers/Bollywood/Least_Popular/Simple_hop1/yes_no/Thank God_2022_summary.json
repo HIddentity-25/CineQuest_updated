@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "Does the movie \"Thank God\" released in 2022 have a summary that provides details about its plot?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is the summary of the movie \"Thank God\" released in 2022 important for understanding its plot?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Does the movie summary of \"Thank God\" released in 2022 provide no insights into the plot of the movie?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Does the movie summary of \"Thank God\" released in 2022 help us understand the plot of the movie?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "In the movie \"Thank God\" released in 2022, does the display of a message indicate that there are no other reasons behind it?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "In the movie \"Thank God\" released in 2022, does the display of a message suggest that there are other reasons for its appearance besides the primary reason?",
+        "Answer": "YES"
+    }
+]

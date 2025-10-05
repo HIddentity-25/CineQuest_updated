@@ -1,0 +1,50 @@
+[
+    {
+        "Question": "[\"In the 2010 movie 'Shutter Island', was Leonardo DiCaprio's character assigned as the primary psychiatrist to treat his own delusion that Mark Ruffalo's character is actually a doctor named Lester Sheehan?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In 'Shutter Island', released in 2010, did Mark Ruffalo's character act as the primary psychiatrist treating Leonardo DiCaprio's character's delusion of him being a doctor named Lester Sheehan?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did John Carroll Lynch portray the character of Deputy Warden McPherson in the 2010 movie, Shutter Island?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2010 movie, Shutter Island, was the character of Deputy Warden McPherson portrayed by an actor other than John Carroll Lynch?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2010 movie 'Shutter Island', was Elias Koteas not cast as the character Laeddis?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Shutter Island' released in 2010, does Elias Koteas play the role of Laeddis, a fictional arsonist that Teddy invented and believes was responsible for killing Dolores?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2010 movie 'Shutter Island', did Robin Bartlett play the character of Bridget Kearns?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2010 movie 'Shutter Island', did Robin Bartlett portray a character named Robin Bartlett?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Christopher Denham not portray Peter Breene in the 2010 movie Shutter Island?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2010 movie Shutter Island, did Christopher Denham portray the character Peter Breene?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Curtiss Cook not play the character of Trey Washington in the 2010 film Shutter Island?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the movie Shutter Island released in 2010, did Curtiss Cook enact the character of Trey Washington?\"",
+        "Answer": "yes"
+    }
+]

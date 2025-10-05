@@ -1,0 +1,50 @@
+[
+    {
+        "Question": "[\"Does 'Date Movie 2006' depict a platonic relationship between Julia and Grant?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Date Movie 2006', is there a romantic relationship between Julia and Grant, including them having dinner, going to her apartment, and having sex?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the plot of 'Date Movie 2006', did Eduardo lose his virginity to Grant according to Roz?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Date Movie 2006', is it stated in the plot that Grant lost his virginity to Eduardo according to Roz?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Andy in 'Date Movie 2006' want to get back together with Julia?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Date Movie 2006', does Andy plan to split Julia and Grant up?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the plot of 'Date Movie 2006', does Grant read people's thoughts after Julia hits her head on a power box?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Date Movie 2006', does Julia gain the ability to read people's thoughts after hitting her head on a power box?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Andy from 'Date Movie 2006' hold a grudge against Julia for marrying Grant?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Date Movie 2006', does Andy help Julia shop for her wedding dress?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does the plot of 'Date Movie 2006' suggest that Julia is happy about marrying Nicky?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the plot of 'Date Movie 2006', does Julia hurry to meet Grant, pushing aside Andy who was also pursuing him?\"]",
+        "Answer": "yes"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "Question": "[\"Was the movie 'Avengers: Infinity War' announced by DC Studios for production in October 2014?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the movie 'Avengers: Infinity War', released in 2018, announced for production by Marvel Studios in October 2014?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the movie 'Avengers: Infinity War' released in 2019 after 'Avengers: Endgame'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the movie 'Avengers: Infinity War' released in 2018, a year before 'Avengers: Endgame'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was the movie 'Avengers: Infinity War' released in 2018 produced by a company other than Marvel Studios?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is it correct to say that Marvel Studios was the production company responsible for 'Avengers: Infinity War' released in 2018?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was the movie 'Avengers Infinity War' released in 2018 filmed under a different working title 'Mary Lou' at Pinewood Atlanta Studios in Fayette County, Georgia?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was the movie 'Avengers Infinity War' released in 2018 filmed under its original title at Pinewood Atlanta Studios in Fayette County, Georgia?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Chris Evans play both Tony Stark and Iron Man in the 2018 movie 'Avengers Infinity War'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Robert Downey Jr. play both Tony Stark and Iron Man in the 2018 movie 'Avengers Infinity War'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was Peter Quill, also known as Star-Lord, played by Chris Pratt in 'Avengers Infinity War' released in 2018?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Robert Downey Jr. play the role of Peter Quill, also known as Star-Lord, in 'Avengers Infinity War' released in 2018?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Tom Holland not portray both Peter Parker and Spider-Man in the 2018 film 'Avengers Infinity War'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Tom Holland portray both Peter Parker and Spider-Man in the 2018 film 'Avengers Infinity War'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did the additional filming for 'Avengers Infinity War' released in 2018 take place in London instead of Edinburgh and Glasgow?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was additional filming for 'Avengers Infinity War' released in 2018 conducted in Edinburgh, Glasgow, and the Scottish Highlands?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was the studio work for 'Avengers Infinity War' (2018) done at a location other than Wardpark Studios in Cumbernauld?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Wardpark Studios in Cumbernauld handle the studio work for 'Avengers Infinity War' released in 2018?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did the filming for 'Avengers Infinity War' released in 2018 take place in Los Angeles instead of Downtown Atlanta and Central Park?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did the filming for 'Avengers Infinity War', released in 2018, take place in Downtown Atlanta and Central Park?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was the final scene of 'Avengers Infinity War' (2018), where Thanos settles in a nipa hut, filmed in a studio based in the United States?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was footage acquired from Indochina Productions, a studio based in Thailand, to film the final scene of 'Avengers Infinity War' (2018), where Thanos settles in a nipa hut?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was Avengers Infinity War, released by Disney in 2018, not available in the United States?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Disney move the release of Avengers Infinity War to April 27, 2018, in the United States?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Was 'Avengers Infinity War' released by a company other than Disney in the United States in 2018?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Disney move the release date of 'Avengers Infinity War' to April 27, 2018, to align it with some of its international markets?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the movie 'Avengers Infinity War' released in 2018 not one of the most expensive films ever made?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"With an estimated budget in the range of $325–400 million, is 'Avengers Infinity War' released in 2018 one of the most expensive films ever made?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Chris Evans not return to his role as Steve Rogers / Captain America in the 2018 movie Avengers Infinity War?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Chris Evans, who portrays Steve Rogers / Captain America in the Marvel Cinematic Universe, return to his role for the 2018 movie Avengers Infinity War?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Chris Hemsworth, who portrays Thor in the Marvel Cinematic Universe, not return to his role for Avengers: Infinity War released in 2018?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Chris Hemsworth, known for his role as Thor in the Marvel Cinematic Universe, return for the production of Avengers: Infinity War in 2018?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Hemsworth fail to earn $15 million for his role in 'Avengers Infinity War' released in 2018?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did both Evans and Hemsworth earn $15 million each for their roles in 'Avengers Infinity War' released in 2018?\"",
+        "Answer": "yes"
+    }
+]

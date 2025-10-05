@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "Which film is the sequel to *Fifty Shades of Grey* and was released in 2016?",
+    "Options": "A. Fifty Shades Freed\nB. Fifty Shades Darker\nC. Fifty Shades of Grey\nD. Fifty Shades Unleashed",
+    "Answer": "Fifty Shades Darker"
+  },
+  {
+    "Question": "What type of film is *Fifty Shades Darker*?",
+    "Options": "A. Prequel\nB. Spin-off\nC. Sequel\nD. Remake",
+    "Answer": "Sequel"
+  }
+]

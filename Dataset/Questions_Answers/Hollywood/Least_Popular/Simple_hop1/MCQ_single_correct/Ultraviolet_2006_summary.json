@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "What do the details provided in the summary of the movie 'Ultraviolet' (2006) specifically refer to?",
+    "Options": "A. The main character's backstory\nB. Specific, factual information about the movie\nC. The film's box office performance\nD. The director's previous works",
+    "Answer": "Specific, factual information about the movie"
+  },
+  {
+    "Question": "What is the primary message conveyed in the summary of the movie 'Ultraviolet' released in 2006?",
+    "Options": "A. It provides a detailed analysis of the film's themes.\nB. It informs the user that they will find a summary of the movie within its details.\nC. It critiques the performances of the actors.\nD. It reveals the ending of the movie.",
+    "Answer": "It informs the user that they will find a summary of the movie within its details."
+  }
+]

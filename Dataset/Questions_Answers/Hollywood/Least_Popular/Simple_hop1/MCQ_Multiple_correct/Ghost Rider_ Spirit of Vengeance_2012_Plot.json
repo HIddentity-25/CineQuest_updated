@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "In the movie 'Ghost Rider: Spirit of Vengeance' (2012), which characters are involved in the following actions: Roarke kills Carrigan before using his chain to hurl Roarke back to Hell?",
+    "Options": "A. Roarke\nB. Carrigan\nC. Ghost Rider\nD. Johnny Blaze",
+    "Answer": "Roarke, Carrigan"
+  },
+  {
+    "Question": "In the movie 'Ghost Rider: Spirit of Vengeance' (2012), which actions does Johnny take to defeat Roarke and restore Zarathos? Select all that apply.",
+    "Options": "A. Hurls Roarke back to Hell\nB. Channels the blue flame of Zarathos\nC. Revives Danny using Zarathos' power\nD. Sacrifices himself to save Roarke",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the movie 'Ghost Rider: Spirit of Vengeance' (2012), which of the following actions does Johnny perform related to Danny?",
+    "Options": "A. Revives Danny using blue flame\nB. Defeats Roarke to gain powers\nC. Channels energy from Zarathos\nD. Protects Danny from danger",
+    "Answer": "Revives Danny using blue flame, Defeats Roarke to gain powers, Channels energy from Zarathos"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What significant events occur between Arthur and Murray in the film *Joker*?",
+    "Options": "A. Arthur was employed by Murray.\nB. Arthur confessed to the subway murders on Murray's show.\nC. Murray was killed by Arthur during the broadcast.\nD. Arthur and Murray had a friendly relationship.",
+    "Answer": "Arthur was employed by Murray., Arthur confessed to the subway murders on Murray's show., Murray was killed by Arthur during the broadcast."
+  },
+  {
+    "Question": "What significant events occur between Arthur and Murray in the film *Joker*?",
+    "Options": "A. Arthur confesses to the subway murders\nB. Murray is killed during the broadcast\nC. Arthur and Murray have an employer-employee relationship\nD. Murray supports Arthur's comedic career",
+    "Answer": "Arthur confesses to the subway murders, Murray is killed during the broadcast, and Arthur and Murray have an employer-employee relationship"
+  },
+  {
+    "Question": "What events are connected to Arthur's actions in the movie *Joker*?",
+    "Options": "A. Arthur confesses to the subway murders during the show with Murray\nB. Murray is killed by Arthur during the broadcast\nC. Rioters erupt across the city after Arthur's escape\nD. Rioters spare Bruce Wayne during their rampage",
+    "Answer": "All of the above"
+  }
+]

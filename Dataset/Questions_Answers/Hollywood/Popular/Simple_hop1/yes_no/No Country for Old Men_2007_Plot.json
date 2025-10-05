@@ -1,0 +1,74 @@
+[
+    {
+        "Question": "[\"Is the briefcase found by Moss in the 2007 movie 'No Country for Old Men' empty?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the briefcase in the movie 'No Country for Old Men', released in 2007, contain $2 million in cash found by Moss after a drug deal goes wrong?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2007 movie 'No Country for Old Men', was Chigurh hired to find Moss' lost dog?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'No Country for Old Men' released in 2007, did Chigurh use his bolt pistol to blow out the door lock while searching Moss' trailer home?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Moss fail to meet Carla Jean at a motel in El Paso in the 2007 movie 'No Country for Old Men'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2007 movie 'No Country for Old Men', did Moss retrieve a case from the Rio Grande and plan to give it to Carla Jean to hide her from danger?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2007 movie 'No Country for Old Men', did Carla Jean manage to escape Chigurh's vow?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'No Country for Old Men' released in 2007, does Chigurh offer a coin toss as a compromise to Carla Jean?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2007 movie 'No Country for Old Men', does Chigurh ask a passing girl for a shirt to use as a sling and flees on foot?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'No Country for Old Men' released in 2007, does the character Chigurh ask a passing boy for a shirt to use as a sling and then flee on foot?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2007 movie 'No Country for Old Men', is Bell's father dead?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Bell's father give him some money in the 2007 movie 'No Country for Old Men'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Bell in the 2007 film 'No Country for Old Men' manage to keep all the money his father gave him in his dreams?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2007 film 'No Country for Old Men', did Bell lose some money that his father had given him in his dreams?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2007 movie 'No Country for Old Men', did Bell dream about riding through a desert pass?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'No Country for Old Men' released in 2007, does Bell dream about riding through a snowy mountain pass?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2007 movie 'No Country for Old Men', did Bell's dream involve his father riding away from him to prepare a campfire?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the plot of 'No Country for Old Men' released in 2007, does Bell dream about his father riding past him to prepare a campfire ahead?\"]",
+        "Answer": "yes"
+    }
+]

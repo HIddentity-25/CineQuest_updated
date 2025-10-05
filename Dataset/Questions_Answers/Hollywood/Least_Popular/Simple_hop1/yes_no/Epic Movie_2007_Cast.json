@@ -1,0 +1,66 @@
+[
+    {
+        "Question": "[\"Is Kal Penn a character named Kumar Patel in the 2007 movie 'Epic Movie'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is Kal Penn part of the cast in the 2007 movie 'Epic Movie'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the character 'Silas' from the novel 'The Da Vinci Code' featured in the 2007 movie 'Epic Movie'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the 2007 movie 'Epic Movie' have a context of 'Cast'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Nick Steele play the role of the lead archer in the 2007 movie, Epic Movie?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Does the actor Nick Steele play the role of the 'Lead Archer' in a movie other than 'Epic Movie' released in 2007?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Crista Flanagan play the role of Hermione Granger in the 2007 movie 'Epic Movie'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is Crista Flanagan, who is associated with the Harry Potter franchise, a part of the cast in the 2007 movie 'Epic Movie'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is it accurate to say that Scott L. Schwartz did not portray Hagrid in the 2007 film Epic Movie?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2007 film Epic Movie, is there a connection between Scott L. Schwartz and the character Hagrid from the Harry Potter franchise?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Dane Farwell play the role of Albus Dumbledore in the 2007 movie 'Epic Movie'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Are both Dane Farwell and Albus Dumbledore associated with the Harry Potter franchise?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Kahshanna Evans play the character of Storm in the 2007 film \"Epic Movie\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Are both Kahshanna Evans and the character Storm associated with the X-Men franchise?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Rico Rodriguez play a character different from Chanchito in the 2007 movie \"Epic Movie\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Does the character Chanchito in the 2007 movie \"Epic Movie\" represent a variation of Rico Rodriguez's wrestling persona, 'Chancho'?",
+        "Answer": "yes"
+    }
+]

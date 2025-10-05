@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Which entity was nominated for Best Film at the Filmfare Awards in 2020?",
+    "Options": "A. award[a]\nB. nadiadwala grandson entertainment\nC. Rajkumar Hirani\nD. Dharma Productions",
+    "Answer": "nadiadwala grandson entertainment"
+  },
+  {
+    "Question": "Who was nominated for Best Director at the Filmfare Awards in 2020?",
+    "Options": "A. Rajkumar Hirani\nB. Nitesh Tiwari\nC. Zoya Akhtar\nD. Sanjay Leela Bhansali",
+    "Answer": "Nitesh Tiwari"
+  },
+  {
+    "Question": "Which production company was associated with a film nominated for Best Film at the Filmfare Awards in 2020?",
+    "Options": "A. Yash Raj Films\nB. Nadiadwala Grandson Entertainment\nC. Dharma Productions\nD. T-Series",
+    "Answer": "Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "Who was nominated for Best Director at the Filmfare Awards in 2020?",
+    "Options": "A. Amit Sharma\nB. Nitesh Tiwari\nC. Rajkumar Hirani\nD. Zoya Akhtar",
+    "Answer": "Nitesh Tiwari"
+  },
+  {
+    "Question": "What category is associated with the Filmfare Awards held in 2020?",
+    "Options": "A. Best Actor\nB. category\nC. Best Director\nD. Best Film",
+    "Answer": "category"
+  }
+]

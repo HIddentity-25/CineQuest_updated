@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "What provides a brief description or preview of a movie that summarizes its plot, characters, and genre?",
+    "Options": "A. Details\nB. Cast\nC. Crew\nD. Summary",
+    "Answer": "Summary"
+  },
+  {
+    "Question": "What term refers to specific information about a film, including aspects like cast, crew, and release date?",
+    "Options": "A. Here\nB. Details\nC. Movie\nD. Current Location",
+    "Answer": "Details"
+  }
+]

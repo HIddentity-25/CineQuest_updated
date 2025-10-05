@@ -1,0 +1,58 @@
+[
+    {
+        "Question": "[\"Did Jenny McCarthy play the role of a male character in the movie 'Dirty Love 2005'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Dirty Love 2005', did Jenny McCarthy portray the character of Rebecca Sommers?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Eddie Kaye Thomas play the role of Sarah in the movie Dirty Love 2005?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Eddie Kaye Thomas play the role of John in the movie Dirty Love 2005?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Carmen Electra play the role of Michelle López in a movie other than Dirty Love 2005?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie Dirty Love 2005, did Carmen Electra act as Michelle López?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Victor Webster play the role of a character named Richard in the movie Dirty Love 2005?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the movie Dirty Love 2005, was Victor Webster's character named John?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Kam Heskin play the role of a male character in the movie 'Dirty Love 2005'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is Kam Heskin seen as Carrie Winters in the movie 'Dirty Love 2005'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Deryck Whibley play the character of Tony in the movie 'Dirty Love 2005'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was Deryck Whibley's character in the movie 'Dirty Love 2005' named John?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did the band Sum 41 perform their song 'No Reason' in a different movie other than 'Dirty Love 2005'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did the band Sum 41 perform their song 'No Reason' in the movie 'Dirty Love 2005'?\"]",
+        "Answer": "yes"
+    }
+]

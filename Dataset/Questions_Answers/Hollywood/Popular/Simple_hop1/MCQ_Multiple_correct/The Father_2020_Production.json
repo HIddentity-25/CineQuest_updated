@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "In the movie 'The Father' (2020), which of the following statements are true regarding the production?",
+    "Options": "A. Florian Zeller directed the film.\nB. Christopher Hampton wrote the screenplay.\nC. The screenplay is based on a novel.\nD. Florian Zeller announced his directorial involvement in May 2019.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the 2020 movie 'The Father', which of the following statements about the screenplay are true?",
+    "Options": "A. Christopher Hampton collaborated on the screenplay.\nB. The screenplay was written solely by Florian Zeller.\nC. The screenplay is based on a play by Florian Zeller.\nD. Christopher Hampton was announced as a director in May 2019.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'The Father' (2020), which of the following statements about Florian Zeller are true?",
+    "Options": "A. Florian Zeller is the director of 'The Father'.\nB. Florian Zeller was announced as the director in May 2019.\nC. Florian Zeller is known for his work in television.\nD. Florian Zeller adapted his play into a film.",
+    "Answer": "A, B, D"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Who is associated with the production of the movie 'films'?",
+    "Options": "A. Brad Bird\nB. Brad Lewis\nC. Pixar\nD. Ratatouille",
+    "Answer": "Brad Bird"
+  },
+  {
+    "Question": "Who spent a week in Paris to properly understand its environment for the movie production?",
+    "Options": "A. Brad Bird\nB. Brad Lewis\nC. Paris\nD. Crew",
+    "Answer": "Brad Bird"
+  },
+  {
+    "Question": "Who went to the city to understand its environment for better portrayal in the movie?",
+    "Options": "A. City\nB. Brad Bird\nC. Brad Lewis\nD. Producer",
+    "Answer": "City"
+  },
+  {
+    "Question": "Who explored the city through a motorcycle tour to understand the environment more accurately?",
+    "Options": "A. motorcycle tour\nB. city\nC. brad bird\nD. movie",
+    "Answer": "brad bird"
+  },
+  {
+    "Question": "In which scene does Linguini jump into the Seine to fetch someone?",
+    "Options": "A. Seine\nB. Linguini\nC. Remy\nD. Films",
+    "Answer": "Seine"
+  }
+]

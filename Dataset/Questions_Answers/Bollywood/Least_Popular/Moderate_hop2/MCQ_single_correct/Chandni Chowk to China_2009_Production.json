@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What is the earlier title of the movie that is being discussed in the context of its shooting?",
+    "Options": "A. Mera Naam Chin Chin Choo\nB. The film\nC. Chandni Chowk to China\nD. Chin Chin Choo",
+    "Answer": "Mera Naam Chin Chin Choo"
+  },
+  {
+    "Question": "What is another title for the movie that indicates it was shot in a specific location?",
+    "Options": "A. Shooting\nB. The film\nC. Made in China\nD. Production",
+    "Answer": "Made in China"
+  },
+  {
+    "Question": "What is the name of the writer associated with the film that has begun shooting?",
+    "Options": "A. Sridhar Raghavan\nB. Rajkumar Hirani\nC. Karan Johar\nD. Anurag Kashyap",
+    "Answer": "Sridhar Raghavan"
+  }
+]

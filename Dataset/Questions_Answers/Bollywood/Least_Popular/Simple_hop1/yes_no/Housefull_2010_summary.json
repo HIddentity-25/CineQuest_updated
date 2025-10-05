@@ -1,0 +1,18 @@
+[
+    {
+        "Question": "Is the movie \"Housefull\" released in 2010 about a house that is not full?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Does the title \"Housefull\" released in 2010 imply that the house is indeed full?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Is the movie \"Housefull\" from the year 2010 about a house that is empty?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Does the title \"Housefull\" from the year 2010 suggest that the house is full of people or objects?",
+        "Answer": "YES"
+    }
+]

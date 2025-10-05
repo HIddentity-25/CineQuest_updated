@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "In the movie 'Gravity' (2013), how does Alfonso Cuarón categorize the film's themes?",
+    "Options": "A. As a pure science fiction film\nB. As a drama focused on a woman's experience in space\nC. As a thriller with no emotional depth\nD. As a blend of science fiction and human drama",
+    "Answer": "B, D"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which themes are explored through the connection between shipwreck and gravity?",
+    "Options": "A. Psychological change\nB. Resilience in the aftermath of a catastrophe\nC. Exploration of outer space\nD. Isolation and survival",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "Which themes are explored in the movie 'Gravity' (2013) that relate to wilderness survival stories?",
+    "Options": "A. Psychological change\nB. Resilience in the aftermath of a catastrophe\nC. Isolation in space\nD. The importance of teamwork",
+    "Answer": "Psychological change, Resilience in the aftermath of a catastrophe, Isolation in space"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), how does the character Stone illustrate themes of clarity of mind and persistence?",
+    "Options": "A. By showcasing her training and improvisation skills.\nB. By demonstrating her ability to remain calm under pressure.\nC. By relying on the support of other characters.\nD. By overcoming isolation and facing the consequences of Murphy's law.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which themes are explored through the relationship between silence and space?",
+    "Options": "A. The contrast between chaos and calmness\nB. The emotional weight of isolation\nC. The unpredictability of human experience\nD. The beauty of nature versus the emptiness of space",
+    "Answer": "The contrast between chaos and calmness, The emotional weight of isolation, The unpredictability of human experience"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which of the following themes are explored through the relationship between space and the vacuum of space?",
+    "Options": "A. The isolation experienced in outer space\nB. The physical dangers of space travel\nC. The beauty of celestial bodies\nD. The psychological effects of being in a vacuum",
+    "Answer": "The isolation experienced in outer space, The physical dangers of space travel, The psychological effects of being in a vacuum"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which of the following themes are explored through the relationship between a debris field and space?",
+    "Options": "A. The dangers of navigating through hazardous environments\nB. The beauty of outer space\nC. The isolation experienced in space\nD. The importance of teamwork in survival",
+    "Answer": "The dangers of navigating through hazardous environments, The isolation experienced in space"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), how do the background score and silence contribute to the film's atmosphere?",
+    "Options": "A. The background score enhances the tension during silent moments.\nB. Silence is used exclusively, without any background score.\nC. The contrast between silence and background score amplifies emotional impact.\nD. Background score is absent in all scenes.",
+    "Answer": "The background score enhances the tension during silent moments.; The contrast between silence and background score amplifies emotional impact."
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which themes related to human evolution are explored through the concept of gravity?",
+    "Options": "A. The resilience of life\nB. The extinction of species\nC. The evolution of species\nD. The impact of technology on evolution",
+    "Answer": "The resilience of life, The evolution of species"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which themes are explored through the character's struggle for survival against the backdrop of gravity?",
+    "Options": "A. The resilience of life\nB. The inevitability of death\nC. The importance of human connection\nD. The struggle against nature",
+    "Answer": "The resilience of life, The struggle against nature"
+  }
+]

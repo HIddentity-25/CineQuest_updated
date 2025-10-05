@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Which songs or films are associated with the music of Laxmikant-Pyarelal?",
+    "Options": "A. Maiya Se\nB. Satyam Shivam Sundaram\nC. Badalte Rishtey\nD. Kabhi Khushi Kabhie Gham",
+    "Answer": "A) Maiya Se, B) Satyam Shivam Sundaram, C) Badalte Rishtey"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the song 'Maiya Se' from the movie 'Satyam Shivam Sundaram'?",
+    "Options": "A. 'Maiya Se' is listed at #7 on the Binaca Geetmala annual list 1978.\nB. 'Maiya Se' is performed by Mukesh.\nC. 'Chanchal Sheetal Nirmal Komal' is another song from the same movie.\nD. Mukesh performed 'Maiya Se' as his final performance.",
+    "Answer": "A) 'Maiya Se' is listed at #7 on the Binaca Geetmala annual list 1978., D) Mukesh performed 'Maiya Se' as his final performance."
+  },
+  {
+    "Question": "Which songs from the movie *Satyam Shivam Sundaram* were featured on the Binaca Geetmala annual list in 1978?",
+    "Options": "A. Maiya Se\nB. Chanchal Sheetal Nirmal Komal\nC. Another hit song from the movie\nD. All of the above",
+    "Answer": "A) Maiya Se, B) Chanchal Sheetal Nirmal Komal, C) Another hit song from the movie"
+  },
+  {
+    "Question": "Which songs and performers are associated with the film *Satyam Shivam Sundaram*?",
+    "Options": "A. Maiya Se\nB. Chanchal Sheetal Nirmal Komal\nC. Mukesh & chorus\nD. All of the above",
+    "Answer": "D) All of the above"
+  }
+]

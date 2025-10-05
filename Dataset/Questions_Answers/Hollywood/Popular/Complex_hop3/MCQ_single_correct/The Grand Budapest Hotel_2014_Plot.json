@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "Who was arrested for the murder of Madame D. in *The Grand Budapest Hotel*?",
+    "Options": "A. Dmitri\nB. Madame D.\nC. Gustave\nD. Inspector Alfred J. Henckels",
+    "Answer": "Gustave"
+  },
+  {
+    "Question": "Who is the son of Madame D. in *The Grand Budapest Hotel*?",
+    "Options": "A. Gustave\nB. Dmitri\nC. Zero\nD. M. Gustave",
+    "Answer": "Dmitri"
+  },
+  {
+    "Question": "Who was arrested for the murder of Madame D.?",
+    "Options": "A. Serge X\nB. Gustave\nC. Inspector Alfred J. Henckels\nD. Madame D.",
+    "Answer": "Gustave"
+  },
+  {
+    "Question": "Who is the real killer of Gustave?",
+    "Options": "A. Serge X\nB. Madame D.\nC. Gustave\nD. Dmitri",
+    "Answer": "Dmitri"
+  },
+  {
+    "Question": "Who has a nearly two-decade affair with Gustave H.?",
+    "Options": "A. Dmitri\nB. Madame D.\nC. Gustave\nD. Dmitri's mother",
+    "Answer": "Madame D."
+  },
+  {
+    "Question": "What did Madame D. have that would only take effect if she was murdered?",
+    "Options": "A. A second will\nB. A hidden treasure\nC. A secret letter\nD. An inheritance plan",
+    "Answer": "A second will"
+  },
+  {
+    "Question": "Who is the son of Madame D. in *The Grand Budapest Hotel*?",
+    "Options": "A. Gustave\nB. Dmitri\nC. Madame D.\nD. The Hotel",
+    "Answer": "Dmitri"
+  },
+  {
+    "Question": "Who is the son of Madame D. and is also implicated in the murder of Gustave?",
+    "Options": "A. Gustave\nB. Dmitri\nC. Madame D.\nD. Zero",
+    "Answer": "Dmitri"
+  },
+  {
+    "Question": "Who is the mother of Dmitri, the real killer of Gustave?",
+    "Options": "A. Madame D.\nB. Gustave\nC. Zero\nD. Jopling",
+    "Answer": "Madame D."
+  },
+  {
+    "Question": "Who is the mother of Dmitri, the real killer of Gustave?",
+    "Options": "A. Agatha\nB. Madame D.\nC. Gustave\nD. None of the above",
+    "Answer": "Madame D."
+  }
+]

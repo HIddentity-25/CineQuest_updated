@@ -1,0 +1,47 @@
+[
+  {
+    "Question": "In the 2007 movie 'Cash', which characters are portrayed by Ajay Devgn?",
+    "Options": "A. Karan\nB. Doc\nC. Vikram\nD. Ravi",
+    "Answer": "Karan, Doc"
+  },
+  {
+    "Question": "In the movie 'Cash' (2007), which of the following statements are true regarding the character Angad portrayed by Ajay Devgn?",
+    "Options": "A. Ajay Devgn plays the character Angad.\nB. Angad is a key character in the film.\nC. Ajay Devgn is not part of the cast.\nD. The character Angad is involved in a heist.",
+    "Answer": "Ajay Devgn plays the character Angad., Angad is a key character in the film., The character Angad is involved in a heist."
+  },
+  {
+    "Question": "In the 2007 movie 'Cash', which of the following statements are true regarding the character Lucky and the actor who plays him?",
+    "Options": "A. Lucky is portrayed by Riteish Deshmukh.\nB. Riteish Deshmukh plays the role of a villain in the movie.\nC. Lucky is a central character in 'Cash'.\nD. Riteish Deshmukh is known for his comedic roles.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Cash' (2007), which of the following statements are true regarding the character Dhananjay Jhumbevalkar and the actor Zayed Khan?",
+    "Options": "A. Zayed Khan plays the role of Dhananjay Jhumbevalkar.\nB. Dhananjay Jhumbevalkar is a supporting character in the movie.\nC. Zayed Khan is the protagonist of 'Cash'.\nD. Dhananjay Jhumbevalkar is portrayed by Zayed Khan.",
+    "Answer": "Zayed Khan plays the role of Dhananjay Jhumbevalkar., Dhananjay Jhumbevalkar is portrayed by Zayed Khan."
+  },
+  {
+    "Question": "In the movie 'Cash' (2007), which of the following statements are true regarding the character Pooja?",
+    "Options": "A. A: Pooja is portrayed by Esha Deol.\nB. B: Esha Deol plays the role of Pooja.\nC. C: Pooja is a supporting character in the film.\nD. D: Esha Deol does not appear in the movie.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Cash' (2007), which of the following statements are true regarding the character Shanaya and the actress who portrays her?",
+    "Options": "A. Shanaya is a leading character in the movie.\nB. Shamita Shetty plays the role of Shanaya.\nC. Shanaya is a supporting character in the movie.\nD. Shamita Shetty is known for her role in 'Cash'.",
+    "Answer": "Shanaya is a leading character in the movie., Shamita Shetty plays the role of Shanaya., Shamita Shetty is known for her role in 'Cash'."
+  },
+  {
+    "Question": "In the movie 'Cash' released in 2007, which of the following statements about the characters portrayed by Dia Mirza are correct?",
+    "Options": "A. Aditi Jammwal is portrayed by Dia Mirza.\nB. Dia Mirza plays a character named Jammwal.\nC. Dia Mirza does not appear in the movie.\nD. Aditi is a significant character in the film.",
+    "Answer": "Aditi Jammwal is portrayed by Dia Mirza., Aditi is a significant character in the film."
+  },
+  {
+    "Question": "In the movie 'Cash' (2007), which characters are portrayed by Ayesha Takia?",
+    "Options": "A. Rhea\nB. Preeti\nC. Ayesha\nD. Nina",
+    "Answer": "Rhea, Preeti"
+  },
+  {
+    "Question": "In the movie 'Cash' (2007), which of the following statements are true regarding Bruna Abdullah's role?",
+    "Options": "A. Bruna Abdullah plays a dancer in the film.\nB. Bruna Abdullah appears in the song 'Rahem Kare'.\nC. Bruna Abdullah is the main lead of the movie.\nD. Bruna Abdullah is featured in a dance sequence.",
+    "Answer": "A, B, D"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the movie 'Tashan' released in 2008?",
+    "Options": "A. 'Tashan' is a type of movie.\nB. 'Tashan' is not considered a movie.\nC. 'Tashan' falls under the category of movies.\nD. 'Tashan' is a popular film released in 2008.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "Which of the following statements accurately describe the summaries related to the movie 'Tashan' released in 2008?",
+    "Options": "A. The summaries provide an overview of the plot and characters.\nB. The summaries include detailed behind-the-scenes information.\nC. The summaries highlight key themes and messages of the film.\nD. The summaries are solely focused on the box office performance.",
+    "Answer": "The summaries provide an overview of the plot and characters., The summaries highlight key themes and messages of the film."
+  }
+]

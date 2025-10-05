@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Which of the following characters are associated with Weird Barbie in the movie *Barbie*?",
+    "Options": "A. Kate McKinnon as Weird Barbie\nB. Tom Stourton as Earring Magic Ken\nC. Margot Robbie as Barbie\nD. Ryan Gosling as Ken",
+    "Answer": "Kate McKinnon as Weird Barbie, Tom Stourton as Earring Magic Ken"
+  },
+  {
+    "Question": "Which characters are associated with Sugar in the context of the movie?",
+    "Options": "A. Sugar Daddy Ken\nB. Rob Brydon\nC. Weird Barbie\nD. Sugar",
+    "Answer": "Sugar Daddy Ken, Rob Brydon"
+  },
+  {
+    "Question": "Which characters are associated with Weird Barbie in the context of the movie *Barbie*?",
+    "Options": "A. Weird Barbie\nB. Tom Stourton\nC. Earring Magic Ken\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which characters are associated with Weird Barbie in the context provided?",
+    "Options": "A. Tanner\nB. Weird Barbie\nC. Tom Stourton\nD. Earring Magic Ken",
+    "Answer": "Tanner, Tom Stourton"
+  }
+]

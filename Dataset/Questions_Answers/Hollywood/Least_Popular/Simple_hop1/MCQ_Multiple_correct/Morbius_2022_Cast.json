@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "In the movie 'Morbius' (2022), which of the following statements are true regarding the character Dr. Michael Morbius and the actor who portrays him?",
+    "Options": "A. Jared Leto plays the role of Dr. Michael Morbius.\nB. Dr. Michael Morbius is a superhero character.\nC. Jared Leto is known for his role in 'Suicide Squad' as the Joker.\nD. Dr. Michael Morbius is a vampire-like character.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the 2022 movie 'Morbius', which of the following statements are true regarding the character relationships?",
+    "Options": "A. Charlie Shotwell plays Michael's surrogate brother.\nB. Michael's surrogate brother is portrayed as an adult in the film.\nC. Charlie Shotwell portrays a young version of Michael's surrogate brother.\nD. Charlie Shotwell is not related to Michael's character.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Morbius' (2022), which of the following statements are true regarding the character Dr. Emil Nicholas and the actor who portrays him?",
+    "Options": "A. Dr. Emil Nicholas is portrayed by Jared Harris.\nB. Jared Harris plays the role of a villain in the film.\nC. Dr. Emil Nicholas is a scientist in 'Morbius'.\nD. Jared Harris is known for his role in 'The Crown'.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the 2022 movie 'Morbius', which of the following statements about the characters Al Rodriguez and Al Madrigal are correct?",
+    "Options": "A. Al Madrigal plays the role of Al Rodriguez.\nB. Al Rodriguez is portrayed as a villain in the film.\nC. Al Madrigal is an FBI agent in 'Morbius'.\nD. Al Rodriguez is a superhero character.",
+    "Answer": "Al Madrigal plays the role of Al Rodriguez., Al Madrigal is an FBI agent in 'Morbius'."
+  },
+  {
+    "Question": "In the movie 'Morbius' (2022), which of the following statements about the characters played by Tyrese Gibson and Simon Stroud are correct?",
+    "Options": "A. Tyrese Gibson portrays Simon Stroud, an FBI agent.\nB. Simon Stroud is a character created specifically for the movie.\nC. Tyrese Gibson's character has a different ethnicity than depicted in the comic books.\nD. Simon Stroud is the main antagonist of the movie.",
+    "Answer": "Tyrese Gibson portrays Simon Stroud, an FBI agent. | Tyrese Gibson's character has a different ethnicity than depicted in the comic books."
+  },
+  {
+    "Question": "In the movie 'Morbius' (2022), which of the following statements about the cast are true?",
+    "Options": "A. Corey Johnson plays the role of Mr. Fox.\nB. Mr. Fox is a superhero in the film.\nC. Corey Johnson is a mercenary character in the movie.\nD. Mr. Fox is the main antagonist of Morbius.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Morbius' (2022), which of the following statements about Michael Keaton's character are true?",
+    "Options": "A. Michael Keaton plays the character Adrian Toomes.\nB. Adrian Toomes is also known as Vulture.\nC. Michael Keaton does not appear in the mid-credits scenes.\nD. Adrian Toomes is a character from the Spider-Man universe.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Morbius' (2022), which of the following statements about J. K. Simmons and his character J. Jonah Jameson are true?",
+    "Options": "A. J. K. Simmons portrayed J. Jonah Jameson in 'Morbius'.\nB. J. Jonah Jameson is a character that appeared in 'Morbius'.\nC. J. K. Simmons filmed a cameo appearance as J. Jonah Jameson in 'Morbius'.\nD. J. K. Simmons' scenes as J. Jonah Jameson were included in the final cut of 'Morbius'.",
+    "Answer": "B, C"
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "[\"In the 2019 movie 'Joker', is Murray the employer of Arthur?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In 'Joker' released in 2019, does Arthur employ Murray?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Arthur, in the 2019 movie 'Joker', directly murder Thomas and Martha Wayne during a city-wide riot?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2019 movie 'Joker', did a rioter spare Bruce Wayne after murdering his parents?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2019 movie 'Joker', does Murray survive Arthur's confession during the show?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2019 movie 'Joker', does Arthur confess to the subway murders during the broadcast?\"]",
+        "Answer": "yes"
+    }
+]

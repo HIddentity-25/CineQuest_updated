@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "[\"Is the song 'Salted Wound' in the movie 'Fifty Shades of Grey 2015' performed by a male artist?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is the song 'Salted Wound' from the movie 'Fifty Shades of Grey 2015' performed by the Australian singer Sia?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Ellie Goulding not sing the song 'Love Me Like You Do' in the movie 'Fifty Shades of Grey 2015'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is 'Love Me Like You Do' a song by Ellie Goulding used in the movie 'Fifty Shades of Grey 2015'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did the Weeknd refuse to contribute his voice to the song 'Earned It' in the movie 'Fifty Shades of Grey 2015'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is the song 'Earned It' in the movie 'Fifty Shades of Grey 2015' performed by the Canadian singer, the Weeknd?\"]",
+        "Answer": "yes"
+    }
+]

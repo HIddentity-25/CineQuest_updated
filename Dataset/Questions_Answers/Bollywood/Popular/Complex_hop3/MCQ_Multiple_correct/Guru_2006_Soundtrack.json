@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Who is the composer associated with the soundtrack of the movie 'Guru'?",
+    "Options": "A. A. R. Rahman\nB. Ilaiyaraaja\nC. A. R. Rahman\nD. Pritam",
+    "Answer": "A) A. R. Rahman, C) A. R. Rahman"
+  },
+  {
+    "Question": "Which statements are true regarding the soundtrack of the movie *Guru* and its composer?",
+    "Options": "A. A. R. Rahman composed the soundtrack for *Guru*.\nB. A. R. Rahman is recognized as the best music director for *Guru*.\nC. The soundtrack for *Guru* was not composed by A. R. Rahman.\nD. A. R. Rahman won awards for his work on the soundtrack of *Guru*.",
+    "Answer": "A) A. R. Rahman composed the soundtrack for *Guru*., B) A. R. Rahman is recognized as the best music director for *Guru*., D) A. R. Rahman won awards for his work on the soundtrack of *Guru*."
+  },
+  {
+    "Question": "Which statements are true regarding the soundtrack of the movie 'Guru' and its composer?",
+    "Options": "A. A. R. Rahman composed the soundtrack for the film 'Guru'.\nB. The soundtrack for 'Guru' is recognized for its background score.\nC. A. R. Rahman received awards for his work on the soundtrack of 'Guru'.\nD. The soundtrack of 'Guru' was composed by another artist.",
+    "Answer": "A) A. R. Rahman composed the soundtrack for the film 'Guru'., B) The soundtrack for 'Guru' is recognized for its background score., C) A. R. Rahman received awards for his work on the soundtrack of 'Guru'."
+  },
+  {
+    "Question": "Which statements are true regarding the soundtrack of the movie 'Guru'?",
+    "Options": "A. A. R. Rahman composed the soundtrack for 'Guru'.\nB. The soundtrack for 'Guru' sold approximately 11,50,000 units.\nC. The soundtrack was not successful in terms of sales.\nD. 'Guru' had one of the highest-selling soundtracks in 2006.",
+    "Answer": "A) A. R. Rahman composed the soundtrack for 'Guru'., B) The soundtrack for 'Guru' sold approximately 11,50,000 units., D) 'Guru' had one of the highest-selling soundtracks in 2006."
+  },
+  {
+    "Question": "Which statements are true regarding the composer and the soundtrack of the movie 'Guru'?",
+    "Options": "A. A. R. Rahman is the composer of the soundtrack for 'Guru'.\nB. The soundtrack of 'Guru' was composed by A. R. Rahman.\nC. A. R. Rahman did not compose the soundtrack for 'Guru'.\nD. The soundtrack for 'Guru' is by A. R. Rahman.",
+    "Answer": "A) A. R. Rahman is the composer of the soundtrack for 'Guru'., B) The soundtrack of 'Guru' was composed by A. R. Rahman., D) The soundtrack for 'Guru' is by A. R. Rahman."
+  }
+]

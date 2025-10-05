@@ -1,0 +1,50 @@
+[
+    {
+        "Question": "Does Rebecca pose a threat to Irene in the movie?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Does Rebecca's actions towards Irene ultimately affect Sara's ability to use the phone for help?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Does Rebecca attempt to harm someone near the window?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Does Rebecca's actions directly affect the safety of the dorm?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did Rebecca's actions lead to the need for an extra bed in the room?",
+        "Answer": "Yes."
+    },
+    {
+        "Question": "Did Sara try to save Irene from Rebecca's actions?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did Sara attempt to call for help using the phone?",
+        "Answer": "No"
+    },
+    {
+        "Question": "Did Sara try to get out the window to get help for Irene?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did Sara move back into her dorm after attempting to stop Rebecca from smothering Irene?",
+        "Answer": "Yes."
+    },
+    {
+        "Question": "Does Sara want anyone as a roommate for a while after moving the extra bed out of her room?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Does Irene plead for Sara to save herself in *The Roommate*?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Does Stephen play a role in the events that affect Sara's fate?",
+        "Answer": "Yes"
+    }
+]

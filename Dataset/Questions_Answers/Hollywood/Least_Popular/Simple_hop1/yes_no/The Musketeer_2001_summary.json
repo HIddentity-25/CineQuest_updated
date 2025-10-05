@@ -1,0 +1,458 @@
+[
+    {
+        "Question": "[\"Is the movie 'The Musketeer 2001' about d'artagnan witnessing the murder of his parents by a kind and compassionate man named Febre?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', does d'artagnan attack Febre with his dead father's sword, leaving Febre with a permanent scar and the loss of his left eye?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Does Richelieu support the king's authority in the movie \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Does Richelieu plot to usurp the king's authority in the movie \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In 'The Musketeer 2001', is Richelieu trying to create peace between France, England, and Spain?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'The Musketeer 2001', is Richelieu trying to foment hostility between France, England, and Spain to gain more political power for himself?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', does Richelieu support Febre's intentions to incite full-blown war between England and France?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', does Richelieu lose control of his chief henchman, Febre?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Febre save the queen in the movie 'The Musketeer 2001'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', did Febre kidnap the queen?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'The Musketeer 2001', does the queen write a letter to Buckingham asking him to meet her at a beach?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the movie 'The Musketeer 2001', does the queen use her ring to convince Buckingham of the authenticity of the message in the letter she wrote to him?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did D'Artagnan and Francesca have a hostile relationship in the movie 'The Musketeer 2001'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did D'Artagnan and Francesca become intimate in the movie 'The Musketeer 2001'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does the landlord in 'The Musketeer 2001' ignore d'Artagnan's conversation with Francesca?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Musketeer 2001', does the landlord overhear d'Artagnan and Francesca's conversation and inform Febre?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Porthos and Aramis distrust D'Artagnan in the movie \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In \"The Musketeer 2001\", did D'Artagnan convince Porthos and Aramis to free the imprisoned head of the musketeers?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'The Musketeer 2001', did Febre incite a mob to attack a local market?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'The Musketeer 2001', does Febre incite a mob to attack the royal palace during a state dinner for Lord Buckingham, a visiting English dignitary?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In 'The Musketeer 2001', does Febre visit Richelieu to reveal d'Artagnan's plans?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'The Musketeer 2001', does Richelieu visit d'Artagnan to reveal Febre's plans?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', does Febre release Francesca without any conditions?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the plot of 'The Musketeer 2001', does d'Artagnan agree to help stop Febre because he is holding Francesca?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did D'Artagnan fail to convince the surviving musketeers to join him in stopping Febre in the movie \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"The Musketeer 2001\", did D'Artagnan convince the surviving musketeers that their responsibility to the crown remains their highest priority?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Francesca held at a beach in the movie 'The Musketeer 2001'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', does d'Artagnan charge on horseback to a castle where Francesca is being held?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the movie 'The Musketeer 2001' about the musketeers being defeated by Febre's men?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', do the remaining musketeers easily deal with Febre's men while d'Artagnan engages Febre himself in an intense duel?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'The Musketeer 2001', did D'Artagnan divorce Francesca at the end of the film?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'The Musketeer 2001', does D'Artagnan marry Francesca at the end of the film?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Does the movie \"The Musketeer 2001\" ignore the historical figures mentioned in the book in favor of Febre?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "In \"The Musketeer 2001\", does Febre have a less significant role compared to the historical figures mentioned in the book?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did d'artagnan's parents' murder in \"The Musketeer 2001\" form part of Richelieu's conspiracy?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In \"The Musketeer 2001\", is d'artagnan a witness to his parents' murder?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Planchet just a servant hired by D'Artagnan in Paris in the movie 'The Musketeer 2001'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Musketeer 2001', does Planchet raise D'Artagnan after his parents' death and arm himself with concealed pistols?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the movie 'The Musketeer 2001' an original story not based on any pre-existing work?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is the character 'd'Artagnan' featured in the 'The Musketeer 2001', which is an adaptation of 'The Three Musketeers'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is \"The Musketeer 2001\" a completely original concept, not related to any other adaptations of the Three Musketeers?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Is \"The Musketeer 2001\" related to Columbia's adaptation of the Three Musketeers, as they were in development around the same time?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did the movie \"The Musketeer 2001\" have no relation to the Three Musketeers adaptation being developed by Gene Quintano and Moshe Diamant?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Were both the Three Musketeers adaptation being developed by Gene Quintano and Moshe Diamant and Tri-Star's adaptation for the movie \"The Musketeer 2001\" in development around the same time?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did the early coverage of the production name Mena Suvari as a supporting actress in 'The Musketeer 2001'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was Mena Suvari named as the lead actress in the early coverage of the production for 'The Musketeer 2001'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Michael Lonsdale decline to participate in the production of \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was Michael Lonsdale mentioned in the early coverage of \"The Musketeer 2001\" as being a significant figure in the project?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Gene Quintano replace Peter Hyams as the director of 'The Musketeer 2001'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was Peter Hyams the one who replaced Gene Quintano as the director of 'The Musketeer 2001'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did MDP Worldwide split from Behaviour Communications in the movie \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did MDP Worldwide merge with Behaviour Communications in the context of the movie \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Catherine Deneuve refuse to star in 'Eyes Wide Shut' shortly before filming began?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was Catherine Deneuve involved in negotiations for several months before signing on to star in 'Eyes Wide Shut'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Was \"The Musketeer 2001\" co-produced by MDP Worldwide, Luxembourg's Carousel Picture Company, and German tax shelter fund AppolloMedia just like \"feardotcom\" and \"eyes wide shut\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Is there a connection between \"feardotcom\" and \"eyes wide shut\" in terms of their production companies?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Is 'The Musketeer 2001' a co-production between the United States, the United Kingdom, Germany, and Luxembourg like 'Eyes Wide Shut'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Does the movie 'Eyes Wide Shut' have a co-production connection with Germany in its summary context?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Luxembourg's Carousel Picture Company co-produce \"The Musketeer 2001\" with \"Eyes Wide Shut\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was \"Eyes Wide Shut\" a co-production between the United States, the United Kingdom, Germany, and Luxembourg's Carousel Picture Company, unrelated to \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did MDP Worldwide produce 'The Musketeer 2001'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was MDP Worldwide involved in the production of other movies, including 'FeardotCom'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did the casting agents for \"The Musketeer 2001\" find it easy to find suitable extras from the local population?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did the casting agents for \"The Musketeer 2001\" face challenges in finding suitable extras due to the modern inhabitants of rural Southern France looking too urban?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'The Musketeer 2001', is downtown Brionne portrayed by the city of Paris?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'The Musketeer 2001', does Monpazier stand in for downtown Brionne?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Sarlat not featured in any adaptation of Dumas' work in the movie 'The Musketeer 2001' ?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is Sarlat featured in another adaptation of Dumas' work, 'Revenge of the Musketeers', in the context of the movie 'The Musketeer 2001'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the Royal Palace in 'The Musketeer 2001' not based on the redecorated Capitole in Toulouse?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is the Royal Palace in 'The Musketeer 2001' based on the redecorated Capitole in Toulouse?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Richelieu's residence in 'The Musketeer 2001' based on the Eiffel Tower in Paris?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'The Musketeer 2001', is Richelieu's residence based on the Convent of the Jacobins in Toulouse?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is the Château de Caumont in Cazaux-Savès portrayed as a bakery in the movie \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Does the Château de Caumont in Cazaux-Savès stand in for the Musketeers' headquarters at Monsieur de Tréville's in the movie \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Hyams, Diamant, Chambers, and Castaldi become honorary 'musketeers' during the filming of a different movie, not \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "During the filming of \"The Musketeer 2001\", were Hyams, Diamant, Chambers, and Castaldi made honorary 'musketeers' in a ceremony at fr:Cathédrale Saint-Pierre de Condom?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is Vianden Castle in Luxembourg not used as the fictional Duchamps Castle in the movie \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was Vianden Castle in Luxembourg used as the fictional Duchamps Castle in the movie \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is 'The Musketeer 2001' a modern adaptation of a science fiction novel?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is 'The Musketeer 2001' a reimagination of Alexandre Dumas's classic?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the film 'The Musketeer 2001' premiered in New York?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did the film 'The Musketeer 2001' hold its world premiere in Los Angeles?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did 'The Musketeer 2001' have its European premiere at the Cannes Film Festival?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was the European premiere of 'The Musketeer 2001' held at the Deauville Festival?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Warner Bros. release the film \"The Musketeer 2001\" in North America?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was the film \"The Musketeer 2001\" released in North America by Universal?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Warner Bros release the film 'The Musketeer 2001' in the United Kingdom?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the film 'The Musketeer 2001' released in the United Kingdom by Miramax?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did the film \"The Musketeer 2001\" hold its world premiere in New York on September 5, 2001?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did the film \"The Musketeer 2001\" hold its world premiere in Los Angeles on September 5, 2001?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did \"The Musketeer 2001\" have its European premiere at the Cannes Film Festival on September 7, 2001?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was \"The Musketeer 2001\" premiered in Europe at the Deauville Festival on September 7, 2001?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is the association between 'The Musketeer' and 'Musketeers of the Guard' in \"The Musketeer 2001\" strongly related?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Is there an association, even if loosely, between 'The Musketeer' and 'Musketeers of the Guard' in \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is Vianden Castle referred to as a different name in the movie \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is Duchamps Castle a real castle that was used in the filming of \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is it accurate to say that 'The Musketeer 2001' did not use Vianden Castle for its climactic action scene?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is it true that the film 'The Musketeer 2001' used Vianden Castle for its climactic action scene?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is it true that Xin-Xin Xiong was not involved in the film \"The Musketeer 2001\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did Xin-Xin Xiong serve as Tim Roth's stunt double in \"The Musketeer 2001\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did \"The Musketeer 2001\" premiere at the Cannes Film Festival?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was \"The Musketeer 2001\" shown at the American Film Market in the form of a sizzle reel?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was 'The Musketeer 2001' not shown at the American Film Market in March 2001?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was 'The Musketeer 2001' shown at the American Film Market in March 2001?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did \"The Musketeer 2001\" gross over $10 million internationally?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did \"The Musketeer 2001\" struggle to gross only $7 million internationally?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did \"The Musketeer 2001\" fail to generate any combined worldwide gross?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was the combined worldwide gross of \"The Musketeer 2001\" $34 million?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did the sales of the film's rights and tax optimization result in a financial loss for \"The Musketeer 2001\" according to MDP?",
+        "Answer": "no"
+    },
+    {
+        "Question": "According to MDP, did the sales of the film's rights and efficient tax optimization make \"The Musketeer 2001\" a positive venture?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Is Decca Records independent and not a subsidiary of Universal Music in the movie 'The Musketeer 2001'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the movie 'The Musketeer 2001', does Decca Records, a subsidiary of Universal Music, have a relationship with Universal Music as suggested by the soundtrack at Universal Studios Florida?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the soundtrack of 'The Musketeer 2001' not associated with Decca Records?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was the soundtrack featuring Decca Records from 'The Musketeer 2001' frequently heard at the entrance of Universal Studios Florida?\"]",
+        "Answer": "yes"
+    }
+]

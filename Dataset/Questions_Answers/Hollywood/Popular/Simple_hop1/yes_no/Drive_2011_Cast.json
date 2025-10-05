@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "[\"Did Ryan Gosling not play the character of 'The Driver' in the 2011 movie 'Drive'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Ryan Gosling portray the character 'The Driver' in the movie 'Drive' released in 2011?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Carey Mulligan portray a character other than Irene Gabriel in the 2011 movie 'Drive'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Was Carey Mulligan the actress who portrayed the character Irene Gabriel in the 2011 movie 'Drive'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2011 movie 'Drive', was Bryan Cranston not cast as Shannon?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Bryan Cranston play the character Shannon in the 2011 movie 'Drive'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Albert Brooks play the character Bernie Rose in the movie 'Drive' released in 2011?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2011 movie 'Drive', was the character Bernie Rose played by an actor other than Albert Brooks?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Oscar Isaac not play the character of Standard Gabriel in the 2011 movie, Drive?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is Oscar Isaac the actor who portrayed the character Standard Gabriel in the movie Drive, released in 2011?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Christina Hendricks not play the character Blanche in the film Drive released in 2011?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2011 film Drive, was Christina Hendricks cast as the character Blanche?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Ron Perlman not play the character Nino 'Izzy' Paolozzi in the 2011 movie Drive?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Ron Perlman perform as Nino 'Izzy' Paolozzi in the movie Drive released in 2011?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie Drive, did Kaden Leos play the character Benicio Gabriel?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 film Drive, was the role of Benicio Gabriel played by an actor other than Kaden Leos?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did James Biberi not play the character Chris Cook in the 2011 movie, Drive?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the 2011 movie, Drive, feature James Biberi as Chris Cook?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Russ Tamblyn play the character Doc in the 2011 movie Drive?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is it true that Russ Tamblyn portrays a character named Doc in a film?\"",
+        "Answer": "yes"
+    }
+]

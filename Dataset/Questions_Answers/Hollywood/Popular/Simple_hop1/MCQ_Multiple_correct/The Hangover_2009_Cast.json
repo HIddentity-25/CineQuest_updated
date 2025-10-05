@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "In the movie 'The Hangover' (2009), which characters are portrayed by Sondra Currie?",
+    "Options": "A. Linda\nB. Rachel\nC. Megan\nD. Tina",
+    "Answer": "Linda"
+  },
+  {
+    "Question": "In the movie 'The Hangover' (2009), which relationships can be inferred between the characters Tracy and Alan's mother?",
+    "Options": "A. Tracy is Alan's mother\nB. Tracy is related to Alan's mother\nC. Tracy and Alan's mother are the same person\nD. Tracy is not related to Alan's mother",
+    "Answer": "Tracy is related to Alan's mother"
+  },
+  {
+    "Question": "In the movie 'The Hangover' (2009), which of the following statements about Gillian Vigman and her character Stephanie are true?",
+    "Options": "A. Gillian Vigman plays the role of Stephanie.\nB. Stephanie is a central character in the movie.\nC. Gillian Vigman is known for her comedic roles.\nD. Stephanie is involved in the main storyline of the film.",
+    "Answer": "Gillian Vigman plays the role of Stephanie., Gillian Vigman is known for her comedic roles., Stephanie is involved in the main storyline of the film."
+  },
+  {
+    "Question": "In the movie 'The Hangover' (2009), which of the following statements are true regarding the roles of Nathalie Fay and Lisa Todd Phillips?",
+    "Options": "A. Nathalie Fay plays the character Mr. Creepy.\nB. Lisa Todd Phillips directed the movie.\nC. Nathalie Fay has a major role in the film.\nD. Lisa Todd Phillips is involved in the direction of a scene featuring Nathalie Fay.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'The Hangover' (2009), which of the following statements are true about Mike Vallely's character Neeco?",
+    "Options": "A. Neeco is a high-speed tuxedo delivery man.\nB. Neeco is the main character of the movie.\nC. Neeco provides comic relief during the film.\nD. Neeco delivers tuxedos to the groom.",
+    "Answer": "A, C, D"
+  }
+]

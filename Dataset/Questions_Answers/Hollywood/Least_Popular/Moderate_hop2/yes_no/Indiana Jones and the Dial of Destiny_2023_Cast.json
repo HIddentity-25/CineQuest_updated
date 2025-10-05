@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "Was Helena Shaw described as 'slippery', 'charming', and a 'grifter' in the given context?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was Mads Mikkelsen's character hired by NASA to run the Apollo Moon landing program?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was Dr. Jürgen Voller hired by NASA to run the Apollo Moon landing program?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Was John Rhys-Davies involved in finding the Ark of the Covenant and the Holy Grail in *Indiana Jones and the Dial of Destiny*?",
+        "Answer": "No"
+    },
+    {
+        "Question": "Is Basil Shaw an Oxford professor of archaeology in the movie *Indiana Jones and the Dial of Destiny*?",
+        "Answer": "No"
+    },
+    {
+        "Question": "Was Toby Jones obsessed with the Dial in *Indiana Jones and the Dial of Destiny*?",
+        "Answer": "No"
+    }
+]

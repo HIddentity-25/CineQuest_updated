@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "Which of the following statements accurately describe 'The Animal' (2001) based on its summary?",
+    "Options": "A. The movie revolves around a man who undergoes a transformation.\nB. The main character is a veterinarian who helps animals.\nC. The plot includes elements of comedy and fantasy.\nD. The film is set in a futuristic world.",
+    "Answer": "The movie revolves around a man who undergoes a transformation., The plot includes elements of comedy and fantasy."
+  },
+  {
+    "Question": "In the movie 'The Animal' (2001), what conditions lead to a message being displayed?",
+    "Options": "A. An error occurred\nB. A confirmation dialog needs to be shown\nC. A character is successfully transformed\nD. A comedic scene is unfolding",
+    "Answer": "An error occurred, A confirmation dialog needs to be shown"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "In the context of the movie 'Ludo', released in 2020, what relationship exists between the film and its production?",
+    "Options": "A. The film is produced by independent filmmakers.\nB. The film's production details are explicitly stated.\nC. The film was produced in multiple countries.\nD. The film's production was delayed due to COVID-19.",
+    "Answer": "The film's production details are explicitly stated."
+  },
+  {
+    "Question": "Who is the producer of the movie 'Ludo', released in 2020?",
+    "Options": "A. Rajkumar Hirani\nB. Anurag Basu\nC. Karan Johar\nD. Sanjay Leela Bhansali",
+    "Answer": "Anurag Basu"
+  },
+  {
+    "Question": "In the 2020 movie 'Ludo', who is one of the producers alongside Anurag Basu?",
+    "Options": "A. Taani Basu\nB. Rajkummar Rao\nC. Pankaj Tripathi\nD. Sanya Malhotra",
+    "Answer": "Taani Basu"
+  },
+  {
+    "Question": "In the 2020 movie 'Ludo', who is one of the producers involved in the film's production?",
+    "Options": "A. Anurag Basu\nB. Taani Basu\nC. Bhushan Kumar\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "In the 2020 movie 'Ludo', who is responsible for the film's music?",
+    "Options": "A. Amit Trivedi\nB. Pritam\nC. A.R. Rahman\nD. Vishal-Shekhar",
+    "Answer": "Pritam"
+  }
+]

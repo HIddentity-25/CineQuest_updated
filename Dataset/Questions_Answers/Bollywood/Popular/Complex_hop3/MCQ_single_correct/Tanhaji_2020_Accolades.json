@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which award did Ajay Devgn win for his performance in the movie?",
+    "Options": "A. Best Choreography\nB. Best Actor\nC. Best Director\nD. Best Supporting Actor",
+    "Answer": "Best Actor"
+  },
+  {
+    "Question": "Which award did Ajay Devgn win for his performance in the movie?",
+    "Options": "A. Best Director\nB. Best Actor\nC. Best Supporting Actor\nD. Best Background Score",
+    "Answer": "Best Actor"
+  },
+  {
+    "Question": "Who won the Best Actor award for their performance in the movie?",
+    "Options": "A. Shah Rukh Khan\nB. Salman Khan\nC. Ajay Devgn\nD. Ranbir Kapoor",
+    "Answer": "Ajay Devgn"
+  }
+]

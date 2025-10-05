@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "Who guards the talisman in the monastery with a hammer-wielding, deformed appearance?",
+    "Options": "A. monastery\nB. talisman\nC. monk\nD. sword",
+    "Answer": "monk"
+  },
+  {
+    "Question": "Where is the talisman guarded by a hammer-wielding, deformed monk?",
+    "Options": "A. Monastery\nB. Talisman\nC. Holy Water\nD. Chamber",
+    "Answer": "Monastery"
+  },
+  {
+    "Question": "Who guards the talisman in the movie *BloodRayne*?",
+    "Options": "A. Rayne\nB. Talisman\nC. Monk\nD. Hammer-wielding Deformed Monk",
+    "Answer": "Monk"
+  },
+  {
+    "Question": "What action causes the chamber to flood with holy water in the movie *BloodRayne*?",
+    "Options": "A. Rayne takes the talisman\nB. Rayne fights with Talisman\nC. Talisman is dropped\nD. Holy water spills accidentally",
+    "Answer": "Rayne takes the talisman"
+  },
+  {
+    "Question": "What item does Rayne take in the movie *BloodRayne*?",
+    "Options": "A. Eyeball\nB. Rayne\nC. Talisman\nD. Blood",
+    "Answer": "Talisman"
+  },
+  {
+    "Question": "What does Rayne take in the movie *BloodRayne*?",
+    "Options": "A. Eyeball\nB. Rayne\nC. Heart Talisman\nD. Blood",
+    "Answer": "Heart Talisman"
+  },
+  {
+    "Question": "What happens when the eyeball becomes absorbed into Rayne's own eye?",
+    "Options": "A. The eyeball gains special powers\nB. Rayne gains control over the eyeball\nC. Rayne kills Katarin and takes the heart talisman\nD. Katarin gains control over Rayne",
+    "Answer": "Rayne gains control over the eyeball"
+  },
+  {
+    "Question": "Which body part came from an ancient vampire called Belial in the movie *BloodRayne*?",
+    "Options": "A. Heart\nB. Talisman\nC. Monk\nD. Blood",
+    "Answer": "Heart"
+  },
+  {
+    "Question": "What causes the chamber to flood with holy water in the movie 'BloodRayne'?",
+    "Options": "A. heart\nB. talisman\nC. holy water\nD. Belial",
+    "Answer": "talisman"
+  },
+  {
+    "Question": "Who kills Katarin and takes the Heart Talisman?",
+    "Options": "A. Rayne\nB. Katarin\nC. Heart Talisman\nD. Grandfather",
+    "Answer": "Rayne"
+  }
+]

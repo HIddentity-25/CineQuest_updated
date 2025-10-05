@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "Which statements are true regarding the film 'Lage Raho Munna Bhai' and its soundtrack?",
+    "Options": "A. 'Lage Raho Munna Bhai' is a Bollywood film.\nB. Shantanu Moitra composed the soundtrack for 'Lage Raho Munna Bhai'.\nC. The soundtrack for 'Lage Raho Munna Bhai' was produced by Shantanu Moitra.\nD. 'Lage Raho Munna Bhai' was released in the same year as 'yahaan'.",
+    "Answer": "A) 'Lage Raho Munna Bhai' is a Bollywood film., B) Shantanu Moitra composed the soundtrack for 'Lage Raho Munna Bhai', C) The soundtrack for 'Lage Raho Munna Bhai' was produced by Shantanu Moitra."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships among the nodes related to the film 'Lage Raho Munna Bhai'?",
+    "Options": "A. 'Lage Raho Munna Bhai' is a Bollywood film.\nB. Shantanu Moitra composed the soundtrack for 'Lage Raho Munna Bhai'.\nC. 'yahaan' is another Bollywood film.\nD. Shantanu Moitra is known as a composer.",
+    "Answer": "A) 'Lage Raho Munna Bhai' is a Bollywood film., B) Shantanu Moitra composed the soundtrack for 'Lage Raho Munna Bhai'., D) Shantanu Moitra is known as a composer."
+  }
+]

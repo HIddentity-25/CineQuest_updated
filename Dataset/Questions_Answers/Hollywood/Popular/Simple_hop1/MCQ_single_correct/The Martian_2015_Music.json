@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Who composed the score for the movie 'The Martian', released in 2015?",
+    "Options": "A. Hans Zimmer\nB. Harry Gregson-Williams\nC. John Williams\nD. Danny Elfman",
+    "Answer": "Harry Gregson-Williams"
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', which two songs are included in the exit music, with 'Don't Leave Me This Way' playing first?",
+    "Options": "A. I Will Always Love You\nB. Don't Leave Me This Way\nC. I Will Survive\nD. Stayin' Alive",
+    "Answer": "Don't Leave Me This Way and I Will Survive"
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', which song by ABBA is included in the soundtrack?",
+    "Options": "A. Dancing Queen\nB. Mamma Mia\nC. Waterloo\nD. Take a Chance on Me",
+    "Answer": "Waterloo"
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', which song by Gloria Gaynor is played during the closing credits?",
+    "Options": "A. I Will Always Love You\nB. I Will Survive\nC. Like a Prayer\nD. Dancing Queen",
+    "Answer": "I Will Survive"
+  },
+  {
+    "Question": "Which song by David Bowie is included in the soundtrack of the movie 'The Martian' released in 2015?",
+    "Options": "A. Space Oddity\nB. Starman\nC. Heroes\nD. Life on Mars?",
+    "Answer": "Starman"
+  }
+]

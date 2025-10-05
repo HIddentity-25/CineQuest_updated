@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "Does the movie \"R... Rajkumar\" released in 2013 have a summary that does not describe its plot or theme?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is the summary of the movie \"R... Rajkumar\" released in 2013 essential for understanding its characters and storyline?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Does the movie \"R... Rajkumar\" released in 2013 have a summary that lacks details?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is the summary of the movie \"R... Rajkumar\" from 2013 included in its details?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Does the movie \"R... Rajkumar\" released in 2013 summarize its plot without any other reasons for displaying a message?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Are there other specific reasons for displaying a message in the movie \"R... Rajkumar\" released in 2013, in addition to summarizing the movie?",
+        "Answer": "YES"
+    }
+]

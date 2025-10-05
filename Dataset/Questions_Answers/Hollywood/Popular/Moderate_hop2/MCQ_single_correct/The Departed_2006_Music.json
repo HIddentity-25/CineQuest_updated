@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which musician contributed to the score of the movie 'The Departed' in 2006?",
+    "Options": "A. Sharon Isbin\nB. G. E. Smith\nC. Larry Saltzman\nD. Martin Scorsese",
+    "Answer": "G. E. Smith"
+  },
+  {
+    "Question": "Which musician contributed to the score of the movie 'The Departed' and was part of the soundtrack composition for the same movie?",
+    "Options": "A. Sharon Isbin\nB. G. E. Smith\nC. Larry Saltzman\nD. Marc Ribot",
+    "Answer": "Marc Ribot"
+  },
+  {
+    "Question": "Which musician collaborated with director Martin Scorsese on the score for 'The Departed' in 2006?",
+    "Options": "A. Sharon Isbin\nB. Larry Saltzman\nC. Marc Ribot\nD. Martin Scorsese",
+    "Answer": "Larry Saltzman"
+  },
+  {
+    "Question": "Who collaborated with Director Martin Scorsese on the score for 'The Departed' in 2006?",
+    "Options": "A. Sharon Isbin\nB. Martin Scorsese\nC. Murder by Contract\nD. Christian Bale",
+    "Answer": "Sharon Isbin"
+  },
+  {
+    "Question": "Who collaborated with Director Martin Scorsese on the score for 'The Departed' in 2006?",
+    "Options": "A. Sharon Isbin\nB. Martin Scorsese\nC. Zither\nD. Gary Oldman",
+    "Answer": "Sharon Isbin"
+  },
+  {
+    "Question": "Which musician was involved in creating the soundtrack for 'The Departed' in 2006?",
+    "Options": "A. g. e. smith\nB. larry saltzman\nC. marc ribot\nD. Martin Scorsese",
+    "Answer": "g. e. smith"
+  }
+]

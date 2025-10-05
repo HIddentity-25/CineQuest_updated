@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the movie 'The Departed' released in 2006?",
+    "Options": "A. 'The Departed' is a remake of the Hong Kong film 'Infernal Affairs'.\nB. Martin Scorsese directed 'The Departed'.\nC. 'Infernal Affairs' was released after 'The Departed'.\nD. 'The Departed' won the Academy Award for Best Picture.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the film 'The Departed' released in 2006?",
+    "Options": "A. Martin Scorsese directed 'The Departed'.\nB. 'The Departed' is a remake of the film 'Infernal Affairs'.\nC. Martin Scorsese acquired the rights to remake 'Infernal Affairs' in 2003.\nD. 'The Departed' was released in 2005.",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the production of 'The Departed' released in 2006?",
+    "Options": "A. Martin Scorsese directed 'The Departed'.\nB. The Departed was greenlit by Warner Bros in early 2005.\nC. The filming of 'The Departed' began in the spring of 2006.\nD. Warner Bros was involved in the production of 'The Departed'.",
+    "Answer": "Martin Scorsese directed 'The Departed', The Departed was greenlit by Warner Bros in early 2005, Warner Bros was involved in the production of 'The Departed'."
+  },
+  {
+    "Question": "In the movie 'The Departed' (2006), which of the following statements accurately describe the relationship between the FBI and Whitey Bulger?",
+    "Options": "A. The FBI provided Whitey Bulger with protection in exchange for information.\nB. Whitey Bulger was a key informant for the FBI against rival gangsters.\nC. The FBI had no involvement with Whitey Bulger's criminal activities.\nD. Whitey Bulger was allowed to operate freely due to his cooperation with the FBI.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "Which of the following statements about the production of 'The Departed' (2006) are correct?",
+    "Options": "A. Tom Duffy served as a technical consultant for the film.\nB. Tom Duffy was an actor in 'The Departed'.\nC. Tom Duffy had a background in investigating the Irish mob.\nD. The Departed was released in 2005.",
+    "Answer": "Tom Duffy served as a technical consultant for the film., Tom Duffy had a background in investigating the Irish mob."
+  },
+  {
+    "Question": "In the movie 'The Departed' (2006), which locations were used for filming scenes?",
+    "Options": "A. Boston\nB. New York City\nC. Los Angeles\nD. Chicago",
+    "Answer": "A. Boston, B. New York City"
+  }
+]

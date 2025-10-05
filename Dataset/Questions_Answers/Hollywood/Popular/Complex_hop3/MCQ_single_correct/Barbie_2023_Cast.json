@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "Which character lives with Weird Barbie in the movie?",
+    "Options": "A. Kate McKinnon\nB. Tom Stourton\nC. Earring Magic Ken\nD. Barbie",
+    "Answer": "Tom Stourton"
+  },
+  {
+    "Question": "Which character lives with Weird Barbie in the movie context?",
+    "Options": "A. Tanner\nB. Earring Magic Ken\nC. Tom Stourton\nD. Barbie",
+    "Answer": "Earring Magic Ken"
+  }
+]

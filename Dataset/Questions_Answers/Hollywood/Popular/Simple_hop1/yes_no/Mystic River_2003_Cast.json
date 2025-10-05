@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "[\"Did Sean Penn portray the character of Jason Kelly in the 2003 movie, Mystic River?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2003 movie Mystic River, was the young Sean Penn portrayed by Jason Kelly?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2003 film 'Mystic River', was the character of young Tim Robbins played by an actor other than Cameron Bowen?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Mystic River' released in 2003, did Cameron Bowen portray the young Tim Robbins?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Kevin Bacon portray the character of Connor Paolo in the 2003 movie, Mystic River?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was the young version of Kevin Bacon's character in the 2003 movie, Mystic River, portrayed by Connor Paolo?\"",
+        "Answer": "yes"
+    }
+]

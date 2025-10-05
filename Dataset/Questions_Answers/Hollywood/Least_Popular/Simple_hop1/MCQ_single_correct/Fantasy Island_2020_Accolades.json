@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "What nomination did the movie 'Fantasy Island' receive at the 2021 Golden Raspberry Awards?",
+    "Options": "A. Best Picture\nB. Worst Picture\nC. Best Director\nD. Worst Actor",
+    "Answer": "Worst Picture"
+  },
+  {
+    "Question": "Which producers of the movie 'Fantasy Island' (2020) were nominated for Worst Picture at the 2021 Golden Raspberry Awards?",
+    "Options": "A. Jason Blum, Marc Toberoff and Jeff Wadlow\nB. Steven Spielberg and George Lucas\nC. Christopher Nolan and Emma Thomas\nD. James Cameron and Jon Landau",
+    "Answer": "Jason Blum, Marc Toberoff and Jeff Wadlow"
+  },
+  {
+    "Question": "In the movie 'Fantasy Island' (2020), which actress received a nomination for Worst Supporting Actress at the 2021 Golden Raspberry Awards?",
+    "Options": "A. Lucy Hale\nB. Maggie Q\nC. Michael Peña\nD. Jimmy O. Yang",
+    "Answer": "Lucy Hale"
+  },
+  {
+    "Question": "In the movie 'Fantasy Island' (2020), which actress received a nomination for Worst Supporting Actress at the 2021 Golden Raspberry Awards?",
+    "Options": "A. Maggie Q\nB. Lucy Hale\nC. Michael Peña\nD. Jimmy O. Yang",
+    "Answer": "Maggie Q"
+  },
+  {
+    "Question": "What nomination did the movie 'Fantasy Island' receive at the 2021 Golden Raspberry Awards?",
+    "Options": "A. Best Picture\nB. Worst Prequel, Remake, Rip-off or Sequel\nC. Best Director\nD. Worst Actor",
+    "Answer": "Worst Prequel, Remake, Rip-off or Sequel"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "In the 2011 movie 'Zookeeper', what event is described by the phrase 'Since the outbreak of the news'?",
+    "Options": "A. A new animal exhibit opening\nB. A viral infection affecting the animals\nC. A scandal involving the zookeeper\nD. An unexpected visitor at the zoo",
+    "Answer": "A viral infection affecting the animals"
+  },
+  {
+    "Question": "In the 2011 movie 'Zookeeper', which organization did ADI contact to ensure the welfare of the animals?",
+    "Options": "A. The American Red Cross\nB. The American Humane Association\nC. The Wildlife Conservation Society\nD. The Animal Rescue League",
+    "Answer": "The American Humane Association"
+  },
+  {
+    "Question": "In the 2011 movie 'Zookeeper', which animal rights organization urged the public to boycott the film?",
+    "Options": "A. HSUS\nB. PETA\nC. ASPCA\nD. Animal Welfare Institute",
+    "Answer": "PETA"
+  }
+]

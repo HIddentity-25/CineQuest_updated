@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Who portrayed Amsterdam Vallon in the movie 'Gangs of New York'?",
+    "Options": "A. Leonardo DiCaprio\nB. Daniel Day-Lewis\nC. John C. Reilly\nD. Martin Scorsese",
+    "Answer": "Leonardo DiCaprio"
+  },
+  {
+    "Question": "Who portrayed 'Amsterdam' Vallon in the movie *Gangs of New York*?",
+    "Options": "A. Leonardo DiCaprio\nB. Daniel Day-Lewis\nC. Cameron Diaz\nD. Martin Scorsese",
+    "Answer": "Leonardo DiCaprio"
+  },
+  {
+    "Question": "Who portrayed 'amsterdam' Vallon in the movie *Gangs of New York*?",
+    "Options": "A. Leonardo DiCaprio\nB. Daniel Day-Lewis\nC. Brendan Gleeson\nD. Martin Scorsese",
+    "Answer": "Leonardo DiCaprio"
+  },
+  {
+    "Question": "Who portrayed William 'Bill the Butcher' Cutting in the movie 'Gangs of New York'?",
+    "Options": "A. Daniel Day-Lewis\nB. Brendan Gleeson\nC. Eddie Marsan\nD. Liam Neeson",
+    "Answer": "Daniel Day-Lewis"
+  }
+]

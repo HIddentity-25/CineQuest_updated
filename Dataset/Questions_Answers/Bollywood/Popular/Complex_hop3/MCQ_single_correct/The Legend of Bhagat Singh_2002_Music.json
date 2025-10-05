@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "Which singer lent her voice to the song 'Mahive Mahive' from the movie 'Mera Rang De Basanti'?",
+    "Options": "A. Sunidhi Chauhan\nB. Shreya Ghoshal\nC. Alka Yagnik\nD. Lata Mangeshkar",
+    "Answer": "Alka Yagnik"
+  },
+  {
+    "Question": "Which singer lent his voice to the song 'Mahive Mahive' from the movie 'Mera Rang De Basanti'?",
+    "Options": "A. Sonu Nigam\nB. Arijit Singh\nC. Udit Narayan\nD. Kumar Sanu",
+    "Answer": "Udit Narayan"
+  },
+  {
+    "Question": "Who created a softer tune for the movie *The Legend of Bhagat Singh*?",
+    "Options": "A. A) Vishal Bhardwaj\nB. B) A. R. Rahman\nC. C) Pritam\nD. D) Shankar-Ehsaan-Loy",
+    "Answer": "B) A. R. Rahman"
+  },
+  {
+    "Question": "Which song was particularly well-rendered along with 'Mahive Mahive'?",
+    "Options": "A. sura so pahchaniye\nB. mera rang de basanti\nC. sarfaroshi ki tamanna\nD. chura liya hai tumne jo dil ko",
+    "Answer": "sarfaroshi ki tamanna"
+  },
+  {
+    "Question": "Which singer lent his voice to the song 'Sarfaroshi Ki Tamanna'?",
+    "Options": "A. A. Arijit Singh\nB. B. Sonu Nigam\nC. C. Atif Aslam\nD. D. Rahat Fateh Ali Khan",
+    "Answer": "B. Sonu Nigam"
+  },
+  {
+    "Question": "Which singer lent his voice to the song 'Sarfaroshi Ki Tamanna'?",
+    "Options": "A. A. A.R. Rahman\nB. B. Sonu Nigam\nC. C. Hariharan\nD. D. Arijit Singh",
+    "Answer": "C. Hariharan"
+  },
+  {
+    "Question": "Which song, known for its intense composition, shares a similar context with 'sura so pahchaniye'?",
+    "Options": "A. mera rang de basanti\nB. sarfaroshi ki tamanna (duet version)\nC. pagdi sambhal jatta\nD. chura liya hai tumne jo dil ko",
+    "Answer": "mera rang de basanti"
+  },
+  {
+    "Question": "Which singer lent his voice to the song 'Pagdi Sambhal Jatta' from the film 'Bhagat Singh'?",
+    "Options": "A. A) Gurdas Maan\nB. B) Sukhwinder Singh\nC. C) Daler Mehndi\nD. D) Jagjit Singh",
+    "Answer": "B) Sukhwinder Singh"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Which actresses were considered for the female lead in the movie 'Yaadein'?",
+    "Options": "A. Hrithik Roshan\nB. Kareena Kapoor\nC. Ameesha Patel\nD. All of the above",
+    "Answer": "Kareena Kapoor, Ameesha Patel"
+  },
+  {
+    "Question": "Which actresses were considered for the female lead opposite Hrithik Roshan in the movie 'Yaadein'?",
+    "Options": "A. Ameesha Patel\nB. Kareena Kapoor\nC. Priyanka Chopra\nD. All of the above",
+    "Answer": "Ameesha Patel, Kareena Kapoor"
+  },
+  {
+    "Question": "Which statements are true regarding the casting and performance of the movie featuring Hrithik Roshan?",
+    "Options": "A. Ameesha Patel was initially approached for the female lead.\nB. Hrithik Roshan starred opposite Kareena Kapoor in the movie.\nC. The movie featuring Hrithik Roshan was a box office success.\nD. The movie featuring Hrithik Roshan and Kareena Kapoor was a box office failure.",
+    "Answer": "Ameesha Patel was initially approached for the female lead. and The movie featuring Hrithik Roshan and Kareena Kapoor was a box office failure."
+  },
+  {
+    "Question": "Which actresses were considered for the female lead opposite Hrithik Roshan in the movie 'Yaadein'?",
+    "Options": "A. Kareena Kapoor\nB. Ameesha Patel\nC. Both Kareena Kapoor and Ameesha Patel\nD. None of the above",
+    "Answer": "Both Kareena Kapoor and Ameesha Patel"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "Answer": "Error parsing answer"
+  },
+  {
+    "Question": "In the movie 'Mad Max: Fury Road' (2015), which themes are prominently explored through the character of Max?",
+    "Options": "A. The struggle for survival\nB. The importance of friendship\nC. The consequences of war\nD. The quest for redemption",
+    "Answer": "A) The struggle for survival, C) The consequences of war"
+  },
+  {
+    "Question": "In the movie 'Mad Max: Fury Road' (2015), which themes are illustrated through Furiosa's character and her mission?",
+    "Options": "A. The establishment of a matriarchy\nB. The importance of physical strength in heroism\nC. The recovery of humanity\nD. The glorification of warlike tribes",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "Which of the following themes are prominently explored in the movie 'Mad Max: Fury Road' (2015)?",
+    "Options": "A. Feminism\nB. Environmentalism\nC. Survival\nD. Technology",
+    "Answer": "A. Feminism, B. Environmentalism, C. Survival"
+  },
+  {
+    "Question": "In the movie 'Mad Max: Fury Road' (2015), which themes are highlighted by the destruction of Max's home?",
+    "Options": "A. Survival\nB. Redemption\nC. Love\nD. Revenge",
+    "Answer": "A. Survival, B. Redemption"
+  }
+]

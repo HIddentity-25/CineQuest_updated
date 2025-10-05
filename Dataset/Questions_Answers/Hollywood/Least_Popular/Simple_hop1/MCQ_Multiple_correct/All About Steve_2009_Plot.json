@@ -1,0 +1,47 @@
+[
+  {
+    "Question": "In the 2009 movie 'All About Steve', which of the following events are related to Mary and the bus passengers?",
+    "Options": "A. Mary annoys the bus passengers\nB. The bus passengers help Mary\nC. The driver abandons Mary due to the passengers' annoyance\nD. Mary becomes friends with the bus passengers",
+    "Answer": "Mary annoys the bus passengers, The driver abandons Mary due to the passengers' annoyance"
+  },
+  {
+    "Question": "In the movie 'All About Steve' (2009), which of the following statements are true regarding Mary and Norm's relationship?",
+    "Options": "A. Mary is abandoned by the bus driver.\nB. Norm is a professional hitchhiker.\nC. Mary hitchhikes with Norm after being abandoned.\nD. Norm helps Mary find her way after the bus incident.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'All About Steve' (2009), which of the following statements are true regarding the relationship between Elizabeth and Mary?",
+    "Options": "A. Elizabeth and Mary meet while hitchhiking.\nB. Norm is a significant character in their relationship.\nC. Mary initially dislikes Elizabeth.\nD. Mary gradually grows close to Elizabeth.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the 2009 movie 'All About Steve', which of the following statements are true regarding the relationship between Mary and Howard?",
+    "Options": "A. Mary meets Howard while traveling with Elizabeth.\nB. Mary initially dislikes Howard.\nC. Mary gradually grows close to Howard.\nD. Howard is a news cameraman.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'All About Steve' (2009), what events are associated with the characters Steve and Mary during the breaking news story?",
+    "Options": "A. Steve arrives at the breaking news scene.\nB. Mary successfully saves Steve from a mine shaft.\nC. Mary accidentally falls into a mine shaft.\nD. Steve interviews Mary for a news segment.",
+    "Answer": "Steve arrives at the breaking news scene., Mary accidentally falls into a mine shaft."
+  },
+  {
+    "Question": "In the movie 'All About Steve' (2009), what significant event involves deaf children in relation to an old mine collapse?",
+    "Options": "A. A group of deaf children is rescued from the mine.\nB. The mine collapse is caused by a natural disaster.\nC. The deaf children are trapped inside the mine.\nD. The mine was previously used for educational purposes.",
+    "Answer": "A group of deaf children is rescued from the mine., The deaf children are trapped inside the mine."
+  },
+  {
+    "Question": "In the movie 'All About Steve' (2009), what are the significant aspects of the relationship between Mary and Steve as depicted in the plot?",
+    "Options": "A. Mary is portrayed as a beautiful person in her unique way.\nB. Steve is initially focused solely on covering a breaking news story.\nC. Mary's personality and uniqueness captivate Steve.\nD. Steve and Mary have a romantic relationship from the beginning.",
+    "Answer": "Mary is portrayed as a beautiful person in her unique way., Steve is initially focused solely on covering a breaking news story., Mary's personality and uniqueness captivate Steve."
+  },
+  {
+    "Question": "In the movie 'All About Steve' (2009), which characters are involved in the incident where Mary accidentally falls into the mine shaft? Select all that apply.",
+    "Options": "A. Mary\nB. Steve\nC. Hartman\nD. Elizabeth",
+    "Answer": "Mary, Hartman, Elizabeth, Howard"
+  },
+  {
+    "Question": "In the movie 'All About Steve' (2009), what does Mary realize about her relationship with Hartman and Steve?",
+    "Options": "A. Mary acknowledges Hartman's contribution to her rescue plan.\nB. Mary believes she needs Steve to be happy.\nC. Mary learns that she can be happy without relying on Steve.\nD. Mary decides to take full credit for the rescue plan herself.",
+    "Answer": "Mary acknowledges Hartman's contribution to her rescue plan., Mary learns that she can be happy without relying on Steve."
+  }
+]

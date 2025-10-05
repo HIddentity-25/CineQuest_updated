@@ -1,0 +1,14 @@
+[
+    {
+        "Question": "Did Taare Zameen Par receive multiple Academy Award nominations and wins?",
+        "Answer": "No"
+    },
+    {
+        "Question": "Did *Taare Zameen Par* receive multiple Academy Award nominations and wins?",
+        "Answer": "No"
+    },
+    {
+        "Question": "Did *Slumdog Millionaire* receive multiple Academy Award nominations and wins?",
+        "Answer": "Yes"
+    }
+]

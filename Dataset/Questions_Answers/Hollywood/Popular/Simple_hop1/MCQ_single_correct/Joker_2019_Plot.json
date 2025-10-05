@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "In the 2019 movie 'Joker', what type of relationship exists between Arthur and Murray?",
+    "Options": "A. Friends\nB. Employer-employee\nC. Rivals\nD. Family",
+    "Answer": "Employer-employee"
+  },
+  {
+    "Question": "In the movie 'Joker' (2019), what event leads to the rioters erupting across the city?",
+    "Options": "A. Arthur's escape from police custody\nB. The murder of Thomas and Martha Wayne\nC. A city-wide protest against the government\nD. A police crackdown on crime",
+    "Answer": "Arthur's escape from police custody"
+  },
+  {
+    "Question": "In the movie 'Joker' (2019), what is the nature of the relationship between Murray and Arthur during the broadcast?",
+    "Options": "A. Murray is Arthur's mentor\nB. Murray is Arthur's employer\nC. Murray is Arthur's friend\nD. Murray is Arthur's rival",
+    "Answer": "Murray is Arthur's employer"
+  }
+]

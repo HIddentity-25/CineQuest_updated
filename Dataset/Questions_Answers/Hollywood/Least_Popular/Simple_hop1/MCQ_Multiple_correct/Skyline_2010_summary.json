@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which of the following statements accurately describe the movie 'Skyline' (2010) based on its summary?",
+    "Options": "A. The movie features an alien invasion.\nB. The plot revolves around a group of friends trying to survive.\nC. The film includes themes of hope and resilience.\nD. The story is set in a post-apocalyptic world.",
+    "Answer": "The movie features an alien invasion., The plot revolves around a group of friends trying to survive., The film includes themes of hope and resilience."
+  },
+  {
+    "Question": "In the movie 'Skyline' (2010), which of the following details are typically included in a summary to provide more specific information about the events and characters?",
+    "Options": "A. The main conflict faced by the characters\nB. The setting where the movie takes place\nC. The number of special effects used\nD. The character development throughout the film",
+    "Answer": "The main conflict faced by the characters, The setting where the movie takes place, The character development throughout the film"
+  },
+  {
+    "Question": "In the movie 'Skyline' (2010), what does the displayed message indicate about the user's interaction with the movie's summary?",
+    "Options": "A. The user has accessed the details of a particular movie's summary.\nB. The user is receiving a warning about the movie's content.\nC. The user is prompted to purchase tickets for the movie.\nD. The user has completed watching the movie.",
+    "Answer": "The user has accessed the details of a particular movie's summary."
+  }
+]

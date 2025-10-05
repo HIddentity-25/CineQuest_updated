@@ -1,0 +1,762 @@
+[
+  {
+    "Question": "Which production company produced the film *Kalank*?",
+    "Options": "A. Yash Raj Films\nB. Dharma Productions\nC. Eros International\nD. Viacom18",
+    "Answer": "Dharma Productions"
+  },
+  {
+    "Question": "Which production company produced the film *Kalank*?",
+    "Options": "A. Yash Raj Films\nB. Nadiadwala Grandson Entertainment\nC. Dharma Productions\nD. Balaji Motion Pictures",
+    "Answer": "Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "What film was certified by the British Board of Film Classification?",
+    "Options": "A. Kalank\nB. Avengers: Endgame\nC. The Lion King\nD. Frozen II",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film was certified by the British Board of Film Classification?",
+    "Options": "A. Brahmastra\nB. Kalank\nC. Kabir Singh\nD. Gully Boy",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film was certified by the British Board of Film Classification?",
+    "Options": "A. Raazi\nB. Kalank\nC. Gully Boy\nD. Badrinath Ki Dulhania",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "Which film features Sanjay Dutt in its ensemble cast?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Gully Boy\nD. Bajrangi Bhaijaan",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film features Madhuri Dixit in its ensemble cast?",
+    "Options": "A. Devdas\nB. Kalank\nC. Dil To Pagal Hai\nD. Pardes",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film features Sonakshi Sinha in its ensemble cast?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Raees\nD. Badrinath Ki Dulhania",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film was certified by the British Board of Film Classification?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Gully Boy\nD. Brahmastra",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What was the release date of the film Kalank?",
+    "Options": "A. 15 April 2019\nB. 17 April 2019\nC. 20 April 2019\nD. 18 April 2019",
+    "Answer": "17 April 2019"
+  },
+  {
+    "Question": "Which film was certified by the British Board of Film Classification?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Gully Boy\nD. War",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What was the financial performance of the film Kalank?",
+    "Options": "A. It was a blockbuster\nB. It grossed around ₹146.31 crore\nC. It was a critical success\nD. It received multiple awards",
+    "Answer": "It grossed around ₹146.31 crore"
+  },
+  {
+    "Question": "What type of reviews did the film *Kalank* receive upon its release?",
+    "Options": "A. Positive reviews\nB. Mixed reviews\nC. Negative reviews\nD. Outstanding reviews",
+    "Answer": "Mixed reviews"
+  },
+  {
+    "Question": "What film received praise for its production design?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Gully Boy\nD. Brahmastra",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film was certified by the British Board of Film Classification?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Gully Boy\nD. Brahmastra",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What is the runtime of the film Kalank as certified by the British Board of Film Classification?",
+    "Options": "A. 120 minutes\nB. 150 minutes\nC. 166 minutes\nD. 180 minutes",
+    "Answer": "166 minutes"
+  },
+  {
+    "Question": "Which board certified the film *Kalank* with a runtime of 166 minutes?",
+    "Options": "A. Australian Classification Board\nB. British Board of Film Classification\nC. Motion Picture Association\nD. Canadian Film Classification Board",
+    "Answer": "British Board of Film Classification"
+  },
+  {
+    "Question": "Which production company was responsible for the film *Kalank*?",
+    "Options": "A. Yash Raj Films\nB. Dharma Productions\nC. Red Chillies Entertainment\nD. Eros International",
+    "Answer": "Dharma Productions"
+  },
+  {
+    "Question": "Which company produced the film Kalank?",
+    "Options": "A. Yash Raj Films\nB. Nadiadwala Grandson Entertainment\nC. Dharma Productions\nD. Viacom18 Motion Pictures",
+    "Answer": "Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "Which entity certified the film *Kalank*?",
+    "Options": "A. Fox Star Studios\nB. Disney\nC. Australian Classification Board\nD. 21st Century Fox",
+    "Answer": "Australian Classification Board"
+  },
+  {
+    "Question": "Which film was certified by the Australian Classification Board?",
+    "Options": "A. Kalank\nB. Raazi\nC. Badrinath Ki Dulhania\nD. Badlapur",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film features Alia Bhatt in the ensemble cast?",
+    "Options": "A. Raazi\nB. Kalank\nC. Gully Boy\nD. Brahmastra",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film features Sanjay Dutt in its ensemble cast?",
+    "Options": "A. Kalank\nB. Kabir Singh\nC. Raazi\nD. Gully Boy",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film features Madhuri Dixit in its ensemble cast?",
+    "Options": "A. Devdas\nB. Kalank\nC. Dil To Pagal Hai\nD. Hum Aapke Hain Koun..!",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "Which film was certified by the Australian Classification Board?",
+    "Options": "A. Raazi\nB. Kalank\nC. Gully Boy\nD. Kabir Singh",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "Which film features Aditya Roy Kapur in its ensemble cast?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Brahmastra\nD. Raazi",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What is the release date of the film Kalank?",
+    "Options": "A. 15 April 2019\nB. 17 April 2019\nC. 20 April 2019\nD. 25 April 2019",
+    "Answer": "17 April 2019"
+  },
+  {
+    "Question": "What film was certified by the Australian Classification Board?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Gully Boy\nD. Brahmastra",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What was the financial outcome of the film Kalank?",
+    "Options": "A. It was a box-office success\nB. It grossed around ₹146.31 crore\nC. It received critical acclaim\nD. It was a blockbuster hit",
+    "Answer": "It grossed around ₹146.31 crore"
+  },
+  {
+    "Question": "What was the reception of the film Kalank upon its release?",
+    "Options": "A. Positive reviews\nB. Negative reviews\nC. Mixed reviews\nD. No reviews",
+    "Answer": "Mixed reviews"
+  },
+  {
+    "Question": "What film received praise for its production design?",
+    "Options": "A. Kalank\nB. Gully Boy\nC. Kabir Singh\nD. Brahmastra",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film was certified by the Australian Classification Board?",
+    "Options": "A. Kabir Singh\nB. Kalank\nC. Gully Boy\nD. Raazi",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What film was certified by both the British Board of Film Classification and the Australian Classification Board?",
+    "Options": "A. Brahmastra\nB. Kalank\nC. Gully Boy\nD. Kabir Singh",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "What organization certified the film *Kalank*?",
+    "Options": "A. Film Rating Association\nB. Australian Classification Board\nC. Censor Board\nD. Motion Picture Association",
+    "Answer": "Australian Classification Board"
+  },
+  {
+    "Question": "Which family is depicted as wealthy in the film *Kalank*?",
+    "Options": "A. The Rajput family\nB. The Kharbanda family\nC. The Chaudhury family\nD. The Dixit family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is depicted as wealthy in the film *Kalank*?",
+    "Options": "A. The Rajput family\nB. The Sathe family\nC. The Kharbanda family\nD. The Chaudhury family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is portrayed as wealthy in the film *Kalank*?",
+    "Options": "A. The Rajput family\nB. The Kharbanda family\nC. The Dixit family\nD. The Chaudhury family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is prominently featured in the film *Kalank* alongside Varun Dhawan's character?",
+    "Options": "A. The Gupta family\nB. The Chaudhury family\nC. The Sharma family\nD. The Mehra family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is depicted as wealthy in the movie *Kalank*?",
+    "Options": "A. Chaudhury family\nB. Rajput family\nC. Kharbanda family\nD. Dixit family",
+    "Answer": "Chaudhury family"
+  },
+  {
+    "Question": "Which family is prominently featured in the film *Kalank*?",
+    "Options": "A. The Kharbanda family\nB. The Dixit family\nC. The Rajput family\nD. The Chaudhury family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is prominently featured in the film *Kalank*?",
+    "Options": "A. The Sharma family\nB. The Chaudhury family\nC. The Kapoor family\nD. The Mehta family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "What is the relationship of the Chaudhury family in the movie *Kalank*?",
+    "Options": "A. They are a wealthy family involved in the main drama.\nB. They are the struggling artists.\nC. They are friends of Sonakshi Sinha.\nD. They are the antagonists of the film.",
+    "Answer": "They are a wealthy family involved in the main drama."
+  },
+  {
+    "Question": "What is the relationship of the Chaudhury family in the movie *Kalank*?",
+    "Options": "A. They are a wealthy family involved in the story.\nB. They are friends with Zafar.\nC. They are the main antagonists.\nD. They are a poor family struggling for survival.",
+    "Answer": "They are a wealthy family involved in the story."
+  },
+  {
+    "Question": "Which family is depicted as wealthy in the film *Kalank*?",
+    "Options": "A. The Rajput family\nB. The Kharbanda family\nC. The Chaudhury family\nD. The Dixit family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is prominently featured in the film *Kalank*?",
+    "Options": "A. The Gupta family\nB. The Chaudhury family\nC. The Sharma family\nD. The Mehta family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "What family is prominently featured in the drama of the film *Kalank*?",
+    "Options": "A. The Kharbanda family\nB. The Rajput family\nC. The Chaudhury family\nD. The Dixit family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is depicted in the film *Kalank* as wealthy and influential?",
+    "Options": "A. The Rajput family\nB. The Sathe family\nC. The Kharbanda family\nD. The Chaudhury family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is depicted as wealthy in the film *Kalank*?",
+    "Options": "A. The Kharbanda family\nB. The Rajput family\nC. The Dixit family\nD. The Chaudhury family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is prominently featured in the film *Kalank*?",
+    "Options": "A. The Kapoor family\nB. The Chaudhury family\nC. The Mehta family\nD. The Sharma family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "Which family is portrayed as wealthy in the film *Kalank*?",
+    "Options": "A. Members of the Kharbanda family\nB. Members of the Rajput family\nC. Members of the Chaudhury family\nD. Members of the Dixit family",
+    "Answer": "Members of the Chaudhury family"
+  },
+  {
+    "Question": "Which family is depicted as wealthy in the film *Kalank*?",
+    "Options": "A. The Rajput family\nB. The Dixit family\nC. The Kharbanda family\nD. The Chaudhury family",
+    "Answer": "The Chaudhury family"
+  },
+  {
+    "Question": "What was the reason for Satya Chaudhry to request companionship from Dev Chaudhry?",
+    "Options": "A. Obligation due to favour done by father\nB. Request for companionship for husband\nC. Desire for adventure\nD. Need for financial support",
+    "Answer": "Request for companionship for husband"
+  },
+  {
+    "Question": "What was Roop's obligation towards Dharampal?",
+    "Options": "A. To seek revenge against parents\nB. To fulfill a favor done by her father\nC. To provide companionship for her husband\nD. To seduce Zafar",
+    "Answer": "To fulfill a favor done by her father"
+  },
+  {
+    "Question": "What is the reason for Roop's obligation towards Dharampal?",
+    "Options": "A. A) A personal favor done by Aditya\nB. B) A favor done by Roop's father\nC. C) A romantic relationship with Satya Chaudhry\nD. D) A shared history with Aditya",
+    "Answer": "B) A favor done by Roop's father"
+  },
+  {
+    "Question": "What major theme is highlighted by the events surrounding Zafar's actions in the movie 'Kalank'?",
+    "Options": "A. Love and sacrifice\nB. Communal hatred\nC. Friendship and loyalty\nD. Family honor",
+    "Answer": "Communal hatred"
+  },
+  {
+    "Question": "What aspect of the story is reflected through the relationship between Roop and Dev in *Kalank*?",
+    "Options": "A. Communal harmony\nB. Love and betrayal\nC. Friendship and sacrifice\nD. Communal hatred",
+    "Answer": "D) Communal hatred"
+  },
+  {
+    "Question": "What was Zafar's initial intention towards Roop before he fell in love with her?",
+    "Options": "A. To help her with her marriage\nB. To seduce her as part of a revenge plan\nC. To protect her from communal hatred\nD. To unite her with Abdul Khan",
+    "Answer": "To seduce her as part of a revenge plan"
+  },
+  {
+    "Question": "Who ultimately betrays Zafar during the partition?",
+    "Options": "A. Roop\nB. Dev\nC. Abdul Khan\nD. Zafar",
+    "Answer": "Abdul Khan"
+  },
+  {
+    "Question": "What does Roop realize about her feelings towards Zafar despite her marriage to Dev?",
+    "Options": "A. She loves Zafar deeply.\nB. She feels indifferent towards Zafar.\nC. She will never be able to love Dev.\nD. She is angry with Zafar.",
+    "Answer": "C) She will never be able to love Dev."
+  },
+  {
+    "Question": "Who ultimately stabbed Zafar during the partition?",
+    "Options": "A. Aditya\nB. Dev\nC. Roop\nD. Abdul Khan",
+    "Answer": "Abdul Khan"
+  },
+  {
+    "Question": "Who does Roop ultimately marry despite her feelings for Zafar?",
+    "Options": "A. Zafar\nB. Dev Chaudhry\nC. Abdul Khan\nD. Raja",
+    "Answer": "Dev Chaudhry"
+  },
+  {
+    "Question": "What obligation does Roop have towards Dharampal in *Kalank*?",
+    "Options": "A. A) To help him with his revenge plan\nB. B) To repay a favor done by her father\nC. C) To confess her love for Zafar\nD. D) To assist in the partition of India",
+    "Answer": "B) To repay a favor done by her father"
+  },
+  {
+    "Question": "Who does Roop ultimately consummate her marriage with, despite her feelings for Zafar?",
+    "Options": "A. Zafar\nB. Balraj\nC. Dev\nD. Abdul Khan",
+    "Answer": "Dev"
+  },
+  {
+    "Question": "What is the relationship between Roop and Zafar in the movie 'Kalank'?",
+    "Options": "A. A) Roop is Zafar's sister.\nB. B) Roop is Zafar's love interest.\nC. C) Roop is Zafar's enemy.\nD. D) Roop is Zafar's friend.",
+    "Answer": "B) Roop is Zafar's love interest."
+  },
+  {
+    "Question": "What does Zafar instigate in Abdul Khan in the movie *Kalank*?",
+    "Options": "A. Romantic love\nB. Communal hatred\nC. Friendship\nD. Peaceful coexistence",
+    "Answer": "Communal hatred"
+  },
+  {
+    "Question": "What does Bahaar urge Dev to do regarding Roop in the context of her disagreement with Zafar?",
+    "Options": "A. A) To reject Roop immediately\nB. B) To give Roop a chance\nC. C) To confront Zafar\nD. D) To support Zafar's plans",
+    "Answer": "B) To give Roop a chance"
+  },
+  {
+    "Question": "What obligation does Dharampal have that influences his actions in the movie?",
+    "Options": "A. A) A promise made to Bahaar\nB. B) A favour done by his father\nC. C) A debt owed to Zafar\nD. D) A commitment to Roop",
+    "Answer": "B) A favour done by his father"
+  },
+  {
+    "Question": "What is Roop's relationship with Dev after her marriage?",
+    "Options": "A. She loves him deeply.\nB. She insists she can never love him.\nC. She is indifferent towards him.\nD. She is still in love with Zafar.",
+    "Answer": "She insists she can never love him."
+  },
+  {
+    "Question": "What was Zafar's initial intention towards Roop before he fell in love with her?",
+    "Options": "A. To help her with her marriage\nB. To seduce her as part of a revenge plan\nC. To support her family\nD. To fight for her rights",
+    "Answer": "To seduce her as part of a revenge plan"
+  },
+  {
+    "Question": "What does Roop become aware of during the riots against Hindus and Sikhs?",
+    "Options": "A. Zafar's seduction plan\nB. Bahaar's warning\nC. Zafar's love\nD. Dev's affair",
+    "Answer": "Zafar's love"
+  },
+  {
+    "Question": "What does Zafar instigate in Abdul Khan that leads to significant conflict in the story?",
+    "Options": "A. Love\nB. Peace\nC. Communal hatred\nD. Friendship",
+    "Answer": "Communal hatred"
+  },
+  {
+    "Question": "What does Abdul Khan instigate in his friend, Zafar?",
+    "Options": "A. Romantic feelings\nB. Communal hatred\nC. Friendship\nD. Fear of loss",
+    "Answer": "Communal hatred"
+  },
+  {
+    "Question": "What is the setting of the film *Kalank* produced by Sajid Nadiadwala?",
+    "Options": "A. Post-independence era\nB. Pre-independence British era\nC. Modern-day India\nD. Ancient India",
+    "Answer": "Pre-independence British era"
+  },
+  {
+    "Question": "What does the set of *Kalank* represent in the film?",
+    "Options": "A. A modern cityscape\nB. Old Delhi mohalla\nC. A rural village\nD. A historical palace",
+    "Answer": "Old Delhi mohalla"
+  },
+  {
+    "Question": "What is the relationship between Sajid Nadiadwala and the film production process of Kalank?",
+    "Options": "A. He directed the film.\nB. He was the producer of the film.\nC. He wrote the screenplay.\nD. He starred in the film.",
+    "Answer": "He was the producer of the film."
+  },
+  {
+    "Question": "Which production company produced the film *Kalank*?",
+    "Options": "A. A) Yash Raj Films\nB. B) Nadiadwala Grandson Entertainment\nC. C) Dharma Productions\nD. D) Red Chillies Entertainment",
+    "Answer": "B) Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "Which production company was responsible for the film *Kalank*?",
+    "Options": "A. Yash Raj Films\nB. Nadiadwala Grandson Entertainment\nC. Dharma Productions\nD. Eros International",
+    "Answer": "Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "Which production company produced the film *Kalank* that was released in India?",
+    "Options": "A. Yash Raj Films\nB. Nadiadwala Grandson Entertainment\nC. Dharma Productions\nD. Eros International",
+    "Answer": "Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "Which production company produced the film *Kalank*?",
+    "Options": "A. A) Yash Raj Films\nB. B) Nadiadwala Grandson Entertainment\nC. C) Dharma Productions\nD. D) Red Chillies Entertainment",
+    "Answer": "B) Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "Which platform made *Kalank* available as VOD in July 2019?",
+    "Options": "A. Netflix\nB. Hulu\nC. Amazon Prime Video\nD. Disney+",
+    "Answer": "Amazon Prime Video"
+  },
+  {
+    "Question": "What was the box office performance of the film produced by Sajid Nadiadwala?",
+    "Options": "A. It was a disaster\nB. It had a bumper start\nC. It broke all records\nD. It was moderately successful",
+    "Answer": "It had a bumper start"
+  },
+  {
+    "Question": "What was the outcome of the movie *Kalank* in terms of its financial performance?",
+    "Options": "A. It was a box-office success\nB. It received critical acclaim\nC. It was declared a box-office failure\nD. It won several awards",
+    "Answer": "It was declared a box-office failure"
+  },
+  {
+    "Question": "What aspect of the film *Kalank* is highlighted in its description?",
+    "Options": "A. Strong character development\nB. Visual stunningness\nC. Engaging soundtrack\nD. Powerful dialogues",
+    "Answer": "Visual stunningness"
+  },
+  {
+    "Question": "What genre is the film *Kalank* described as?",
+    "Options": "A. Action\nB. Romantic Comedy\nC. Operatic Fantasy\nD. Documentary",
+    "Answer": "Operatic Fantasy"
+  },
+  {
+    "Question": "What type of film is *Kalank* described as?",
+    "Options": "A. A) A documentary\nB. B) A visually stunning film\nC. C) A romantic comedy\nD. D) A horror movie",
+    "Answer": "B) A visually stunning film"
+  },
+  {
+    "Question": "Which production company produced the most visually stunning film of this year?",
+    "Options": "A. Yash Raj Films\nB. Nadiadwala Grandson Entertainment\nC. Dharma Productions\nD. Red Chillies Entertainment",
+    "Answer": "Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "What was Raja Sen's rating for the film *Kalank*?",
+    "Options": "A. 1 star\nB. 2.5 stars\nC. 4 stars\nD. 3 stars",
+    "Answer": "2.5 stars"
+  },
+  {
+    "Question": "What was the critical reception of the film produced by Sajid Nadiadwala?",
+    "Options": "A. Highly praised\nB. Average\nC. Disappointing\nD. Excellent",
+    "Answer": "Disappointing"
+  },
+  {
+    "Question": "What theme does *Kalank* celebrate according to its context?",
+    "Options": "A. The struggles of war\nB. The transformative power of love and reconciliation\nC. The importance of family loyalty\nD. The pursuit of happiness",
+    "Answer": "The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "What theme does the movie *Kalank* celebrate?",
+    "Options": "A. A) The struggles of war\nB. B) The transformative power of love and reconciliation\nC. C) The journey of self-discovery\nD. D) The importance of family tradition",
+    "Answer": "B) The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "Which group of actors is associated with the film *Kalank*?",
+    "Options": "A. Salman Khan, Aamir Khan, and Hrithik Roshan\nB. Rajput, Sathe, Kharbanda, Madhavi, and Dixit\nC. Shah Rukh Khan, Akshay Kumar, and Ranveer Singh\nD. Ajay Devgn, Varun Dhawan, and Ranbir Kapoor",
+    "Answer": "Rajput, Sathe, Kharbanda, Madhavi, and Dixit"
+  },
+  {
+    "Question": "Which production company produced the film *Kalank*?",
+    "Options": "A. Yash Raj Films\nB. Nadiadwala Grandson Entertainment\nC. Dharma Productions\nD. T-Series",
+    "Answer": "Nadiadwala Grandson Entertainment"
+  },
+  {
+    "Question": "In which era is the film *Kalank* set?",
+    "Options": "A. Post-independence era\nB. Pre-independence British era\nC. Modern era\nD. Ancient era",
+    "Answer": "Pre-independence British era"
+  },
+  {
+    "Question": "What location represents the set where *Kalank* was filmed?",
+    "Options": "A. Mumbai\nB. Old Delhi Mohalla\nC. Jaipur\nD. Varanasi",
+    "Answer": "Old Delhi Mohalla"
+  },
+  {
+    "Question": "What does the film production process of *Kalank* involve?",
+    "Options": "A. A budget of ₹150 crore\nB. 500 backup dancers\nC. An ensemble cast including Alia Bhatt\nD. A romantic subplot",
+    "Answer": "A budget of ₹150 crore"
+  },
+  {
+    "Question": "Which organization certified the film *Kalank*?",
+    "Options": "A. Central Board of Film Certification\nB. British Board of Film Classification\nC. Motion Picture Association\nD. Film Certification Appellate Tribunal",
+    "Answer": "British Board of Film Classification"
+  },
+  {
+    "Question": "Which film was certified by the Australian Classification Board?",
+    "Options": "A. Raazi\nB. Kalank\nC. Gully Boy\nD. Badrinath Ki Dulhania",
+    "Answer": "Kalank"
+  },
+  {
+    "Question": "In which country was the film *Kalank* released?",
+    "Options": "A. Pakistan\nB. India\nC. Bangladesh\nD. Nepal",
+    "Answer": "India"
+  },
+  {
+    "Question": "In which markets was the film *Kalank* released?",
+    "Options": "A. Domestic markets\nB. Overseas markets\nC. Local theaters\nD. Independent cinemas",
+    "Answer": "Overseas markets"
+  },
+  {
+    "Question": "On which platform was the movie *Kalank* made available for viewing?",
+    "Options": "A. Netflix\nB. Hulu\nC. Amazon Prime Video\nD. Disney+",
+    "Answer": "Amazon Prime Video"
+  },
+  {
+    "Question": "What was the performance of the film Kalank at the box office?",
+    "Options": "A. It was a major flop.\nB. It had a bumper start.\nC. It received mixed reviews.\nD. It was released directly on streaming.",
+    "Answer": "It had a bumper start."
+  },
+  {
+    "Question": "What was the outcome for the movie Kalank in terms of its financial performance?",
+    "Options": "A. It became a blockbuster\nB. It received critical acclaim\nC. It was declared a box-office failure\nD. It had a successful opening weekend",
+    "Answer": "It was declared a box-office failure"
+  },
+  {
+    "Question": "What aspect of the film *Kalank* is highlighted in relation to its visual appeal?",
+    "Options": "A. Strong character development\nB. Visual stunningness\nC. Intricate plot twists\nD. Musical score",
+    "Answer": "Visual stunningness"
+  },
+  {
+    "Question": "What genre best describes the film that features Alia Bhatt in an introductory song?",
+    "Options": "A. Romantic Comedy\nB. Action Thriller\nC. Operatic Fantasy\nD. Documentary",
+    "Answer": "Operatic Fantasy"
+  },
+  {
+    "Question": "What did Alia Bhatt say about the film Kalank?",
+    "Options": "A. It features a lot of dance sequences.\nB. It is a visually stunning film.\nC. It has a strong ensemble cast.\nD. It is based on a true story.",
+    "Answer": "It is a visually stunning film."
+  },
+  {
+    "Question": "What did Alia Bhatt say about Kalank?",
+    "Options": "A. It has the best soundtrack.\nB. It is the most visually stunning film of this year.\nC. It features a lot of action.\nD. It has a weak storyline.",
+    "Answer": "It is the most visually stunning film of this year."
+  },
+  {
+    "Question": "What was the rating given to the film *Kalank* by Raja Sen?",
+    "Options": "A. 3 stars out of 5\nB. 2.5 stars out of 5\nC. 4 stars out of 5\nD. 1 star out of 5",
+    "Answer": "2.5 stars out of 5"
+  },
+  {
+    "Question": "What was the critical reception of the film *Kalank* according to Shubhra Gupta?",
+    "Options": "A. It was praised for its performances.\nB. It received a 1.5 star rating.\nC. It was considered a blockbuster.\nD. It was nominated for several awards.",
+    "Answer": "It received a 1.5 star rating."
+  },
+  {
+    "Question": "What theme does the movie *Kalank* celebrate, as highlighted in the context of contemporary resonance?",
+    "Options": "A. The struggles of friendship\nB. The importance of family loyalty\nC. The transformative power of love and reconciliation\nD. The challenges of career aspirations",
+    "Answer": "The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "What theme does the movie *Kalank* celebrate?",
+    "Options": "A. The power of friendship\nB. The transformative power of love and reconciliation\nC. The importance of family\nD. The struggle for justice",
+    "Answer": "The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "Which characters are part of the ensemble cast in the movie Kalank?",
+    "Options": "A. Zafar\nB. Madhavi\nC. Ravi\nD. Kabir",
+    "Answer": "Madhavi"
+  },
+  {
+    "Question": "In which historical context is the film *Kalank* set?",
+    "Options": "A. Post-Independence India\nB. Modern India\nC. Pre-Independence India\nD. Colonial India",
+    "Answer": "Pre-Independence India"
+  },
+  {
+    "Question": "In which historical context is the film *Kalank* set?",
+    "Options": "A. Post-independence era\nB. Pre-independence British era\nC. Modern day\nD. Colonial India",
+    "Answer": "Pre-independence British era"
+  },
+  {
+    "Question": "What location was represented as the set where *Kalank* was filmed?",
+    "Options": "A. Mumbai\nB. Old Delhi Mohalla\nC. Jaipur\nD. Varanasi",
+    "Answer": "Old Delhi Mohalla"
+  },
+  {
+    "Question": "What is involved in the film production process of *Kalank*?",
+    "Options": "A. A certification by the British Board of Film Classification\nB. A runtime of 166 minutes\nC. A budget of ₹150 crore\nD. A release year of 2019",
+    "Answer": "C) A budget of ₹150 crore"
+  },
+  {
+    "Question": "What organization certified the film Kalank?",
+    "Options": "A. Indian Censor Board\nB. British Board of Film Classification\nC. Motion Picture Association\nD. National Film Development Corporation",
+    "Answer": "British Board of Film Classification"
+  },
+  {
+    "Question": "Which board also certified the film Kalank besides the British Board of Film Classification?",
+    "Options": "A. British Board of Film Classification\nB. Australian Classification Board\nC. Film Certification Appellate Tribunal\nD. Central Board of Film Certification",
+    "Answer": "Australian Classification Board"
+  },
+  {
+    "Question": "In which country was the film *Kalank* released?",
+    "Options": "A. United Kingdom\nB. India\nC. Canada\nD. Australia",
+    "Answer": "India"
+  },
+  {
+    "Question": "What was the runtime of the film *Kalank* as certified by the British Board of Film Classification?",
+    "Options": "A. 120 minutes\nB. 150 minutes\nC. 166 minutes\nD. 180 minutes",
+    "Answer": "166 minutes"
+  },
+  {
+    "Question": "On which platform was the film *Kalank* made available as VOD?",
+    "Options": "A. Netflix\nB. Hulu\nC. Amazon Prime Video\nD. Disney+",
+    "Answer": "Amazon Prime Video"
+  },
+  {
+    "Question": "What was the box office performance of the film Kalank?",
+    "Options": "A. It was a commercial failure.\nB. It had a bumper start.\nC. It was a moderate success.\nD. It was released directly to streaming.",
+    "Answer": "It had a bumper start."
+  },
+  {
+    "Question": "What was the outcome of the film Kalank in terms of revenue?",
+    "Options": "A. It was a box-office success\nB. It had a steady revenue\nC. It saw a decline in revenue\nD. It was critically acclaimed",
+    "Answer": "It saw a decline in revenue"
+  },
+  {
+    "Question": "What aspect of *Kalank* is highlighted as likely to be the most visually stunning film of this year?",
+    "Options": "A. Runtime\nB. Certification\nC. Visual stunningness\nD. Genre",
+    "Answer": "Visual stunningness"
+  },
+  {
+    "Question": "What genre is the film *Kalank* classified as?",
+    "Options": "A. Action\nB. Operatic Fantasy\nC. Documentary\nD. Romantic Comedy",
+    "Answer": "Operatic Fantasy"
+  },
+  {
+    "Question": "What did the British Board of Film Classification certify about the film Kalank?",
+    "Options": "A. It has a runtime of 166 minutes\nB. It is a documentary\nC. It received a 12A rating\nD. It is based on a true story",
+    "Answer": "It has a runtime of 166 minutes"
+  },
+  {
+    "Question": "What was the British Board of Film Classification's opinion about Kalank?",
+    "Options": "A. It was the longest film of the year.\nB. It was certified with a runtime of 166 minutes.\nC. It was criticized for its storyline.\nD. It was considered the most visually stunning film of this year.",
+    "Answer": "It was considered the most visually stunning film of this year."
+  },
+  {
+    "Question": "What was Raja Sen's rating for the film *Kalank*?",
+    "Options": "A. 1 star\nB. 2 stars\nC. 2.5 stars\nD. 3 stars",
+    "Answer": "2.5 stars"
+  },
+  {
+    "Question": "What was the rating given to the film *Kalank* by Shubhra Gupta from The Indian Express?",
+    "Options": "A. 2 stars\nB. 1 star\nC. 3 stars\nD. 1.5 stars",
+    "Answer": "1.5 stars"
+  },
+  {
+    "Question": "What theme does the film *Kalank* celebrate, as highlighted in its contemporary resonance?",
+    "Options": "A. The importance of friendship and loyalty\nB. The transformative power of love and reconciliation\nC. The struggles of war and conflict\nD. The journey of self-discovery",
+    "Answer": "The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "What theme does *Kalank* celebrate?",
+    "Options": "A. The struggles of war\nB. The importance of family\nC. The transformative power of love and reconciliation\nD. The pursuit of happiness",
+    "Answer": "The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "Which group of actors is associated with the film Kalank?",
+    "Options": "A. A) Kapoor, Khan, and Sharma\nB. B) Rajput, Sathe, Kharbanda, Madhavi, and Dixit\nC. C) Kapoor, Kumar, and Chhabra\nD. D) Singh, Sharma, and Mehta",
+    "Answer": "B) Rajput, Sathe, Kharbanda, Madhavi, and Dixit"
+  },
+  {
+    "Question": "What historical context does the film *Kalank* explore?",
+    "Options": "A. Post-independence India\nB. Pre-independence India\nC. Modern India\nD. Colonial India",
+    "Answer": "Pre-independence India"
+  },
+  {
+    "Question": "In which historical context is the film *Kalank* set?",
+    "Options": "A. Post-independence era\nB. Pre-independence British era\nC. Modern day\nD. Ancient India",
+    "Answer": "Pre-independence British era"
+  },
+  {
+    "Question": "What location was represented as the set where *Kalank* was filmed?",
+    "Options": "A. Mumbai\nB. Jaipur\nC. Old Delhi Mohalla\nD. Varanasi",
+    "Answer": "Old Delhi Mohalla"
+  },
+  {
+    "Question": "What process involves a budget of ₹150 crore for the film Kalank?",
+    "Options": "A. Film editing\nB. Film distribution\nC. Film production process\nD. Film marketing",
+    "Answer": "Film production process"
+  },
+  {
+    "Question": "Which classification board also certified the film Kalank?",
+    "Options": "A. Australian Classification Board\nB. British Board of Film Classification\nC. Motion Picture Association\nD. Central Board of Film Certification",
+    "Answer": "British Board of Film Classification"
+  },
+  {
+    "Question": "What organization certified the film Kalank?",
+    "Options": "A. British Board of Film Classification\nB. Motion Picture Association\nC. Australian Classification Board\nD. Central Board of Film Certification",
+    "Answer": "Australian Classification Board"
+  },
+  {
+    "Question": "In which country was the film Kalank released?",
+    "Options": "A. Australia\nB. India\nC. United States\nD. Canada",
+    "Answer": "India"
+  },
+  {
+    "Question": "In which markets was the film Kalank released after being certified by the Australian Classification Board?",
+    "Options": "A. Domestic markets\nB. Overseas markets\nC. Local theaters\nD. Independent cinemas",
+    "Answer": "Overseas markets"
+  },
+  {
+    "Question": "On which platform was the film *Kalank* made available as VOD after its certification?",
+    "Options": "A. Netflix\nB. Hulu\nC. Amazon Prime Video\nD. Disney+",
+    "Answer": "Amazon Prime Video"
+  },
+  {
+    "Question": "What was the box office performance of the film Kalank?",
+    "Options": "A. It was a complete failure.\nB. It had a bumper start.\nC. It was a moderate success.\nD. It was released directly to streaming.",
+    "Answer": "It had a bumper start."
+  },
+  {
+    "Question": "What was the outcome for Kalank after being certified by the Australian Classification Board?",
+    "Options": "A. It became a blockbuster hit\nB. It received critical acclaim\nC. It faced a decline in revenue\nD. It was nominated for several awards",
+    "Answer": "It faced a decline in revenue"
+  },
+  {
+    "Question": "What aspect is Kalank likely to be recognized for this year?",
+    "Options": "A. Storytelling\nB. Visual stunningness\nC. Acting performances\nD. Direction",
+    "Answer": "Visual stunningness"
+  },
+  {
+    "Question": "What genre is the film Kalank classified as?",
+    "Options": "A. Drama\nB. Operatic Fantasy\nC. Action\nD. Comedy",
+    "Answer": "Operatic Fantasy"
+  },
+  {
+    "Question": "What did the Australian Classification Board certify about the film Kalank?",
+    "Options": "A. It is a documentary.\nB. It is a visually stunning film.\nC. It is a horror movie.\nD. It is a comedy.",
+    "Answer": "It is a visually stunning film."
+  },
+  {
+    "Question": "What did the Australian Classification Board say about *Kalank*?",
+    "Options": "A. It was a box office failure.\nB. It received a negative review.\nC. It was certified by them.\nD. It was not released in Australia.",
+    "Answer": "It was certified by them."
+  },
+  {
+    "Question": "What was Raja Sen's opinion about the film *Kalank*?",
+    "Options": "A. A) It was a masterpiece.\nB. B) It was stunning, but soulless.\nC. C) It was a complete failure.\nD. D) It was a great comedy.",
+    "Answer": "B) It was stunning, but soulless."
+  },
+  {
+    "Question": "What was the rating given to the film Kalank by Shubhra Gupta from The Indian Express?",
+    "Options": "A. 2 stars out of 5\nB. 1.5 stars out of 5\nC. 3 stars out of 5\nD. 4 stars out of 5",
+    "Answer": "1.5 stars out of 5"
+  },
+  {
+    "Question": "What theme does *Kalank* celebrate according to its contemporary resonance?",
+    "Options": "A. A) The destructive nature of war\nB. B) The importance of family loyalty\nC. C) The transformative power of love and reconciliation\nD. D) The struggles of poverty",
+    "Answer": "C) The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "What theme does *Kalank* celebrate?",
+    "Options": "A. The destructive power of hate\nB. The importance of family loyalty\nC. The transformative power of love and reconciliation\nD. The struggle for independence",
+    "Answer": "The transformative power of love and reconciliation"
+  },
+  {
+    "Question": "Which actors are mentioned in relation to the film Kalank?",
+    "Options": "A. A) Varun Dhawan\nB. B) Rajput, Sathe, Kharbanda, Madhavi, and Dixit\nC. C) Alia Bhatt\nD. D) Sanjay Dutt",
+    "Answer": "B) Rajput, Sathe, Kharbanda, Madhavi, and Dixit"
+  },
+  {
+    "Question": "What historical context is depicted in the film Kalank?",
+    "Options": "A. Post-independence India\nB. Pre-independence India\nC. Modern India\nD. Colonial India",
+    "Answer": "Pre-independence India"
+  }
+]

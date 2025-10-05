@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "In the 2002 movie 'Pinocchio', which of the following statements are true regarding the relationship between Pinocchio and the Blue Fairy?",
+    "Options": "A. Pinocchio finds the grave of the Blue Fairy.\nB. The Blue Fairy died of joy because of Pinocchio's actions.\nC. Pinocchio's antics caused the Blue Fairy to die of grief.\nD. The Blue Fairy is a character who helps Pinocchio throughout the movie.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the 2002 movie 'Pinocchio', which events occur involving Pinocchio and the shark?",
+    "Options": "A. Pinocchio is swallowed by the giant shark\nB. Geppetto is also swallowed by the giant shark\nC. Pinocchio transforms into a real boy inside the shark\nD. They escape together from the shark",
+    "Answer": "Pinocchio is swallowed by the giant shark, Geppetto is also swallowed by the giant shark, They escape together from the shark"
+  },
+  {
+    "Question": "In the 2002 movie 'Pinocchio', which of the following actions does Pinocchio take to help Geppetto recover?",
+    "Options": "A. Pinocchio takes Geppetto to a farm\nB. Pinocchio helps out a farmer\nC. Pinocchio goes on an adventure\nD. Pinocchio learns to be a real boy",
+    "Answer": "A, B"
+  }
+]

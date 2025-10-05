@@ -1,0 +1,37 @@
+[
+  {
+    "Question": "Which movie features a soundtrack composed by Jeet Gannguli?",
+    "Options": "A. Bhaiaji Superhit\nB. Kabir Singh\nC. Gully Boy\nD. Raazi",
+    "Answer": "Bhaiaji Superhit"
+  },
+  {
+    "Question": "Which movie features a soundtrack composed by Raghav Sachar?",
+    "Options": "A. Bhaiaji Superhit\nB. Helicopter Eela\nC. Gully Boy\nD. Kabir Singh",
+    "Answer": "Bhaiaji Superhit"
+  },
+  {
+    "Question": "Which movie features a soundtrack composed by Raghav Sachar alongside the movie Amavas?",
+    "Options": "A. Amavas\nB. Helicopter Eela\nC. Raaz\nD. Dhadak",
+    "Answer": "Helicopter Eela"
+  },
+  {
+    "Question": "Which movie features a soundtrack composed by the music duo Sanjeev-Darshan?",
+    "Options": "A. Bhaiaji Superhit\nB. Yamla Pagla Deewana: Phir Se\nC. Kabir Singh\nD. Gully Boy",
+    "Answer": "Bhaiaji Superhit"
+  },
+  {
+    "Question": "Which song, sung by Shafqat Amanat Ali Khan, is a version of 'Do Naina' featured in the movie Bhaiaji Superhit?",
+    "Options": "A. sleepy sleepy akhiyan\nB. do naina\nC. do naina (shafqat version)\nD. amavas theme",
+    "Answer": "do naina (shafqat version)"
+  },
+  {
+    "Question": "Which version of the song 'Do Naina' is sung by Shafqat Amanat Ali Khan?",
+    "Options": "A. om namah shivay\nB. do naina\nC. do naina (shafqat version)\nD. do naina (aakanksha version)",
+    "Answer": "do naina (shafqat version)"
+  },
+  {
+    "Question": "Which song features the lyrics 'baby jaanleva hai' from the movie Bhaiaji Superhit?",
+    "Options": "A. sleepy sleepy akhiyan\nB. naam hai bhaiaji\nC. baby jaanleva hai\nD. dil se juda",
+    "Answer": "baby jaanleva hai"
+  }
+]

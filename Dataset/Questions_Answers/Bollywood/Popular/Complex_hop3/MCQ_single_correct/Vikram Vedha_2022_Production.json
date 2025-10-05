@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which actor played the character Vikram in the original movie that also featured R. Madhavan?",
+    "Options": "A. Saif Ali Khan\nB. Hrithik Roshan\nC. Vikram\nD. R. Madhavan",
+    "Answer": "Vikram"
+  },
+  {
+    "Question": "Who played the character Vikram in the original movie that features a relationship with Vedha?",
+    "Options": "A. Hrithik Roshan\nB. Aamir Khan\nC. R. Madhavan\nD. Salman Khan",
+    "Answer": "R. Madhavan"
+  },
+  {
+    "Question": "What is the character played by Hrithik Roshan in Vikram Vedha?",
+    "Options": "A. Rohit Saraf\nB. Vedha\nC. Vikram\nD. Aamir Khan",
+    "Answer": "Vedha"
+  }
+]

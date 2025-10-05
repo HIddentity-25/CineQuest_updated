@@ -1,0 +1,37 @@
+[
+  {
+    "Question": "Who accompanies Ruby on the piano during her Berklee audition?",
+    "Options": "A. Mr. V\nB. Ruby\nC. Miles\nD. Gary",
+    "Answer": "Mr. V"
+  },
+  {
+    "Question": "Who accompanies Ruby on the piano during her Berklee audition?",
+    "Options": "A. mr. v\nB. ruby\nC. boston\nD. family",
+    "Answer": "mr. v"
+  },
+  {
+    "Question": "Who accompanies Ruby on the piano during her Berklee audition?",
+    "Options": "A. mr. v\nB. ruby\nC. berklee\nD. Boston",
+    "Answer": "mr. v"
+  },
+  {
+    "Question": "Who accompanies Ruby on the piano during her Berklee audition?",
+    "Options": "A. mr. v\nB. ruby\nC. miles\nD. Gary Oldman",
+    "Answer": "mr. v"
+  },
+  {
+    "Question": "Who sings 'Both Sides, Now' by Joni Mitchell during the Berklee audition in the movie *CODA*?",
+    "Options": "A. mr. v\nB. ruby\nC. joni mitchell\nD. family",
+    "Answer": "ruby"
+  },
+  {
+    "Question": "Who accompanies Ruby on the piano during her Berklee audition?",
+    "Options": "A. Mr. V\nB. Ruby\nC. Gertie\nD. Boston",
+    "Answer": "Mr. V"
+  },
+  {
+    "Question": "Who signs 'I love you so much' to their family before leaving for college?",
+    "Options": "A. mr. v\nB. ruby\nC. family\nD. Berklee",
+    "Answer": "family"
+  }
+]

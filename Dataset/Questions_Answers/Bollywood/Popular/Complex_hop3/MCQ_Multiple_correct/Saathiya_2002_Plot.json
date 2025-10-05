@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which statements accurately describe the relationships and roles of the characters in the context of the car accident involving Suhani?",
+    "Options": "A. Aditya was unaware of Suhani's accident while waiting for her.\nB. Yeshwant Rao is responsible for the car accident that injured Suhani.\nC. Suhani's injury was a result of her own actions.\nD. Aditya confronted Yeshwant Rao regarding the accident.",
+    "Answer": "A) Aditya was unaware of Suhani's accident while waiting for her., B) Yeshwant Rao is responsible for the car accident that injured Suhani., D) Aditya confronted Yeshwant Rao regarding the accident."
+  },
+  {
+    "Question": "What roles do the characters play in the context of Suhani's accident?",
+    "Options": "A. Suhani is the victim of the car accident.\nB. Aditya is unaware of the accident initially.\nC. Yeshwant Rao is responsible for the accident.\nD. All of the above",
+    "Answer": "D) All of the above"
+  },
+  {
+    "Question": "What are the relationships among Yeshwant Rao, Suhani, and Aditya in the context of the car accident?",
+    "Options": "A. Yeshwant Rao was involved in causing the accident that injured Suhani.\nB. Aditya was unaware of the accident and expected Suhani to come home.\nC. Suhani was registered under a different name at the hospital.\nD. All of the above",
+    "Answer": "D) All of the above"
+  },
+  {
+    "Question": "What roles do the characters Yeshwant Rao, Suhani, and Aditya play in the context of the car accident?",
+    "Options": "A. Yeshwant Rao is responsible for the car accident.\nB. Suhani is the victim of the car accident.\nC. Aditya is unaware of the car accident initially.\nD. All of the above",
+    "Answer": "D) All of the above"
+  },
+  {
+    "Question": "What are the relationships among Aditya, Yeshwant Rao, and Suhani in the context of the car accident?",
+    "Options": "A. Aditya threatens Yeshwant Rao for his involvement in the accident.\nB. Yeshwant Rao is responsible for the car accident that injured Suhani.\nC. Suhani was injured in a car accident caused by Yeshwant Rao.\nD. Aditya was unaware of the accident while waiting for Suhani to return home.",
+    "Answer": "A) Aditya threatens Yeshwant Rao for his involvement in the accident., B) Yeshwant Rao is responsible for the car accident that injured Suhani., C) Suhani was injured in a car accident caused by Yeshwant Rao."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships among Aditya, Yeshwant Rao, Suhani, and the hospital?",
+    "Options": "A. Aditya is angry with Yeshwant Rao for causing Suhani's injury.\nB. Suhani is in critical condition due to a car accident.\nC. Yeshwant Rao was involved in the car accident that injured Suhani.\nD. Aditya is a doctor at the hospital where Suhani is admitted.",
+    "Answer": "A) Aditya is angry with Yeshwant Rao for causing Suhani's injury., B) Suhani is in critical condition due to a car accident., C) Yeshwant Rao was involved in the car accident that injured Suhani."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Which actors played significant roles in the movie *Jonah Hex*?",
+    "Options": "A. Josh Brolin\nB. Aidan Quinn\nC. Ulysses S. Grant\nD. All of the above",
+    "Answer": "A) Josh Brolin, B) Aidan Quinn"
+  },
+  {
+    "Question": "Which characters are connected through their roles in the movie 'Jonah Hex'?",
+    "Options": "A. Lieutenant Evan interacts with Jonah Hex\nB. Aidan Quinn portrays Ulysses S. Grant\nC. Jonah Hex is portrayed by Aidan Quinn\nD. Aidan Quinn features in the movie for only three days",
+    "Answer": "A) Lieutenant Evan interacts with Jonah Hex, B) Aidan Quinn portrays Ulysses S. Grant, D) Aidan Quinn features in the movie for only three days"
+  },
+  {
+    "Question": "Which statements are true regarding the relationships and roles of the characters in *Jonah Hex*?",
+    "Options": "A. Colonel Slocum interacts with Jonah Hex.\nB. Aidan Quinn portrayed Ulysses S. Grant in this movie.\nC. Aidan Quinn played Jonah Hex for the entire duration of the film.\nD. Aidan Quinn was involved in the production for only three days.",
+    "Answer": "A) Colonel Slocum interacts with Jonah Hex., B) Aidan Quinn portrayed Ulysses S. Grant in this movie., D) Aidan Quinn was involved in the production for only three days."
+  },
+  {
+    "Question": "Which characters have a connection to Jonah Hex in the movie?",
+    "Options": "A. Cassie\nB. Aidan Quinn\nC. Ulysses S. Grant\nD. All of the above",
+    "Answer": "D) All of the above"
+  },
+  {
+    "Question": "Which statements are true regarding the casting and roles in the movie *Jonah Hex*?",
+    "Options": "A. Thomas Jane tried to secure the role of Jonah Hex.\nB. Aidan Quinn played Ulysses S. Grant in the movie.\nC. Aidan Quinn had a significant role as Jonah Hex.\nD. Thomas Jane underwent a makeup transformation for the role.",
+    "Answer": "A) Thomas Jane tried to secure the role of Jonah Hex., B) Aidan Quinn played Ulysses S. Grant in the movie., D) Thomas Jane underwent a makeup transformation for the role."
+  }
+]

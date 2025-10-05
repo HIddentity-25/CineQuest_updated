@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), which of the following events related to LeBron James and the Game Boy occur in the plot?",
+    "Options": "A. LeBron receives a Game Boy from his friend Malik.\nB. LeBron's coach encourages him to play video games during practice.\nC. LeBron misses a buzzer beater due to distraction from the Game Boy.\nD. LeBron discards the Game Boy after feeling ashamed.",
+    "Answer": "LeBron receives a Game Boy from his friend Malik., LeBron misses a buzzer beater due to distraction from the Game Boy., LeBron discards the Game Boy after feeling ashamed."
+  },
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), which of the following statements are true regarding the relationship between the Serververse and the Looney Tunes?",
+    "Options": "A. The Looney Tunes travel to the Serververse using Marvin's spacecraft.\nB. The Serververse is a digital universe that the Looney Tunes explore.\nC. The Looney Tunes remain in their own world throughout the movie.\nD. Marvin's spacecraft is used to navigate between different worlds.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), which of the following statements are true regarding the formation of the Tune Squad?",
+    "Options": "A. Bugs Bunny is the leader of the Tune Squad.\nB. The Tune Squad consists exclusively of human players.\nC. Bugs Bunny recruits other Looney Tunes to form the Tune Squad.\nD. The Tune Squad competes in a basketball game against a digital team.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), which of the following statements about the Goon Squad and their superpowers are true?",
+    "Options": "A. The Goon Squad uses superpowers to gain an advantage.\nB. The Goon Squad is known for their extreme style points.\nC. The Goon Squad loses in the first half of the game.\nD. The Goon Squad takes a huge lead in the first half.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), what are the key elements that help the Tune Squad to win the game?",
+    "Options": "A. A bug in Dom Ball's code\nB. LeBron's leadership skills\nC. The Tune Squad's teamwork\nD. The use of advanced technology",
+    "Answer": "A bug in Dom Ball's code, LeBron's leadership skills, The Tune Squad's teamwork"
+  },
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), which of the following statements are true regarding LeBron's actions and Bugs Bunny's sacrifice?",
+    "Options": "A. LeBron recalls a bug in Dom Ball's code.\nB. LeBron successfully performs the move without any consequences.\nC. Bugs Bunny intercepts the pass and sacrifices himself.\nD. The deletion of characters includes LeBron himself.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), which of the following statements accurately reflect LeBron's relationship with the Looney Tunes?",
+    "Options": "A. LeBron helps the Looney Tunes adapt to the real world.\nB. LeBron considers the Looney Tunes as his extended family.\nC. LeBron refuses to interact with the Looney Tunes.\nD. LeBron allows the Looney Tunes to live with him temporarily.",
+    "Answer": "LeBron helps the Looney Tunes adapt to the real world, LeBron considers the Looney Tunes as his extended family, LeBron allows the Looney Tunes to live with him temporarily."
+  },
+  {
+    "Question": "In the movie 'Space Jam: A New Legacy' (2021), which of the following statements are true regarding LeBron and the Serververse?",
+    "Options": "A. LeBron scores the winning point with Dom's help.\nB. The Looney Tunes were deleted during the game.\nC. LeBron loses the game and the Serververse remains intact.\nD. The restoration of the Looney Tunes and the Serververse occurs after LeBron's victory.",
+    "Answer": "A, B, D"
+  }
+]

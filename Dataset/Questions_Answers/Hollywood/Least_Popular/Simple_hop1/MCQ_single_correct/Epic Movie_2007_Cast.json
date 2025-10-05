@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "In the 2007 movie 'Epic Movie', which character is portrayed by Kal Penn?",
+    "Options": "A. Kumar Patel\nB. Edward\nC. Lucy\nD. Wolverine",
+    "Answer": "Kumar Patel"
+  },
+  {
+    "Question": "In the 2007 movie 'Epic Movie', which character is connected to the novel 'The Da Vinci Code' through the character 'Silas'?",
+    "Options": "A. A. Edward\nB. B. Silas\nC. C. Lucy\nD. D. Peter",
+    "Answer": "B. Silas"
+  },
+  {
+    "Question": "In the movie 'Epic Movie' (2007), which character is referred to as the 'Lead Archer'?",
+    "Options": "A. Nick Steele\nB. Edward\nC. Lucy\nD. Peter",
+    "Answer": "Nick Steele"
+  },
+  {
+    "Question": "In the 2007 movie 'Epic Movie', which actress is associated with the character Hermione Granger through a parody portrayal?",
+    "Options": "A. Kristen Stewart\nB. Crista Flanagan\nC. Emma Watson\nD. Megan Fox",
+    "Answer": "Crista Flanagan"
+  },
+  {
+    "Question": "In the movie 'Epic Movie' (2007), which character is associated with Scott L. Schwartz, who played a different actor portraying Hagrid in 'Harry and the Clones'?",
+    "Options": "A. Harry Potter\nB. Hagrid\nC. Dumbledore\nD. Voldemort",
+    "Answer": "Hagrid"
+  },
+  {
+    "Question": "In the movie 'Epic Movie' (2007), which actor played a different portrayal of Albus Dumbledore in 'Harry Potter and the Deathly Hallows Part 1'?",
+    "Options": "A. Dane Farwell\nB. Daniel Radcliffe\nC. Richard Harris\nD. Michael Gambon",
+    "Answer": "Dane Farwell"
+  },
+  {
+    "Question": "In the 2007 movie 'Epic Movie', which character is portrayed by Kahshanna Evans, who is also associated with the character Storm from the X-Men franchise?",
+    "Options": "A. A. Rogue\nB. B. Storm\nC. C. Mystique\nD. D. Jean Grey",
+    "Answer": "B. Storm"
+  },
+  {
+    "Question": "In the 2007 movie 'Epic Movie', which character is also referred to as Chanchito, a variation of Rico Rodriguez's wrestling persona?",
+    "Options": "A. Rico Rodriguez\nB. Chanchito\nC. Epic Hero\nD. The Wizard",
+    "Answer": "Rico Rodriguez"
+  }
+]

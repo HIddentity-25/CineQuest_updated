@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What does the summary of the movie 'Sidhharth' (2014) provide details about?",
+    "Options": "A. The cast and crew involved in the movie\nB. The film's box office performance\nC. The plot and storyline of the movie\nD. The filming locations used in the movie",
+    "Answer": "The plot and storyline of the movie"
+  },
+  {
+    "Question": "In the movie 'Sidhharth' (2014), what does the displayed message signify?",
+    "Options": "A. It indicates that a character is in trouble.\nB. It shows that some action or information has been communicated to the user.\nC. It reveals a secret about another character.\nD. It is a warning about an impending danger.",
+    "Answer": "It shows that some action or information has been communicated to the user."
+  },
+  {
+    "Question": "In the movie 'Sidhharth' (2014), what does the message shown to the user suggest about the system or application being used?",
+    "Options": "A. It indicates a successful operation.\nB. It suggests potential issues or errors.\nC. It confirms user authentication.\nD. It provides helpful tips for usage.",
+    "Answer": "It suggests potential issues or errors."
+  }
+]

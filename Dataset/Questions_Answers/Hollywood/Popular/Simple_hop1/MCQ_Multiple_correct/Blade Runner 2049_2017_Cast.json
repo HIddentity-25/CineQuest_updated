@@ -1,0 +1,72 @@
+[
+  {
+    "Question": "Which of the following characters are featured in the movie 'Blade Runner 2049' released in 2017?",
+    "Options": "A. K\nB. Rick Deckard\nC. Joi\nD. Officer Luv",
+    "Answer": "K, Rick Deckard"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about the relationship between K and Joi are true?",
+    "Options": "A. K considers Joi to be his virtual companion.\nB. Joi is a physical entity that K can interact with.\nC. K's relationship with Joi is central to the movie's exploration of love and identity.\nD. Joi is a replicant who has feelings for K.",
+    "Answer": "K considers Joi to be his virtual companion., K's relationship with Joi is central to the movie's exploration of love and identity."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the characters Luv and Rick Deckard?",
+    "Options": "A. Luv is an enforcer working for Niander Wallace.\nB. Rick Deckard is a replicant.\nC. Luv is sent to capture Rick Deckard.\nD. Rick Deckard is a detective in the film.",
+    "Answer": "Luv is an enforcer working for Niander Wallace., Luv is sent to capture Rick Deckard."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about Lt. Joshi and K are correct?",
+    "Options": "A. Lt. Joshi is K's superior in the police force.\nB. K is a replicant.\nC. Lt. Joshi is a replicant.\nD. K is an officer in the police force.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which characters are connected through their work at a Wallace Corporation facility?",
+    "Options": "A. Mariette\nB. Sapper Morton\nC. K\nD. Joi",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about the characters Dr. Ana Stelline and Niander Wallace are true?",
+    "Options": "A. Dr. Ana Stelline creates memories for replicants.\nB. Niander Wallace is a replicant designer.\nC. Dr. Ana Stelline is a former replicant.\nD. Niander Wallace works with Dr. Ana Stelline.",
+    "Answer": "Dr. Ana Stelline creates memories for replicants., Niander Wallace is a replicant designer., Niander Wallace works with Dr. Ana Stelline."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which characters are connected through their work at a Wallace Corporation facility?",
+    "Options": "A. Mister Cotton\nB. Sapper Morton\nC. K\nD. Joi",
+    "Answer": "Mister Cotton, Sapper Morton"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements accurately describe the relationship between Niander Wallace and Dr. Ana Stelline?",
+    "Options": "A. Niander Wallace is the founder of the Wallace Corporation.\nB. Dr. Ana Stelline is an independent replicant who opposes Niander Wallace.\nC. Dr. Ana Stelline works for Niander Wallace.\nD. Niander Wallace created Dr. Ana Stelline.",
+    "Answer": "Niander Wallace is the founder of the Wallace Corporation., Dr. Ana Stelline works for Niander Wallace."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about the characters Gaff and K are true?",
+    "Options": "A. Gaff is a retired Blade Runner.\nB. K is a replicant.\nC. Gaff has never met K before.\nD. Gaff previously encountered K.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which characters are connected through their work at a Wallace Corporation facility?",
+    "Options": "A. Doc Badger\nB. Sapper Morton\nC. K\nD. Niander Wallace",
+    "Answer": "Doc Badger, Sapper Morton"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about the relationship between Freysa and Niander Wallace is true?",
+    "Options": "A. Freysa is Niander Wallace's sister.\nB. Freysa is Niander Wallace's right-hand woman.\nC. Freysa opposes Niander Wallace's goals.\nD. Freysa is a replicant created by Niander Wallace.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which characters are connected through their work at a Wallace Corporation facility?",
+    "Options": "A. Coco\nB. Sapper Morton\nC. K\nD. Joi",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about Nandez are true?",
+    "Options": "A. Nandez is a human character.\nB. Nandez works at a Wallace Corporation facility.\nC. Nandez is a replicant.\nD. Nandez is a main character in the film.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the character Rachel?",
+    "Options": "A. Rachel was created by the Tyrell Corporation.\nB. Rachel is a human character.\nC. Rachel is a replicant.\nD. Rachel's likeness is used in the movie.",
+    "Answer": "A, C, D"
+  }
+]

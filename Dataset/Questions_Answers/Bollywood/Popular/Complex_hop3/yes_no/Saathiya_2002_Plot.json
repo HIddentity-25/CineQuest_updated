@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "Did Suhani suffer serious injuries due to a car accident?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did Suhani end up in the hospital after the car accident?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did the car accident involving Yeshwant Rao lead to Suhani being in the hospital?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did Yeshwant Rao cause the car accident that seriously injured Suhani?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did Aditya threaten anyone in relation to the car accident that seriously injured Suhani?",
+        "Answer": "Yes"
+    },
+    {
+        "Question": "Did Aditya threaten someone regarding the hospital where Suhani was admitted?",
+        "Answer": "Yes."
+    }
+]

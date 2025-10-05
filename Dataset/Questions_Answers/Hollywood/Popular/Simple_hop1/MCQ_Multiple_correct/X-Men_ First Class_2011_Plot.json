@@ -1,0 +1,37 @@
+[
+  {
+    "Question": "In the movie 'X-Men: First Class' (2011), what is the relationship between Division X and the CIA officer?",
+    "Options": "A. Division X operates independently from the CIA officer.\nB. The CIA officer sponsors Division X.\nC. Division X is a secret project initiated by the CIA officer.\nD. The CIA officer is a member of Division X.",
+    "Answer": "The CIA officer sponsors Division X., Division X is a secret project initiated by the CIA officer."
+  },
+  {
+    "Question": "In the movie 'X-Men: First Class' (2011), which of the following events are directly related to the relationship between Lehnsherr and Xavier?",
+    "Options": "A. Lehnsherr persuades Xavier to refuse the cure.\nB. Xavier successfully convinces Lehnsherr to join the X-Men.\nC. Lehnsherr's actions lead to Xavier's paralysis.\nD. Lehnsherr leaves with other mutants after the confrontation.",
+    "Answer": "Lehnsherr persuades Xavier to refuse the cure., Lehnsherr's actions lead to Xavier's paralysis., Lehnsherr leaves with other mutants after the confrontation."
+  },
+  {
+    "Question": "In the movie 'X-Men: First Class' (2011), what are the consequences of McCoy using the cure on himself?",
+    "Options": "A. He gains enhanced abilities.\nB. He develops blue fur and leonine aspects.\nC. He loses all his powers.\nD. He becomes a villain.",
+    "Answer": "He develops blue fur and leonine aspects."
+  },
+  {
+    "Question": "In the movie 'X-Men: First Class' (2011), which of the following statements are true regarding the interaction between Xavier and the Soviet sailor?",
+    "Options": "A. Xavier uses his telepathy to influence the Soviet sailor.\nB. The Soviet sailor is a character who opposes Xavier.\nC. Xavier influences the Soviet sailor to destroy a ship carrying missiles.\nD. The Soviet sailor is a mutant.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'X-Men: First Class' (2011), what are the significant actions and motivations of the character Lehnsherr in relation to Shaw?",
+    "Options": "A. Lehnsherr seeks vengeance for his mother's death.\nB. Lehnsherr and Shaw share an exclusivist view of mutants.\nC. Lehnsherr kills Shaw by pushing a coin through his brain.\nD. Lehnsherr tries to convince Shaw to change his views.",
+    "Answer": "Lehnsherr seeks vengeance for his mother's death., Lehnsherr and Shaw share an exclusivist view of mutants., Lehnsherr kills Shaw by pushing a coin through his brain."
+  },
+  {
+    "Question": "In the movie 'X-Men: First Class' (2011), which characters are involved in the conflict where MacTaggert tries to stop Lehnsherr, resulting in Xavier being injured? Select all that apply.",
+    "Options": "A. MacTaggert\nB. Lehnsherr\nC. Xavier\nD. Mystique",
+    "Answer": "MacTaggert, Lehnsherr, Xavier"
+  },
+  {
+    "Question": "In the movie 'X-Men: First Class' (2011), which of the following statements accurately describe the relationship between Xavier and Shaw?",
+    "Options": "A. Xavier witnesses Shaw's death.\nB. Shaw is a mentor to Xavier.\nC. Xavier tries to prevent Shaw's death.\nD. Shaw is killed by Lehnsherr.",
+    "Answer": "A, D"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which of the following statements are true about the movie 'Udaan' released in 2010?",
+    "Options": "A. 'Udaan' is a type of movie.\nB. 'Udaan' explores themes of freedom and rebellion.\nC. 'Udaan' features a coming-of-age story.\nD. 'Udaan' is a musical film.",
+    "Answer": "'Udaan' is a type of movie., 'Udaan' explores themes of freedom and rebellion., 'Udaan' features a coming-of-age story."
+  },
+  {
+    "Question": "Which of the following statements correctly summarize key elements of the movie 'Udaan' released in 2010?",
+    "Options": "A. 'Udaan' explores the struggles of a young boy against his authoritarian father.\nB. The film is set in a small town in India and deals with themes of ambition and freedom.\nC. 'Udaan' features a protagonist who is a successful businessman.\nD. The narrative includes the protagonist's journey to pursue his passion for writing.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Udaan' (2010), which of the following details are significant to the plot development?",
+    "Options": "A. The protagonist's struggle against his authoritarian father\nB. The protagonist's journey of self-discovery and passion for writing\nC. The protagonist's relationship with his childhood friends\nD. The protagonist's success in a corporate job",
+    "Answer": "A, B"
+  }
+]

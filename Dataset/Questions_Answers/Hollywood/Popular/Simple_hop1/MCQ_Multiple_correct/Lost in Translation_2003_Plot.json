@@ -1,0 +1,65 @@
+[
+  {
+    "Question": "In the movie 'Lost in Translation' (2003), which of the following statements are true regarding Bob Harris and his experience in Tokyo?",
+    "Options": "A. Bob Harris is in Tokyo to film a movie.\nB. He arrives to participate in advertisements for Suntory's Hibiki whisky.\nC. Bob is staying at the Park Hyatt Tokyo.\nD. He is enjoying a carefree vacation.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the 2003 movie 'Lost in Translation', which of the following statements are true regarding Bob Harris and Hibiki whisky?",
+    "Options": "A. Bob Harris is a character who promotes Hibiki whisky.\nB. Hibiki whisky is a fictional product created for the film.\nC. Bob Harris appears in lucrative advertisements for Suntory's Hibiki whisky.\nD. Hibiki whisky is a popular beverage in Japan.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Lost in Translation' (2003), which of the following statements are true regarding the relationship between Charlotte and John?",
+    "Options": "A. Charlotte is traveling alone in Tokyo.\nB. John is a celebrity photographer.\nC. Charlotte is married to John.\nD. John is a musician.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the 2003 movie 'Lost in Translation', which of the following statements accurately describe the character Charlotte's experience in Tokyo?",
+    "Options": "A. Charlotte feels enchanted by the vibrant culture of Tokyo.\nB. Charlotte is another American staying at the hotel.\nC. Charlotte spends her time loitering around the hotel.\nD. Charlotte quickly adapts to life in Tokyo.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the 2003 movie 'Lost in Translation', which characters have a relationship where Charlotte feels repelled by a Hollywood actress?",
+    "Options": "A. Charlotte\nB. Kelly\nC. Bob\nD. John",
+    "Answer": "Charlotte, Kelly"
+  },
+  {
+    "Question": "In the 2003 movie 'Lost in Translation', which characters frequently cross paths in the hotel before introducing themselves in the hotel bar?",
+    "Options": "A. Bob Harris\nB. Charlotte\nC. John\nD. Sofia",
+    "Answer": "Bob Harris, Charlotte"
+  },
+  {
+    "Question": "In the movie 'Lost in Translation' (2003), which of the following statements accurately describe the relationship between John and Charlotte?",
+    "Options": "A. John is in Tokyo for an assignment.\nB. Charlotte invites Bob to meet local friends.\nC. John and Charlotte have a romantic relationship.\nD. Charlotte is in Tokyo with John.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Lost in Translation' (2003), which of the following events involve Bob Harris?",
+    "Options": "A. Bob Harris sings at a karaoke box\nB. Bob Harris meets Charlotte\nC. Bob Harris performs a concert\nD. Bob Harris has a conversation with a stranger",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the 2003 movie 'Lost in Translation', which of the following statements are true regarding Bob's experience at the karaoke box?",
+    "Options": "A. Bob performed a song in front of an audience.\nB. Bob was hesitant to sing at the karaoke box.\nC. Bob enjoyed singing at the karaoke box.\nD. Bob was accompanied by Charlotte during his performance.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Answer": "Error parsing answer"
+  },
+  {
+    "Question": "In the 2003 movie 'Lost in Translation', which of the following events involve Bob at the hotel bar?",
+    "Options": "A. A cold conversation with his wife\nB. Spending the night with a jazz singer\nC. Meeting new friends\nD. Ordering drinks at the bar",
+    "Answer": "A cold conversation with his wife, Spending the night with a jazz singer"
+  },
+  {
+    "Question": "In the movie 'Lost in Translation' (2003), which of the following events occur involving Bob and the airport?",
+    "Options": "A. Bob sees Charlotte on a crowded street during his taxi ride.\nB. Bob stops the taxi to talk to Charlotte.\nC. Bob arrives at the airport without any interactions.\nD. Bob walks to Charlotte after seeing her.",
+    "Answer": "Bob sees Charlotte on a crowded street during his taxi ride.; Bob stops the taxi to talk to Charlotte.; Bob walks to Charlotte after seeing her."
+  },
+  {
+    "Question": "In the movie 'Lost in Translation' (2003), which of the following statements accurately describe the interaction between Charlotte and Bob on the street the morning after their time together?",
+    "Options": "A. They share sincere goodbyes.\nB. Their goodbyes are deeply satisfying.\nC. The street is crowded during their farewell.\nD. Bob leaves the hotel without Charlotte.",
+    "Answer": "They share sincere goodbyes.; The street is crowded during their farewell.; Bob leaves the hotel without Charlotte."
+  }
+]

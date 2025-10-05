@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What does the summary of the movie 'Skyline' (2010) provide an overview of?",
+    "Options": "A. The cast and crew of the movie\nB. The plot, themes, and important details\nC. The filming locations and budget\nD. The soundtrack and special effects",
+    "Answer": "The plot, themes, and important details"
+  },
+  {
+    "Question": "In the movie 'Skyline' (2010), how do the details included in the summary enhance the understanding of the events and characters?",
+    "Options": "A. They provide a vague overview of the plot.\nB. They offer specific information about the events and characters.\nC. They focus solely on the special effects used in the film.\nD. They highlight the box office performance of the movie.",
+    "Answer": "They offer specific information about the events and characters."
+  },
+  {
+    "Question": "In the 2010 movie 'Skyline', what does it indicate when a message is displayed?",
+    "Options": "A. The user has won a prize.\nB. The user has accessed the details of a particular movie's summary.\nC. The user has encountered an error.\nD. The user is logging out.",
+    "Answer": "The user has accessed the details of a particular movie's summary."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which musicians contributed to the soundtrack of the movie 'The Departed'?",
+    "Options": "A. Sharon Isbin\nB. G. E. Smith\nC. Larry Saltzman\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which musicians contributed to the soundtrack of 'The Departed'?",
+    "Options": "A. Sharon Isbin\nB. G. E. Smith\nC. Marc Ribot\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which musicians contributed to the score of 'The Departed' directed by Martin Scorsese?",
+    "Options": "A. Sharon Isbin\nB. Larry Saltzman\nC. Marc Ribot\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which of the following statements is true regarding the music and influences of *The Departed*?",
+    "Options": "A. a) Sharon Isbin collaborated on the score for *The Departed*.\nB. b) Martin Scorsese directed *The Departed*.\nC. c) *Murder by Contract* inspired the score of *The Departed*.\nD. d) All of the above",
+    "Answer": "d) All of the above"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the music in 'The Departed'?",
+    "Options": "A. a) Sharon Isbin collaborated with Martin Scorsese on the score.\nB. b) Martin Scorsese was inspired by the zither for the score.\nC. c) The zither was used in the score of 'The Departed'.\nD. d) Martin Scorsese directed 'The Departed'.",
+    "Answer": "a) Sharon Isbin collaborated with Martin Scorsese on the score., b) Martin Scorsese was inspired by the zither for the score., d) Martin Scorsese directed 'The Departed'."
+  },
+  {
+    "Question": "Which musicians contributed to the soundtrack of 'The Departed'?",
+    "Options": "A. G. E. Smith\nB. Larry Saltzman\nC. Marc Ribot\nD. All of the above",
+    "Answer": "All of the above"
+  }
+]

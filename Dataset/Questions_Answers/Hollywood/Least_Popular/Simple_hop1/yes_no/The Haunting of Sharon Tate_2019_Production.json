@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "\"Did Hilary Duff join the cast of 'The Haunting of Sharon Tate' in 2019?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Hilary Duff join the cast of a movie before the release of 'The Haunting of Sharon Tate' in 2019?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Jonathan Bennett join the cast of 'The Haunting of Sharon Tate' in 2019?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Jonathan Bennett join the cast of a movie before the release of 'The Haunting of Sharon Tate' in 2019?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Lydia Hearst join the cast of 'The Haunting of Sharon Tate' in 2019?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Lydia Hearst join the cast of a movie in February 2018?\"]",
+        "Answer": "yes"
+    }
+]

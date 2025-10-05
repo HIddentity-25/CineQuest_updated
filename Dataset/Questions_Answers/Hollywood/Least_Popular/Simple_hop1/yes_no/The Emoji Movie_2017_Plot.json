@@ -1,0 +1,114 @@
+[
+    {
+        "Question": "[\"Is Mel not related to Gene in 'The Emoji Movie 2017'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Are Mel and Mary the parents of Gene in 'The Emoji Movie 2017'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Gene the child of two happy emojis in 'The Emoji Movie 2017'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Are Mel and Mary the parents of Gene in 'The Emoji Movie 2017'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Alex the emoji selected by Gene to send as a text message in The Emoji Movie 2017?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is Gene the emoji selected by Alex to send as a text message in The Emoji Movie 2017?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Smiler decide that Gene is perfectly functional in 'The Emoji Movie 2017'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Emoji Movie 2017', does Smiler conclude that Gene is a 'malfunction' and must be deleted?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Hi-5 abandon Gene to bots sent by Smiler in 'The Emoji Movie 2017'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Emoji Movie 2017', does Hi-5 rescue Gene from bots sent by Smiler?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Smiler from 'The Emoji Movie 2017' ignore Gene's actions and didn't send more bots to look for him?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Emoji Movie 2017', did Smiler send more bots to look for Gene when she found out that he had left Textopolis?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Does Jailbreak, the hacker emoji, want to leave Gene behind in \"The Emoji Movie 2017\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In \"The Emoji Movie 2017\", do Gene and Hi-5 encounter Jailbreak during their adventure?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Does Jailbreak reveal that Gene cannot be fixed in the cloud in \"The Emoji Movie 2017\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In \"The Emoji Movie 2017\", does Jailbreak reveal that Gene can be fixed in the cloud?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Jailbreak never enter the game Candy Crush in the plot of 'The Emoji Movie 2017'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Emoji Movie 2017', does Jailbreak reveal herself as a princess emoji after escaping into the game Candy Crush?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did the just dance app refuse to go off into the Just Dance app with Gene in The Emoji Movie 2017?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did the just dance app go off into the Just Dance app with Gene in The Emoji Movie 2017?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the plot of 'The Emoji Movie 2017', does Jailbreak fail to escape from being stereotyped in the Just Dance app?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is Jailbreak revealed to be a princess emoji after escaping from being stereotyped in the Just Dance app in 'The Emoji Movie 2017'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the plot of 'The Emoji Movie 2017', does Gene have a friendly relationship with Smiler?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Emoji Movie 2017', is there an enemy relationship between Gene and Smiler due to Smiler's threat to delete Gene?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the plot of 'The Emoji Movie 2017', does Mel have a friendly relationship with Smiler?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Emoji Movie 2017', is Mel considered an enemy of Smiler due to Smiler's threat to delete him?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does 'The Emoji Movie 2017' depict a romantic relationship between Alex and Addie?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Emoji Movie 2017', is there a communication relationship between Alex and Addie through text messages?\"]",
+        "Answer": "yes"
+    }
+]

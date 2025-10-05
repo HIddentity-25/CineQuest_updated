@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which song is sung by Amit Kumar in the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. boss kaun tha\nB. jo gaya woh gaya\nC. suno na\nD. humein tumse pyaar kitna",
+    "Answer": "humein tumse pyaar kitna"
+  },
+  {
+    "Question": "Which song is sung by Shaan in the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. boss kaun tha\nB. jo gaya woh gaya\nC. suno na\nD. tera muskurana",
+    "Answer": "tera muskurana"
+  },
+  {
+    "Question": "Which song is sung by Mahalakshmi Iyer in the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. boss kaun tha\nB. suno na\nC. jab kabhi chand na ho\nD. jo gaya woh gaya",
+    "Answer": "jab kabhi chand na ho"
+  },
+  {
+    "Question": "Which song is also sung by KK and is a popular track from the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. boss kaun tha\nB. humein tumse pyaar kitna\nC. tu aashiqui hai\nD. jo gaya woh gaya",
+    "Answer": "tu aashiqui hai"
+  },
+  {
+    "Question": "Which song is from the movie 'Jo Boley Giabbaan' and sung by KK?",
+    "Options": "A. boss kaun tha\nB. ruk ruk rukna na\nC. tu aashiqui hai\nD. jo gaya woh gaya",
+    "Answer": "ruk ruk rukna na"
+  },
+  {
+    "Question": "What type of song is 'tu aashiqui hai' from the movie 'Jo Boley Giabbaan'?",
+    "Options": "A. Background score\nB. Theme song\nC. Instrumental\nD. Ending credits song",
+    "Answer": "Theme song"
+  }
+]

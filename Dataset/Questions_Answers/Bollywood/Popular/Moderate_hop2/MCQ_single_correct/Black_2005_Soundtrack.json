@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Which film won the Best Background Score trophy at the 51st Filmfare Awards?",
+    "Options": "A. Lagaan\nB. Black\nC. Devdas\nD. Kabhi Khushi Kabhie Gham",
+    "Answer": "Black"
+  },
+  {
+    "Question": "Which award did Monty Sharma win for his work on the film *Black*?",
+    "Options": "A. Filmfare Award\nB. National Film Award\nC. IIFA Award\nD. Screen Award",
+    "Answer": "IIFA Award"
+  },
+  {
+    "Question": "Who won the Screen Award for their work on the film 'Black'?",
+    "Options": "A. A. R. Rahman\nB. Monty Sharma\nC. Pritam\nD. Vishal-Shekhar",
+    "Answer": "Monty Sharma"
+  },
+  {
+    "Question": "Which award did Monty Sharma win for his work on the film *Black*?",
+    "Options": "A. Filmfare Award\nB. National Film Award\nC. Zee Cine Award\nD. IIFA Award",
+    "Answer": "Zee Cine Award"
+  }
+]

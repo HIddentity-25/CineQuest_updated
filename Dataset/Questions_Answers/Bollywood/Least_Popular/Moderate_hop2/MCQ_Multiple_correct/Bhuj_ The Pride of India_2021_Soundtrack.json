@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Which of the following songs are part of the soundtrack for the movie 'Bhuj: The Pride of India'?",
+    "Options": "A. bhuj theme\nB. hanjugam\nC. desh mere\nD. suno gham",
+    "Answer": "bhuj theme, hanjugam, desh mere"
+  },
+  {
+    "Question": "Which songs are part of the soundtrack for the movie 'Bhuj: The Pride of India'?",
+    "Options": "A. bhuj theme\nB. hanjugam\nC. rammo rammo\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which songs are part of the soundtrack for the movie 'Bhuj: The Pride of India'?",
+    "Options": "A. bhuj theme\nB. desh mere\nC. rammo rammo\nD. suno ghoonghat",
+    "Answer": "bhuj theme, desh mere, rammo rammo"
+  },
+  {
+    "Question": "Which of the following songs are part of the soundtrack for the movie 'Bhuj: The Pride of India'?",
+    "Options": "A. Hanjugam\nB. Desh Mere\nC. Rammo Rammo\nD. Chhod Diya",
+    "Answer": "Hanjugam, Desh Mere, Rammo Rammo"
+  }
+]

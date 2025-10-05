@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Who is the producer of the film mentioned in the context of its production?",
+    "Options": "A. Rajkumar Hirani\nB. Anurag Basu\nC. Karan Johar\nD. Vishal Bhardwaj",
+    "Answer": "Anurag Basu"
+  },
+  {
+    "Question": "Who is a producer of the film mentioned in the context of its production?",
+    "Options": "A. Anurag Basu\nB. Taani Basu\nC. Rajkummar Rao\nD. Pankaj Tripathi",
+    "Answer": "Taani Basu"
+  },
+  {
+    "Question": "Who is one of the producers of the film mentioned in the production details?",
+    "Options": "A. Anurag Basu\nB. Taani Basu\nC. Bhushan Kumar\nD. Rajkumar Hirani",
+    "Answer": "Bhushan Kumar"
+  }
+]

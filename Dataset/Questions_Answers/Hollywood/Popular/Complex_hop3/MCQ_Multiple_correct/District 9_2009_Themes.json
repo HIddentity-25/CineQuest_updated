@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What themes are explored in the movie *District 9*?",
+    "Options": "A. Xenophobia\nB. Unity among humans\nC. Insect-like species\nD. Conflict between species",
+    "Answer": "A) Xenophobia, B) Unity among humans, C) Insect-like species"
+  },
+  {
+    "Question": "What themes are explored in the movie *District 9*?",
+    "Options": "A. Xenophobia\nB. Unity among humans\nC. Conflict with an insect-like species\nD. All of the above",
+    "Answer": "A) Xenophobia, B) Unity among humans, C) Conflict with an insect-like species"
+  },
+  {
+    "Question": "Which themes and elements are explored in the movie 'District 9'?",
+    "Options": "A. The presence of an insect-like species\nB. The theme of xenophobia\nC. The relocation of alien species\nD. All of the above",
+    "Answer": "D) All of the above"
+  }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "Question": "[\"Is the production aspect of 'Epic Movie 2007' not mentioned explicitly in the section 'HERE IS THE DETAILS OF MOVIE'S PRODUCTION'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the section 'HERE IS THE DETAILS OF MOVIE'S PRODUCTION' explicitly mention the production aspect of 'Epic Movie 2007'?\"]",
+        "Answer": "yes"
+    }
+]

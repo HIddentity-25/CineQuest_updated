@@ -1,0 +1,37 @@
+[
+  {
+    "Question": "Who conjured the Patronus doe in the context of the Elder Wand and Snape's demise?",
+    "Options": "A. Elder Wand\nB. Snape\nC. Voldemort\nD. Patronus Doe",
+    "Answer": "Patronus Doe"
+  },
+  {
+    "Question": "Who conjured the Patronus doe as a causal relation?",
+    "Options": "A. Albus Dumbledore\nB. Snape\nC. Patronus Doe\nD. Voldemort",
+    "Answer": "Snape"
+  },
+  {
+    "Question": "Who did Snape love despite despising Harry's late father James?",
+    "Options": "A. Lily\nB. Snape\nC. Patronus Doe\nD. James",
+    "Answer": "Lily"
+  },
+  {
+    "Question": "How did Harry become a Horcrux?",
+    "Options": "A. Voldemort's curse\nB. Harry\nC. Horcrux\nD. Neville Longbottom",
+    "Answer": "Voldemort's curse"
+  },
+  {
+    "Question": "What relation did Voldemort's curse have with Harry in the final confrontation?",
+    "Options": "A. Voldemort's curse failed to kill Harry\nB. Harry cast a protective spell on Voldemort\nC. Harry was initially unaffected by Voldemort's curse\nD. Voldemort's curse strengthened Harry",
+    "Answer": "Voldemort's curse failed to kill Harry"
+  },
+  {
+    "Question": "Who accidentally became a Horcrux?",
+    "Options": "A. Dumbledore's spirit\nB. Harry\nC. Horcrux\nD. Voldemort",
+    "Answer": "Harry"
+  },
+  {
+    "Question": "Who finally kills Voldemort after his Expelliarmus charm?",
+    "Options": "A. Dumbledore's spirit\nB. Harry\nC. Hermione\nD. Ron",
+    "Answer": "Harry"
+  }
+]

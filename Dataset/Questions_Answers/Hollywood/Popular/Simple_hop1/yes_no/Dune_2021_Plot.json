@@ -1,0 +1,114 @@
+[
+    {
+        "Question": "[\"Is the movie 'Dune' from 2021 about Duke Leto Atreides being assigned to a lush green planet?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', is Duke Leto Atreides assigned by the Padishah Emperor Shaddam IV to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis, a harsh desert planet?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the movie 'Dune' released in 2021 not centered around the valuable psychotropic substance, spice, which is sourced solely from Arrakis?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', is Arrakis the sole source of the valuable psychotropic substance known as spice, which imparts heightened vitality and awareness?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2021 movie 'Dune', is the spice not used by the Spacing Guild Navigators to guide starships to traverse space instantaneously and safely?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2021 movie 'Dune', does the Spacing Guild Navigators use spice to guide starships to traverse space instantaneously and safely?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the movie 'Dune' released in 2021 about House Atreides not having any representation in Arrakis?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', does Duke Leto Atreides represent House Atreides as the fiefholder of Arrakis?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', did Emperor Shaddam IV assign Duke Leto Atreides to replace Baron Vladimir Harkonnen as the fiefholder of a planet other than Arrakis?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 film 'Dune', is it correct that Emperor Shaddam IV assigned Duke Leto Atreides to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2021 movie 'Dune', did Emperor Shaddam IV plot against House Harkonnen?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2021 movie 'Dune', did Emperor Shaddam IV secretly aid House Harkonnen in retaking Arrakis with his Sardaukar troops?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2021 film 'Dune', is Lady Jessica not associated with the Bene Gesserit?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2021 movie 'Dune', is Lady Jessica an acolyte of the Bene Gesserit?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did the Bene Gesserit implement a centuries-long breeding program to produce the Kwisatz Haderach in the 2021 movie 'Dune'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2021 movie 'Dune', is the Bene Gesserit's centuries-long breeding program unrelated to the production of the Kwisatz Haderach?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', is Paul the daughter of Lady Jessica?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the plot of the 2021 movie 'Dune', does Lady Jessica disobey the Bene Gesserit's orders and bear a son, Paul?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2021 film 'Dune', is Paul trained by someone other than Duncan Idaho?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the character Paul receive training from Duncan Idaho in the 2021 movie 'Dune'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is it true that in the 2021 movie 'Dune', Paul is not trained by Gurney Halleck, one of Duke Leto Atreides' aides?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', does Paul receive training from Gurney Halleck, who is one of Duke Leto Atreides' aides?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', was Paul trained by the Suk doctor Wellington Yueh who was previously employed by House Harkonnen?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', was Paul trained by the Suk doctor Wellington Yueh who was previously employed by House Atreides?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Paul train Thufir Hawat in the 2021 movie 'Dune'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', was Paul trained by Thufir Hawat, a Mentat employed by Duke Leto Atreides?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is it true that in the 2021 movie 'Dune', the Fremen are not the natives of Arrakis?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2021 movie 'Dune', are the Fremen mentioned as the mysterious natives of Arrakis?\"]",
+        "Answer": "yes"
+    }
+]

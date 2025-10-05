@@ -1,0 +1,154 @@
+[
+    {
+        "Question": "[\"Does the character Dia in the movie 'Ballistic Ecks vs. Sever 2002' rescue the son of DIA director Robert Gant?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', does the character Sever, an ex-DIA agent, kidnap DIA director Robert Gant's son Michael?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is Sever from the movie \"Ballistic Ecks vs. Sever 2002\" a former CIA agent?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"Ballistic Ecks vs. Sever 2002\", was Sever, a former DIA agent, adopted and trained by the agency as a covert operative and assassin?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is Jeremiah Ecks currently working for the FBI in the movie \"Ballistic Ecks vs. Sever 2002\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was Jeremiah Ecks a former FBI agent in the movie \"Ballistic Ecks vs. Sever 2002\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Ecks' old boss Julio Martin ask him to investigate a case unrelated to Gant in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', does Julio Martin claim that Michael's mother Vin is still alive if Ecks helps take down Sever?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Ross the one who tries to rescue Michael in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', does Sever wipe out Ross's forces in a lengthy gun battle?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Sever shoot Ecks' old boss Julio Martin during their pursuit in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', was Sever shot by Ecks' old boss Julio Martin during their pursuit?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the movie 'Ballistic Ecks vs. Sever 2002', does Ross defeat Ecks in a lengthy gun battle?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Does Ecks wipe out Ross's forces in a lengthy gun battle in the movie 'Ballistic Ecks vs. Sever 2002'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Ballistic Ecks vs. Sever 2002', does Sever help Martin escape?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the plot of 'Ballistic Ecks vs. Sever 2002', does Sever shoot Martin?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Ecks and Sever become allies in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', does Ross interrupt a fight between Ecks and Sever by shooting at them with an M60 machine gun?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Ecks get arrested by the Toronto Police Department in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', was Ecks arrested by the Vancouver Police Department under the false pretense that he killed Martin?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Sever ignore Ecks during the car chase in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', does Sever throw a piece of paper at Ecks during a car chase and tell him to ask Gant about his wife?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does the movie 'Ballistic: Ecks vs. Sever 2002' depict a scenario where Ecks and Rayne never meet after their orchestrated 'deaths'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Ballistic: Ecks vs. Sever 2002', does Rayne end up marrying Gant under the name Vinn after believing that Ecks had died?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Sever the one who gets kidnapped in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', was Sever's kidnapping intended for Michael's protection?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Sever die in the final battle in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', do Ecks and Sever gain the upper hand in the final battle?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Gant find the Softkill in Michael's arm in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does Gant try to retrieve the Softkill from Michael's arm in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Sever spare Gant's life during the final battle in the movie 'Ballistic Ecks vs. Sever 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Ballistic Ecks vs. Sever 2002', does Sever kill Gant during the final battle using a Softkill-loaded bullet?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Ballistic Ecks vs. Sever 2002', does Ecks get caught by the police?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the plot of 'Ballistic Ecks vs. Sever 2002', does Ecks escape as the police arrive?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Ballistic Ecks vs. Sever 2002', is Gant killed using a Softkill-loaded bullet?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Ballistic Ecks vs. Sever 2002', does Gant survive after being shot with a Softkill-loaded bullet?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "Does the movie \"Ballistic Ecks vs. Sever 2002\" end with Ecks being separated from his family?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"Ballistic Ecks vs. Sever 2002\", does Ecks thank Sever for reuniting him with his family at the end of the film?",
+        "Answer": "yes"
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "Who composed the music for the movie 'Karz: The Burden of Truth', released in 2002?",
+    "Options": "A. A. Sanjeev-Darshan\nB. B. A.R. Rahman\nC. C. Vishal-Shekhar\nD. D. Pritam",
+    "Answer": "A. Sanjeev-Darshan"
+  },
+  {
+    "Question": "In the 2002 movie 'Karz: The Burden of Truth', which artists performed the song 'Aashiqui Ban Ke'?",
+    "Options": "A. Adnan Sami and Kavita Krishnamurthy\nB. Sonu Nigam and Alka Yagnik\nC. Kumar Sanu and Sadhana Sargam\nD. Arijit Singh and Shreya Ghoshal",
+    "Answer": "Adnan Sami and Kavita Krishnamurthy"
+  },
+  {
+    "Question": "In the 2002 movie 'Karz: The Burden of Truth', which artists performed the song 'Jhoom Jhoom Na'?",
+    "Options": "A. A. Sonu Nigam, Alka Yagnik\nB. B. Sukhwinder Singh, Hema Sardesai\nC. C. Arijit Singh, Shreya Ghoshal\nD. D. Kumar Sanu, Kavita Krishnamurthy",
+    "Answer": "B. Sukhwinder Singh, Hema Sardesai"
+  },
+  {
+    "Question": "In the 2002 movie 'Karz: The Burden of Truth', which singers performed the song 'Mohabbat Hui Hai'?",
+    "Options": "A. Kumar Sanu and Kavita Krishnamurthy\nB. Sonu Nigam and Shreya Ghoshal\nC. Arijit Singh and Neeti Mohan\nD. Mohit Chauhan and Sunidhi Chauhan",
+    "Answer": "Kumar Sanu and Kavita Krishnamurthy"
+  },
+  {
+    "Question": "In the 2002 movie 'Karz: The Burden of Truth', which artists performed the song 'Meri Mehbooba Hai Tu'?",
+    "Options": "A. Kumar Sanu and Abhijeet Bhattacharya\nB. Sonu Nigam and Shaan\nC. Arijit Singh and Atif Aslam\nD. Mohit Chauhan and Neeraj Shridhar",
+    "Answer": "Kumar Sanu and Abhijeet Bhattacharya"
+  },
+  {
+    "Question": "Which artists performed the song 'Shaam Bhi Khoob Hai' in the movie 'Karz: The Burden of Truth' released in 2002?",
+    "Options": "A. Kumar Sanu, Udit Narayan, Alka Yagnik\nB. Sonu Nigam, Shreya Ghoshal, Arijit Singh\nC. Asha Bhosle, Mohit Chauhan, Neha Kakkar\nD. Lata Mangeshkar, Kishore Kumar, Sunidhi Chauhan",
+    "Answer": "Kumar Sanu, Udit Narayan, Alka Yagnik"
+  },
+  {
+    "Question": "In the 2002 movie 'Karz: The Burden of Truth', which female artist performed in the song 'So Gayi Hai Zameen'?",
+    "Options": "A. Asha Bhosle\nB. Alka Yagnik\nC. Sunidhi Chauhan\nD. Lata Mangeshkar",
+    "Answer": "Asha Bhosle"
+  },
+  {
+    "Question": "In the 2002 movie 'Karz: The Burden of Truth', which singer performed the song 'So Gayi Hai Zameen'?",
+    "Options": "A. Kumar Sanu\nB. Sonu Nigam\nC. Kishore Kumar\nD. Mohammed Rafi",
+    "Answer": "Kumar Sanu"
+  }
+]

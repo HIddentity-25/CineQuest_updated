@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "In the movie 'Walk the Line' released in 2005, which actor performed nine songs that contributed to the soundtrack?",
+    "Options": "A. Joaquin Phoenix\nB. Reese Witherspoon\nC. Johnny Cash\nD. Elvis Presley",
+    "Answer": "Joaquin Phoenix"
+  },
+  {
+    "Question": "In the 2005 movie 'Walk the Line', which actress contributed four songs to the soundtrack?",
+    "Options": "A. Reese Witherspoon\nB. Joaquin Phoenix\nC. Gwyneth Paltrow\nD. Meryl Streep",
+    "Answer": "Reese Witherspoon"
+  },
+  {
+    "Question": "In the movie 'Walk the Line' (2005), which musician contributed two songs to the soundtrack?",
+    "Options": "A. Johnny Cash\nB. Tyler Hilton\nC. Joaquin Phoenix\nD. Reese Witherspoon",
+    "Answer": "Tyler Hilton"
+  },
+  {
+    "Question": "In the 2005 movie 'Walk the Line', which artist contributed 'one song each' to the soundtrack?",
+    "Options": "A. Johnny Cash\nB. Waylon Payne\nC. June Carter\nD. Elvis Presley",
+    "Answer": "Waylon Payne"
+  },
+  {
+    "Question": "What is the contribution of Johnathan Rice to the soundtrack of the movie 'Walk the Line', released in 2005?",
+    "Options": "A. He composed the entire score.\nB. He performed one song included in the soundtrack.\nC. He directed the music video.\nD. He wrote the screenplay.",
+    "Answer": "He performed one song included in the soundtrack."
+  },
+  {
+    "Question": "In the 2005 movie 'Walk the Line', what does the statement 'one song each by Shooter Jennings' refer to?",
+    "Options": "A. The songs performed by Johnny Cash\nB. The contribution of Shooter Jennings to the soundtrack\nC. The songs written by June Carter\nD. The overall music direction of the film",
+    "Answer": "The contribution of Shooter Jennings to the soundtrack"
+  }
+]

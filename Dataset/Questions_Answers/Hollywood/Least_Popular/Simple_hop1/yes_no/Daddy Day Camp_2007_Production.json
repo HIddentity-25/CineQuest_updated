@@ -1,0 +1,42 @@
+[
+    {
+        "Question": "[\"Is the movie 'Daddy Day Camp 2007' unrelated to the production of 'Daddy Day Care'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the production details of 'Daddy Day Care' relate to the movie 'Daddy Day Camp 2007'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the sequel to 'Daddy Day Camp 2007' decided upon in 2005?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Eddie Murphy decide to make a sequel to 'Daddy Day Camp 2007' in August 2003?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is 'Daddy Day Camp 2007' a movie where Eddie Murphy refused to be involved in the sequel?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the context of 'Daddy Day Camp 2007', does 'Eddie Murphy' have a connection with 'Murphy's sequel'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the movie 'Daddy Day Camp 2007' unrelated to the release of 'Daddy Day Care'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is the movie 'Daddy Day Camp 2007' related to the production and release of 'Daddy Day Care'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the movie 'Daddy Day Camp 2007' verified in January 2023?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the article on 'Daddy Day Camp 2007' require additional citations for verification as of January 2023?\"]",
+        "Answer": "yes"
+    }
+]

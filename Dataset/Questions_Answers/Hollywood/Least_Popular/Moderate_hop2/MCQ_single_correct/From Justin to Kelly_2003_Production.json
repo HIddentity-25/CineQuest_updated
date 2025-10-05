@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Who is related to the production process of the movie 'From Justin to Kelly'?",
+    "Options": "A. r. j. helton\nB. from justin to kelly\nC. actor readings\nD. script revisions",
+    "Answer": "r. j. helton"
+  },
+  {
+    "Question": "Who is related to the production process of 'From Justin to Kelly' but does not appear in the final cut of the movie?",
+    "Options": "A. R. J. Helton\nB. Christina Christian\nC. Kelly Clarkson\nD. Justin Guarini",
+    "Answer": "Christina Christian"
+  },
+  {
+    "Question": "What aspect of the movie 'From Justin to Kelly' includes actor readings, script revisions, rehearsals for dances and singing, and a six-week shooting schedule?",
+    "Options": "A. Actor Readings\nB. Script Revisions\nC. Rehearsals for Dances and Singing\nD. Six-week Shooting Schedule",
+    "Answer": "Actor Readings"
+  },
+  {
+    "Question": "What aspect of the movie 'From Justin to Kelly' involved script revisions during the production process?",
+    "Options": "A. Actor Readings\nB. Rehearsals for dances\nC. Script Revisions\nD. Shooting Schedule",
+    "Answer": "Script Revisions"
+  },
+  {
+    "Question": "What aspect of the movie 'From Justin to Kelly' involves rehearsals for dances and singing?",
+    "Options": "A. Rehearsals\nB. From Justin to Kelly\nC. Production Process\nD. Script Revisions",
+    "Answer": "Rehearsals"
+  },
+  {
+    "Question": "What aspect is related to the production process of the movie 'From Justin to Kelly' that involves a six-week shooting schedule?",
+    "Options": "A. Actor readings\nB. Script revisions\nC. Rehearsals for dances and singing\nD. Shooting schedule",
+    "Answer": "Shooting schedule"
+  }
+]

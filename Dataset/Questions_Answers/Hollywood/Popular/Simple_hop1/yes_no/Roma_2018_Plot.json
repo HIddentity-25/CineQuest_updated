@@ -1,0 +1,58 @@
+[
+    {
+        "Question": "[\"In the 2018 movie 'Roma', did Cleo leave the city after Sofia tried unsuccessfully to conceal her husband's infidelity from their children?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the plot of 'Roma', released in 2018, does Cleo return to the city after Sofia tries unsuccessfully to conceal her husband's infidelity from their children?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2018 movie 'Roma', did Teresa leave Cleo at home while she went shopping for a crib downtown?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Roma', released in 2018, does Teresa take Cleo shopping for a crib downtown?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the student protest outside the store in the 2018 movie 'Roma' unrelated to the Corpus Christi massacre of 10 June 1971?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the student protest outside the store in the 2018 movie 'Roma' turn into the Corpus Christi massacre of 10 June 1971?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2018 movie 'Roma', did Fermín point a gun at Cleo and Teresa before silently leaving?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2018 movie 'Roma', did Fermín have a friendly conversation with Cleo and Teresa before leaving?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Cleo fail to save Sofi and Paco from a strong current at the beach in the 2018 movie 'Roma'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2018 movie 'Roma', did Cleo wade in and save Sofi and Paco from a strong current at the beach?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2018 movie 'Roma', did Cleo express a desire for her baby to be born?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the plot of 'Roma' released in 2018, does Cleo confess that she did not want her baby to be born?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2018 movie 'Roma', does Sofía express hatred towards Cleo?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2018 film 'Roma', do Sofía and Cleo affirm their love for each other?\"]",
+        "Answer": "yes"
+    }
+]

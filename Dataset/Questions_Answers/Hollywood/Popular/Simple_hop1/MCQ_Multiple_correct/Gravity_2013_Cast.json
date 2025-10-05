@@ -1,0 +1,37 @@
+[
+  {
+    "Question": "In the movie 'Gravity' (2013), which characters are part of the same space mission?",
+    "Options": "A. Lieutenant Matthew 'Matt' Kowalski\nB. Dr. Ryan Stone\nC. George Clooney\nD. Sandra Bullock",
+    "Answer": "A) Lieutenant Matthew 'Matt' Kowalski, B) Dr. Ryan Stone"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which of the following roles does George Clooney portray?",
+    "Options": "A. Lieutenant Matthew 'Matt' Kowalski\nB. Commander of the team\nC. Mission Specialist\nD. Flight Engineer",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "Which of the following statements are true about Lieutenant Matthew 'Matt' Kowalski in the movie 'Gravity' (2013)?",
+    "Options": "A. He is portrayed by George Clooney.\nB. He is a rookie astronaut.\nC. He is a veteran astronaut.\nD. He is the main character in the film.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "Which of the following statements are true about Lieutenant Matthew 'Matt' Kowalski in the movie 'Gravity' (2013)?",
+    "Options": "A. Lieutenant Matthew 'Matt' Kowalski is played by George Clooney.\nB. He is planning to retire after the Explorer expedition.\nC. He is a scientist conducting experiments in space.\nD. Kowalski is the main character of the film.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which character is determined to protect the lives of his fellow astronauts?",
+    "Options": "A. Lieutenant Matthew 'Matt' Kowalski\nB. Dr. Ryan Stone\nC. Mission Control\nD. George Clooney",
+    "Answer": "A) Lieutenant Matthew 'Matt' Kowalski, D) George Clooney"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which of the following statements about Lieutenant Matthew 'Matt' Kowalski, played by George Clooney, are true?",
+    "Options": "A. He enjoys telling stories about himself.\nB. He often jokes with his team.\nC. He is a serious character with no sense of humor.\nD. He has a close relationship with his team.",
+    "Answer": "He enjoys telling stories about himself., He often jokes with his team., He has a close relationship with his team."
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which character is voiced by Ed Harris, and what location is associated with this character?",
+    "Options": "A. Mission Control in Houston, Texas\nB. Space Station\nC. NASA Headquarters\nD. International Space Station",
+    "Answer": "A. Mission Control in Houston, Texas"
+  }
+]

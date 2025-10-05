@@ -1,0 +1,537 @@
+[
+  {
+    "Question": "In the 2005 film 'Batman Begins', who portrays the character of Batman?",
+    "Options": "A. Michael Keaton\nB. Val Kilmer\nC. Christian Bale\nD. Ben Affleck",
+    "Answer": "Christian Bale"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', which actor portrays the character Bruce Wayne?",
+    "Options": "A. Michael Keaton\nB. Christian Bale\nC. Val Kilmer\nD. Ben Affleck",
+    "Answer": "Christian Bale"
+  },
+  {
+    "Question": "Who directed the film 'Batman Begins', released in 2005?",
+    "Options": "A. Zack Snyder\nB. Sir Christopher Nolan\nC. Tim Burton\nD. David Fincher",
+    "Answer": "Sir Christopher Nolan"
+  },
+  {
+    "Question": "Who co-wrote the screenplay for the 2005 movie 'Batman Begins'?",
+    "Options": "A. Christopher Nolan\nB. David S. Goyer\nC. Jonathan Nolan\nD. Zack Snyder",
+    "Answer": "David S. Goyer"
+  },
+  {
+    "Question": "Which company produced and distributed the film 'Batman Begins' released in 2005?",
+    "Options": "A. Sony Pictures\nB. Warner Bros. Pictures\nC. Universal Pictures\nD. 20th Century Fox",
+    "Answer": "Warner Bros. Pictures"
+  },
+  {
+    "Question": "What is the name of the sequel to the 2005 film 'Batman Begins'?",
+    "Options": "A. Batman Forever\nB. Batman vs. Superman\nC. The Dark Knight\nD. Batman and Robin",
+    "Answer": "The Dark Knight"
+  },
+  {
+    "Question": "What were the initial expectations for the movie 'Batman Begins' released in 2005?",
+    "Options": "A. High expectations due to strong marketing\nB. Moderate to low expectations due to past failures\nC. Expectations were extremely high from the start\nD. Expectations were non-existent due to lack of publicity",
+    "Answer": "Moderate to low expectations due to past failures"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what justifies Batman's decision to resort to killing as a form of justice?",
+    "Options": "A. The need for revenge against his parents' killers\nB. The failures of the authorities and corruption in Gotham\nC. His desire to instill fear in criminals\nD. The influence of Ra's al Ghul on his methods",
+    "Answer": "The failures of the authorities and corruption in Gotham"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what does Bruce Wayne do after inheriting his family's company, Wayne Enterprises?",
+    "Options": "A. He sells the company to a rival.\nB. He ignores it and focuses on becoming Batman.\nC. He takes an interest in it and explores its inner workings with Lucius Fox.\nD. He transforms it into a charity organization.",
+    "Answer": "He takes an interest in it and explores its inner workings with Lucius Fox."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what motivates Batman to adopt a vigilante identity?",
+    "Options": "A. To seek revenge for his parents' death\nB. To fight crime and bring justice inspired by his childhood fear\nC. To gain recognition in Gotham City\nD. To train with the League of Shadows",
+    "Answer": "To fight crime and bring justice inspired by his childhood fear"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what significant action does Batman take to assist Rachel in her investigation against Falcone?",
+    "Options": "A. He gives her a special gadget.\nB. He provides her with evidence against Falcone.\nC. He helps her escape from danger.\nD. He trains her in combat.",
+    "Answer": "He provides her with evidence against Falcone."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which character is depicted as a criminal mastermind engaging in crime and corruption in Gotham?",
+    "Options": "A. Bruce Wayne\nB. Ra's al Ghul\nC. Carmine Falcone\nD. James Gordon",
+    "Answer": "Carmine Falcone"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what role does Dr. Jonathan Crane play in Gotham's corruption?",
+    "Options": "A. He is a heroic figure who fights against crime.\nB. He smuggles drugs into Gotham with the help of Falcone.\nC. He is a police officer trying to bring justice.\nD. He is a journalist exposing the truth.",
+    "Answer": "He smuggles drugs into Gotham with the help of Falcone."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what does Dr. Jonathan Crane use to incapacitate Carmine Falcone?",
+    "Options": "A. A tranquilizer dart\nB. A fear-inducing hallucinogen\nC. A gas mask\nD. A smoke bomb",
+    "Answer": "A fear-inducing hallucinogen"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', how does Dr. Jonathan Crane reveal his corruption during Batman's investigation?",
+    "Options": "A. By stealing money from Gotham's bank\nB. By introducing drugs into Gotham's water supply\nC. By kidnapping citizens of Gotham\nD. By sabotaging the police department",
+    "Answer": "By introducing drugs into Gotham's water supply"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), who is described as one of Gotham's few honest police officers and an ally to Batman?",
+    "Options": "A. Alfred Pennyworth\nB. Sergeant James Gordon\nC. Harvey Dent\nD. Commissioner Loeb",
+    "Answer": "Sergeant James Gordon"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what role does Lucius Fox play in Bruce Wayne's fight against crime?",
+    "Options": "A. He is Bruce's main antagonist.\nB. He provides Bruce with access to prototype defense technologies.\nC. He trains Bruce in martial arts.\nD. He is a journalist investigating Batman.",
+    "Answer": "He provides Bruce with access to prototype defense technologies."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what does Dr. Jonathan Crane reveal to Rachel Dawes when she accuses him of corruption?",
+    "Options": "A. He has been working with the police.\nB. He has introduced his drug into Gotham's water supply.\nC. He is planning to leave Gotham.\nD. He has evidence against Bruce Wayne.",
+    "Answer": "He has introduced his drug into Gotham's water supply."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', how does Batman deal with the character Crane?",
+    "Options": "A. He captures him and takes him to jail.\nB. He subdues him and sprays him with his own chemical.\nC. He recruits him as an ally.\nD. He ignores him and focuses on other villains.",
+    "Answer": "He subdues him and sprays him with his own chemical."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what significant action does Batman take involving Rachel and Gordon?",
+    "Options": "A. He gives Rachel a vial for herself.\nB. He gives Rachel two vials: one for Gordon and the other for mass production.\nC. He asks Rachel to deliver a message to Gordon.\nD. He fights alongside Rachel and Gordon.",
+    "Answer": "He gives Rachel two vials: one for Gordon and the other for mass production."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which character is revealed to be the true Ra's al Ghul?",
+    "Options": "A. Bruce Wayne\nB. Ducard\nC. Alfred Pennyworth\nD. Jim Gordon",
+    "Answer": "Ducard"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), how does Alfred assist Bruce during a critical moment involving Ducard?",
+    "Options": "A. Alfred provides Bruce with a new suit.\nB. Alfred rescues Bruce when Ducard sets Wayne Manor aflame and leaves Bruce to die.\nC. Alfred trains Bruce in martial arts.\nD. Alfred helps Bruce escape from the police.",
+    "Answer": "Alfred rescues Bruce when Ducard sets Wayne Manor aflame and leaves Bruce to die."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what significant action does Batman take regarding Rachel?",
+    "Options": "A. He trains her to fight crime.\nB. He rescues her from a drugged mob and reveals his identity.\nC. He abandons her for the greater good.\nD. He enlists her help in his crime-fighting efforts.",
+    "Answer": "He rescues her from a drugged mob and reveals his identity."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what significant action does Sergeant Gordon take in relation to Batman?",
+    "Options": "A. He exposes Batman's identity to the public.\nB. He is promoted to Lieutenant and shows Batman a way to fight crime.\nC. He arrests Batman for vigilante actions.\nD. He becomes Batman's enemy.",
+    "Answer": "He is promoted to Lieutenant and shows Batman a way to fight crime."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what is the reason Rachel gives for not being with Bruce?",
+    "Options": "A. She is in love with someone else.\nB. She believes Bruce is not ready for a relationship.\nC. She promises they can be together when Gotham no longer needs Batman.\nD. She is afraid of the dangers associated with Batman.",
+    "Answer": "She promises they can be together when Gotham no longer needs Batman."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what action does Bruce Wayne take regarding Earle?",
+    "Options": "A. A: Bruce promotes Earle to CEO.\nB. B: Bruce fires Earle and replaces him with Fox.\nC. C: Bruce collaborates with Earle on a project.\nD. D: Bruce ignores Earle's advice.",
+    "Answer": "B: Bruce fires Earle and replaces him with Fox."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what rank is Sergeant Gordon promoted to during the film?",
+    "Options": "A. Captain\nB. Lieutenant\nC. Chief\nD. Detective",
+    "Answer": "Lieutenant"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which character is portrayed by Mark Boone Junior?",
+    "Options": "A. Arnold Flass\nB. James Gordon\nC. Bruce Wayne\nD. Ra's al Ghul",
+    "Answer": "Arnold Flass"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), who portrays Thomas Wayne, Bruce's late father?",
+    "Options": "A. Gary Oldman\nB. Michael Caine\nC. Linus Roache\nD. Liam Neeson",
+    "Answer": "Linus Roache"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', which character is portrayed by Larry Holden?",
+    "Options": "A. Carl Finch\nB. Bruce Wayne\nC. Alfred Pennyworth\nD. Ra's al Ghul",
+    "Answer": "Carl Finch"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', who is portrayed by Colin McFarlane and holds the title of police commissioner?",
+    "Options": "A. Gillian B. Loeb\nB. James Gordon\nC. Harvey Dent\nD. Ra's al Ghul",
+    "Answer": "Gillian B. Loeb"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', which actress portrays Jessica, who is William Earle's secretary?",
+    "Options": "A. Katie Holmes\nB. Christine Adams\nC. Maggie Gyllenhaal\nD. Cillian Murphy",
+    "Answer": "Christine Adams"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', which character is portrayed by Vincent Wong?",
+    "Options": "A. An Asian prisoner\nB. An old Asian prisoner\nC. A young Asian prisoner\nD. A detective",
+    "Answer": "An old Asian prisoner"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), who portrays Martha Wayne, Bruce's late mother?",
+    "Options": "A. Katie Holmes\nB. Sara Stewart\nC. Maggie Gyllenhaal\nD. Emily Blunt",
+    "Answer": "Sara Stewart"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', who is portrayed by Richard Brake and is known as the Waynes' killer?",
+    "Options": "A. Joe Chill\nB. Ra's al Ghul\nC. Thomas Wayne\nD. Dr. Jonathan Crane",
+    "Answer": "Joe Chill"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which actor portrays the character of the corrupt High Court Judge Faden?",
+    "Options": "A. Gary Oldman\nB. Cillian Murphy\nC. Gerard Murphy\nD. Liam Neeson",
+    "Answer": "Gerard Murphy"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), who is the last person to meet Bruce before he leaves Gotham City?",
+    "Options": "A. Alfred\nB. Rachel Dawes\nC. Commissioner Gordon\nD. Batman",
+    "Answer": "Batman"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which actor, known for playing Joffrey Baratheon in 'Game of Thrones', appears as a young admirer of Batman?",
+    "Options": "A. Christian Bale\nB. Gary Oldman\nC. Jack Gleeson\nD. Liam Neeson",
+    "Answer": "Jack Gleeson"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what is the relationship between Batman and Gleeson?",
+    "Options": "A. Gleeson is a villain trying to defeat Batman.\nB. Gleeson appears as a young admirer of Batman who is later saved by him from Ra's al Ghul's men.\nC. Gleeson is Batman's sidekick throughout the movie.\nD. Gleeson is a reporter investigating Batman's identity.",
+    "Answer": "Gleeson appears as a young admirer of Batman who is later saved by him from Ra's al Ghul's men."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what was the reason Christopher Nolan sought an all-star supporting cast?",
+    "Options": "A. To create a more humorous tone\nB. To lend a more epic feel and credibility to the story\nC. To reduce the film's budget\nD. To increase the film's running time",
+    "Answer": "To lend a more epic feel and credibility to the story"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what early scene involving young Bruce Wayne is adapted from 'The Man Who Falls'?",
+    "Options": "A. Bruce Wayne training with Ra's al Ghul\nB. Young Bruce Wayne falling into a well\nC. Bruce Wayne witnessing his parents' murder\nD. Bruce Wayne creating his first bat suit",
+    "Answer": "Young Bruce Wayne falling into a well"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), how does the film emphasize the importance of bats to Bruce Wayne's character development?",
+    "Options": "A. By showing Bruce watching a Zorro film with his parents before their murder\nB. By highlighting Bruce's fear of bats as a child\nC. By depicting Bruce's original idea to become a superhero based on his connection to bats\nD. By illustrating Bruce's training with a group of bats in the mountains",
+    "Answer": "By depicting Bruce's original idea to become a superhero based on his connection to bats"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' released in 2005, where did the filming begin, which was used to represent Bhutan?",
+    "Options": "A. Vatnajökull glacier\nB. Himalayas\nC. Amazon rainforest\nD. Rocky Mountains",
+    "Answer": "Vatnajökull glacier"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which city was used for shooting exteriors to represent Gotham City?",
+    "Options": "A. New York\nB. Los Angeles\nC. London\nD. Chicago",
+    "Answer": "London"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what significant set was constructed at Shepperton Studios?",
+    "Options": "A. The Batmobile garage\nB. The Batcave\nC. Gotham City Hall\nD. Wayne Manor",
+    "Answer": "The Batcave"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which location was rented by Warner Bros. for filming the slum-district of 'the Narrows'?",
+    "Options": "A. Gotham City\nB. Cardington\nC. Metropolis\nD. Wayne Manor",
+    "Answer": "Cardington"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which location was chosen to represent Wayne Manor due to its distinctive white floors that contributed to the theme of a memorial for Bruce Wayne's parents?",
+    "Options": "A. Wayne Manor\nB. Mentmore Towers\nC. Gotham City\nD. Arkham Asylum",
+    "Answer": "Mentmore Towers"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what feature of the manor does Crowley appreciate that gives the impression of it being a memorial to Wayne's parents?",
+    "Options": "A. Its large windows\nB. Its white floors\nC. Its gothic architecture\nD. Its hidden passages",
+    "Answer": "Its white floors"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', how is Wayne Manor described in relation to Wayne's parents?",
+    "Options": "A. As a haunted house\nB. As a memorial to Wayne's parents\nC. As a secret hideout\nD. As a luxury hotel",
+    "Answer": "As a memorial to Wayne's parents"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which building was chosen to represent Arkham Asylum?",
+    "Options": "A. A. National Institute for Medical Research building\nB. B. Gotham City Hall\nC. C. Wayne Manor\nD. D. Gotham Police Department",
+    "Answer": "A. National Institute for Medical Research building"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which locations were used to represent Arkham's interiors?",
+    "Options": "A. St Pancras railway station and Abbey Mills Pumping Stations\nB. Gotham City Hall and Wayne Manor\nC. The Narrows and Wayne Enterprises\nD. Arkham Asylum and Gotham Cathedral",
+    "Answer": "St Pancras railway station and Abbey Mills Pumping Stations"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which location was used to represent courtrooms?",
+    "Options": "A. The Senate House of University College London\nB. Wayne Manor\nC. Arkham Asylum\nD. Gotham City Hall",
+    "Answer": "The Senate House of University College London"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', which location in Chicago was featured during the Tumbler pursuit scenes?",
+    "Options": "A. Lower Wacker Drive\nB. Navy Pier\nC. Willis Tower\nD. Lincoln Park",
+    "Answer": "Lower Wacker Drive"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' released in 2005, how many models of the Tumbler were built to 1:12 scale during the production process?",
+    "Options": "A. Two models\nB. Four models\nC. Six models\nD. Eight models",
+    "Answer": "Six models"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what was the purpose of the steel 'test frame' in relation to the Tumbler?",
+    "Options": "A. To create a full-size replica of the Tumbler for filming\nB. To test the durability of the Tumbler's design\nC. To serve as a model for the Batmobile's final design\nD. To showcase the Tumbler's capabilities in a demonstration",
+    "Answer": "To create a full-size replica of the Tumbler for filming"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what speed did the steel 'test frame' have to withstand during testing?",
+    "Options": "A. Under 50 miles per hour\nB. Over 100 miles per hour\nC. Exactly 75 miles per hour\nD. Over 150 miles per hour",
+    "Answer": "Over 100 miles per hour"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', how long did the professional drivers practice driving the Tumblers before filming on the streets of Chicago?",
+    "Options": "A. Three months\nB. Six months\nC. One year\nD. Two months",
+    "Answer": "Six months"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what material was the Batsuit's basic design primarily based on?",
+    "Options": "A. Leather\nB. Neoprene undersuit\nC. Spandex\nD. Cotton",
+    "Answer": "Neoprene undersuit"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which actor's physical form was used as a basis for the design of the Batsuit?",
+    "Options": "A. Michael Keaton\nB. Val Kilmer\nC. Christian Bale\nD. Ben Affleck",
+    "Answer": "Christian Bale"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', how does the team address imperfections in their work with clay?",
+    "Options": "A. By using a full body cast\nB. By employing digital sculpting techniques\nC. By painting over the imperfections\nD. By starting from scratch",
+    "Answer": "By using a full body cast"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what material was used to smooth the surface of the full body cast?",
+    "Options": "A. Silicone\nB. Plastiline\nC. Latex\nD. Foam",
+    "Answer": "Plastiline"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what was the purpose of the team brewing different mixtures of foam?",
+    "Options": "A. To create a new type of armor for Batman\nB. To find a flexible, light, durable, and black mixture\nC. To develop a weapon against crime\nD. To enhance the Batmobile's performance",
+    "Answer": "To find a flexible, light, durable, and black mixture"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what was the consequence of making the foam black?",
+    "Options": "A. It increased the foam's durability.\nB. It made the foam more lightweight.\nC. It reduced the foam's durability.\nD. It changed the foam's texture.",
+    "Answer": "It reduced the foam's durability."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what was the purpose of designing the cowl to be 'thin enough'?",
+    "Options": "A. To enhance the visual appeal of the batsuit\nB. To allow motion while preventing wrinkling when Bruce Wayne turned his head\nC. To make it easier for Batman to hear\nD. To reduce the weight of the batsuit",
+    "Answer": "To allow motion while preventing wrinkling when Bruce Wayne turned his head"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what does the cowl symbolize as explained in the churchyard scene?",
+    "Options": "A. A tool for combat\nB. A disguise for a hero\nC. A representation of a man who has angst\nD. A symbol of wealth",
+    "Answer": "A representation of a man who has angst"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', which fighting method was used by the fight choreographers Justo Dieguez and Andy Norman to train the actors and stunt performers?",
+    "Options": "A. Krav Maga\nB. Brazilian Jiu-Jitsu\nC. Keysi Fighting Method\nD. Taekwondo",
+    "Answer": "Keysi Fighting Method"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' released in 2005, what approach did director Christopher Nolan prefer for action sequences?",
+    "Options": "A. A) Computer-generated imagery\nB. B) Traditional stuntwork\nC. C) Animation\nD. D) Stop-motion",
+    "Answer": "B) Traditional stuntwork"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), how does Batman's age and physical condition influence the modifications made to his methods in the sequel 'The Dark Knight Rises'?",
+    "Options": "A. Batman uses more advanced technology to compensate for his age.\nB. The methods were modified due to his declining physical abilities.\nC. Batman relies on younger sidekicks to carry out his plans.\nD. His age has no effect on his methods in the sequel.",
+    "Answer": "The methods were modified due to his declining physical abilities."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what is the basis of the self-defense system used by the characters?",
+    "Options": "A. Martial arts techniques\nB. Natural instincts\nC. Psychological warfare\nD. Advanced technology",
+    "Answer": "Natural instincts"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what type of images were used for several establishing shots?",
+    "Options": "A. A) Hand-drawn animations\nB. B) Practical effects\nC. C) CG composite images\nD. D) Stock footage",
+    "Answer": "C) CG composite images"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what was the primary reason for using digital bats instead of real bats during production?",
+    "Options": "A. Real bats were too expensive to use on set.\nB. The director preferred a more stylized approach.\nC. Directing large numbers of real bats on-set would be problematic.\nD. There were concerns about animal safety regulations.",
+    "Answer": "Directing large numbers of real bats on-set would be problematic."
+  },
+  {
+    "Question": "In the context of the movie 'Batman Begins', released in 2005, what was attributed as a reason for the slump in the film industry that year?",
+    "Options": "A. A lack of blockbuster films\nB. Industry experts' expectations\nC. Increased competition from television\nD. High production costs",
+    "Answer": "Industry experts' expectations"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what was used to represent the Narrows?",
+    "Options": "A. Scale models\nB. Digital effects\nC. Live-action sets\nD. Miniature puppets",
+    "Answer": "Scale models"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what type of imagery was used for establishing shots of Gotham's skyline?",
+    "Options": "A. Live-action footage\nB. CG composite images\nC. Animated sequences\nD. Documentary-style shots",
+    "Answer": "CG composite images"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what type of shots were used to establish exterior views of Wayne Tower?",
+    "Options": "A. A) Live-action footage\nB. B) CG composite images\nC. C) Stock footage\nD. D) Animation",
+    "Answer": "B) CG composite images"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what type of imagery was used for some of the exterior monorail shots?",
+    "Options": "A. Real-life footage\nB. CG composite images\nC. Animation\nD. Black and white photographs",
+    "Answer": "CG composite images"
+  },
+  {
+    "Question": "In the context of the movie 'Batman Begins' (2005), how has the rise of movies delivered directly via the internet affected theater attendance?",
+    "Options": "A. It has increased theater attendance significantly.\nB. It has created a demand for more theaters.\nC. It is leading to a decline in theater attendance.\nD. It has no impact on theater attendance.",
+    "Answer": "It is leading to a decline in theater attendance."
+  },
+  {
+    "Question": "In the context of the movie 'Batman Begins' released in 2005, which film was expected to be the top-grossing film of the summer due to being the final live action Star Wars film at the time?",
+    "Options": "A. Batman Begins\nB. Star Wars: Episode III – Revenge of the Sith\nC. The Dark Knight\nD. Spider-Man 2",
+    "Answer": "Star Wars: Episode III – Revenge of the Sith"
+  },
+  {
+    "Question": "In the context of the movie 'Batman Begins' released in 2005, what concern did industry experts have regarding its release?",
+    "Options": "A. They were worried about the film's length.\nB. They expressed concerns over a possible soft opening.\nC. They believed the marketing campaign was insufficient.\nD. They thought the casting choices were poor.",
+    "Answer": "They expressed concerns over a possible soft opening."
+  },
+  {
+    "Question": "In the context of the movie 'Batman Begins' released in 2005, how was Christian Bale's performance perceived regarding his star power at the time?",
+    "Options": "A. Bale was already a well-known star before the film.\nB. Bale's lack of star power at the time is seen as a possible detachment from audiences.\nC. Bale's performance was critically acclaimed despite his star status.\nD. Bale was cast due to his previous blockbuster successes.",
+    "Answer": "Bale's lack of star power at the time is seen as a possible detachment from audiences."
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what is noted as a possible detachment from audiences due to the absence of iconic villains?",
+    "Options": "A. The absence of Alfred and Lucius Fox\nB. The absence of iconic villains such as the Joker and Penguin\nC. The absence of Batman's origin story\nD. The absence of Gotham City",
+    "Answer": "The absence of iconic villains such as the Joker and Penguin"
+  },
+  {
+    "Question": "In the context of the movie 'Batman Begins' released in 2005, which previous film is credited with stalling the Batman franchise since 1997 due to being widely panned by critics?",
+    "Options": "A. Batman Forever\nB. Batman & Robin\nC. The Dark Knight\nD. Batman Begins",
+    "Answer": "Batman & Robin"
+  },
+  {
+    "Question": "In which city did Warner Bros. hold the world premiere for 'Batman Begins' in 2005?",
+    "Options": "A. New York, USA\nB. Tokyo, Japan\nC. Los Angeles, USA\nD. London, UK",
+    "Answer": "Tokyo, Japan"
+  },
+  {
+    "Question": "When was the DVD of 'Batman Begins' released?",
+    "Options": "A. October 18, 2005\nB. November 15, 2005\nC. September 30, 2005\nD. December 1, 2005",
+    "Answer": "October 18, 2005"
+  },
+  {
+    "Question": "In the context of the movie 'Batman Begins' (2005), which of the following statements best describes the relationship between being bewitched and popularity?",
+    "Options": "A. A. Being bewitched leads to a decrease in popularity.\nB. B. Bewitched was ranked on video rental charts, indicating its popularity.\nC. C. Popularity is unrelated to being bewitched.\nD. D. Bewitched is a term used only in horror films.",
+    "Answer": "B. Bewitched was ranked on video rental charts, indicating its popularity."
+  },
+  {
+    "Question": "What was the total worth of DVDs sold for 'Batman Begins' by August 2006?",
+    "Options": "A. $100 million\nB. $150 million\nC. $167 million\nD. $200 million",
+    "Answer": "$167 million"
+  },
+  {
+    "Question": "How much did 'Batman Begins' earn in its first five days of release in 2005?",
+    "Options": "A. $50 million\nB. $72.9 million\nC. $100 million\nD. $30 million",
+    "Answer": "$72.9 million"
+  },
+  {
+    "Question": "In its second weekend, how much did 'Batman Begins' gross in 2005?",
+    "Options": "A. $10 million\nB. $20 million\nC. $28 million\nD. $35 million",
+    "Answer": "$28 million"
+  },
+  {
+    "Question": "What was the gross revenue of 'Batman Begins' in North America, released in 2005?",
+    "Options": "A. $150 million\nB. $175 million\nC. $205 million\nD. $250 million",
+    "Answer": "$205 million"
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', what is noted about the romantic subplot between Christian Bale and Katie Holmes?",
+    "Options": "A. It was filled with dramatic tension similar to Peter Parker and Mary Jane.\nB. It had a spark refreshingly free of Peter Parker/Mary Jane-style whining.\nC. It was a central focus of the film's plot.\nD. It was overshadowed by the action sequences.",
+    "Answer": "It had a spark refreshingly free of Peter Parker/Mary Jane-style whining."
+  },
+  {
+    "Question": "In the 2005 movie 'Batman Begins', how did Kenneth Turan from the Los Angeles Times describe the casting of Katie Holmes and Liam Neeson?",
+    "Options": "A. They perfectly embodied their comic-book characters.\nB. They did not appear to fit their respective characters.\nC. Their performances were critically acclaimed.\nD. They brought a unique realism to the film.",
+    "Answer": "They did not appear to fit their respective characters."
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', how did Christian Bale's portrayal of Batman contribute to the audience's understanding of the character?",
+    "Options": "A. It showed Batman as a comedic character.\nB. It provided insight into Batman's motivations.\nC. It depicted Batman as a villain.\nD. It focused solely on Batman's gadgets.",
+    "Answer": "It provided insight into Batman's motivations."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' released in 2005, what is the relationship between the Batsuit and Batman?",
+    "Options": "A. The Batsuit is the iconic suit worn by Batman.\nB. Batman created the Batsuit for his enemies.\nC. The Batsuit is a weapon used by Batman.\nD. Batman wears the Batsuit only during the day.",
+    "Answer": "The Batsuit is the iconic suit worn by Batman."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what is the relationship between the Batcave and Batman?",
+    "Options": "A. The Batcave is a public location where Batman trains.\nB. The Batcave is a secret location belonging to Batman.\nC. Batman discovered the Batcave by accident.\nD. The Batcave is where Batman stores his vehicles.",
+    "Answer": "The Batcave is a secret location belonging to Batman."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what high-tech vehicle is used by Batman for transportation and combat purposes?",
+    "Options": "A. The Batmobile\nB. The Tumbler\nC. The Batwing\nD. The Batcycle",
+    "Answer": "The Tumbler"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what is the purpose of the Batsignal?",
+    "Options": "A. To communicate with the police\nB. To signal Batman's presence or request assistance\nC. To alert citizens of Gotham\nD. To indicate danger in the city",
+    "Answer": "To signal Batman's presence or request assistance"
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', what is the nature of the relationship between Rachel Dawes and Bruce Wayne?",
+    "Options": "A. They are childhood friends.\nB. They are romantic interests.\nC. They are siblings.\nD. They are business partners.",
+    "Answer": "They are romantic interests."
+  },
+  {
+    "Question": "In the 2005 film 'Batman Begins', how does Kyle Smith compare Serpico New York to Gotham City?",
+    "Options": "A. Both cities are portrayed as havens for superheroes.\nB. Both cities represent corrupt cities from different time periods.\nC. Serpico New York is depicted as a utopia compared to Gotham City.\nD. Gotham City is shown as a fictional version of Serpico New York.",
+    "Answer": "Both cities represent corrupt cities from different time periods."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' released in 2005, how does Stephanie Zacharek compare Christian Bale's portrayal of Batman?",
+    "Options": "A. She believes Bale's performance is superior to Keaton's.\nB. She finds Bale's portrayal similar to Keaton's.\nC. She states that Bale's Batman is less dark than Keaton's.\nD. She claims that Bale's performance lacks the charm of Keaton's.",
+    "Answer": "She finds Bale's portrayal similar to Keaton's."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which director does Tim Burton acknowledge for capturing the true spirit of superhero movies?",
+    "Options": "A. Zack Snyder\nB. Christopher Nolan\nC. Joel Schumacher\nD. David Fincher",
+    "Answer": "Christopher Nolan"
+  },
+  {
+    "Question": "In which year was 'Batman Begins', a film that influenced the superhero genre alongside 'The Dark Knight', released?",
+    "Options": "A. 2000\nB. 2005\nC. 2010\nD. 2015",
+    "Answer": "2005"
+  },
+  {
+    "Question": "In which 2005 film directed by Christopher Nolan is the dark side of comic book lore explored, influencing the acceptance of similar themes in superhero films?",
+    "Options": "A. Batman Begins\nB. The Dark Knight\nC. Spider-Man\nD. X-Men",
+    "Answer": "Batman Begins"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), how is fear personified in relation to the character Scarecrow?",
+    "Options": "A. Fear is a physical entity that battles Batman.\nB. Fear is represented through the Scarecrow, who uses it to affect others.\nC. Fear is absent in the movie.\nD. Fear is only experienced by Bruce Wayne.",
+    "Answer": "Fear is represented through the Scarecrow, who uses it to affect others."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), how does the theme of fear influence Bruce Wayne's transformation into Batman?",
+    "Options": "A. Bruce Wayne uses fear to intimidate his enemies.\nB. Fear motivates Bruce Wayne to abandon his mission.\nC. Bruce Wayne rises above fear to embrace his role as Batman.\nD. Fear causes Bruce Wayne to hide from society.",
+    "Answer": "Bruce Wayne rises above fear to embrace his role as Batman."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), how does the character Scarecrow relate to the theme of fear?",
+    "Options": "A. He uses his fear toxin to control the minds of others.\nB. He represents the idea that fear can be overcome with courage.\nC. He embodies the theme of fear, affecting all creatures regardless of their strength.\nD. He teaches Batman how to confront his own fears.",
+    "Answer": "He embodies the theme of fear, affecting all creatures regardless of their strength."
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), what psychological aspect of Bruce Wayne is explored in relation to his alter ego in the bat suit?",
+    "Options": "A. His childhood trauma\nB. His split personality\nC. His fear of bats\nD. His relationship with Alfred",
+    "Answer": "His split personality"
+  },
+  {
+    "Question": "In the movie 'Batman Begins' (2005), which character is portrayed as someone who constantly strives to do the right thing?",
+    "Options": "A. Alfred Pennyworth\nB. James Gordon\nC. Bruce Wayne\nD. Ra's al Ghul",
+    "Answer": "Bruce Wayne"
+  }
+]

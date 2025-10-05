@@ -1,0 +1,130 @@
+[
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did Draco Malfoy's wand maintain its allegiance to him throughout the film?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Harry Potter and the Deathly Hallows – Part 2' released in 2011, does wandmaker Ollivander sense that Draco's wand has changed its allegiance to Harry Potter?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did the characters manage to escape from Gringotts bank without encountering any security?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the plot of 'Harry Potter and the Deathly Hallows – Part 2' released in 2011, is there a scene where characters are trapped by security while trying to escape from Gringotts bank after breaking into Bellatrix Lestrange's vault?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did the characters manage to escape Gringotts bank without releasing the dragon guardian?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Harry Potter and the Deathly Hallows – Part 2', released in 2011, did the characters flee Gringotts bank on the back of the dragon guardian after breaking into Bellatrix Lestrange's vault?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', does Harry Potter have a vision of Lord Voldemort at a place other than Gringotts?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Harry Potter and the Deathly Hallows – Part 2', released in 2011, does the plot detail Harry Potter having a vision of Lord Voldemort at Gringotts?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the final Horcrux in the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2' a character other than Nagini?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', does Harry realize that Nagini is the final Horcrux?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', does Voldemort tell Snape that the Elder Wand cannot serve Voldemort until Snape lives?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Harry Potter and the Deathly Hallows – Part 2' released in 2011, does Voldemort inform Snape that the Elder Wand cannot serve him until Snape dies, leading to Nagini attacking Snape?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did Snape work against Albus Dumbledore after her death?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Harry Potter and the Deathly Hallows – Part 2', released in 2011, did Snape work with Albus Dumbledore as a double agent amongst the Death Eaters to protect Harry from Voldemort following her death?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did Snape despise Harry's mother Lily?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Harry Potter and the Deathly Hallows – Part 2', released in 2011, is it true that Snape despised Harry's late father James, who bullied him?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Snape conjure a dragon instead of a Patronus doe in the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', is there a causal relation between Snape and the conjuring of the Patronus doe?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did Harry intentionally become a Horcrux?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the film 'Harry Potter and the Deathly Hallows – Part 2' released in 2011, is there an accidental relation between Harry and a Horcrux?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Voldemort's curse successfully kill Harry in the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is there an informational relation in the movie 'Harry Potter and the Deathly Hallows – Part 2' released in 2011, stating that Voldemort's curse originally failed to kill Harry?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did Dumbledore's spirit fail to meet Harry?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Harry Potter and the Deathly Hallows – Part 2', released in 2011, does Dumbledore's spirit have an informational relation with Harry?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', does Bellatrix kill Molly?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Harry Potter and the Deathly Hallows – Part 2' released in 2011, does Molly have a destructive relation with Bellatrix that results in Molly killing Bellatrix?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the Sword of Gryffindor drawn by Hermione instead of Neville in the movie 'Harry Potter and the Deathly Hallows – Part 2' released in 2011?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', does Neville draw the Sword of Gryffindor from the Sorting Hat in defiance?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Harry fail to confront and kill Voldemort in the final scenes of 'Harry Potter and the Deathly Hallows – Part 2' released in 2011?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', did Harry finally kill Voldemort after his Expelliarmus charm during their final confrontation?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Voldemort successfully command the Elder Wand in the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is there an informational relation in the 2011 movie 'Harry Potter and the Deathly Hallows – Part 2', stating that Voldemort never commanded the Elder Wand?\"]",
+        "Answer": "yes"
+    }
+]

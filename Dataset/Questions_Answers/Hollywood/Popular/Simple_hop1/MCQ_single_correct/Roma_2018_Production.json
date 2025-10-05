@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "In the movie 'Roma' (2018), which city is depicted as being located within the country of Mexico?",
+    "Options": "A. Guadalajara\nB. Mexico City\nC. Cancún\nD. Tijuana",
+    "Answer": "Mexico City"
+  },
+  {
+    "Question": "In the 2018 film 'Roma', which neighborhood is depicted as being located within Mexico City?",
+    "Options": "A. Colonia Roma\nB. Polanco\nC. Coyoacán\nD. La Condesa",
+    "Answer": "Colonia Roma"
+  },
+  {
+    "Question": "In the movie 'Roma' (2018), which street is located within the Colonia Roma neighborhood of Mexico City?",
+    "Options": "A. Tepeji Street\nB. Calle de Durango\nC. Avenida Chapultepec\nD. Calle de Orizaba",
+    "Answer": "Tepeji Street"
+  },
+  {
+    "Question": "In the 2018 film 'Roma', which production company was founded by the director and writer Alfonso Cuarón?",
+    "Options": "A. DreamWorks Pictures\nB. Esperanto Filmoj\nC. Warner Bros.\nD. A24",
+    "Answer": "Esperanto Filmoj"
+  },
+  {
+    "Question": "In the movie 'Roma' (2018), which character is portrayed by Yalitza Aparicio, who had no prior acting experience before this film?",
+    "Options": "A. Cleo\nB. Sofia\nC. Antonio\nD. Fermín",
+    "Answer": "Cleo"
+  },
+  {
+    "Question": "In the movie 'Roma' (2018), which movie theatre serves as a recurring location throughout the film?",
+    "Options": "A. Teatro Metropólitan\nB. Cinepolis\nC. AMC Theatres\nD. Regal Cinemas",
+    "Answer": "Teatro Metropólitan"
+  },
+  {
+    "Question": "In the movie 'Roma' (2018), what challenge is mentioned regarding first-time actors when shooting on soundstages?",
+    "Options": "A. They find it easier to adapt to the artificial environment.\nB. They may struggle to perform due to the artificiality of the sets.\nC. They are more comfortable with soundstage filming than outdoor shooting.\nD. They receive special training for soundstage performances.",
+    "Answer": "They may struggle to perform due to the artificiality of the sets."
+  },
+  {
+    "Question": "In the movie 'Roma' (2018), which location is identified as a recurring location during the production?",
+    "Options": "A. Teatro Metropólitan\nB. Cinecittà Studios\nC. The Vatican\nD. Plaza de Cibeles",
+    "Answer": "Teatro Metropólitan"
+  },
+  {
+    "Question": "In the movie 'Roma' (2018), what incident involving the crew is mentioned in the context of production?",
+    "Options": "A. The crew won an award for best cinematography\nB. The crew was involved in a robbery\nC. The crew celebrated a successful premiere\nD. The crew faced a natural disaster during filming",
+    "Answer": "The crew was involved in a robbery"
+  },
+  {
+    "Question": "In the movie 'Roma' (2018), what incident highlights the conflict between the crew and city workers during filming?",
+    "Options": "A. A peaceful negotiation over filming permits\nB. A brawl resulting in injuries and theft\nC. A collaborative scene featuring both groups\nD. A celebration of local culture",
+    "Answer": "A brawl resulting in injuries and theft"
+  }
+]

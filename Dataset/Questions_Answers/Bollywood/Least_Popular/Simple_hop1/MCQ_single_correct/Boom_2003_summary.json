@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "In the context of the movie 'Boom' released in 2003, how is the relationship between movies and their summaries defined?",
+    "Options": "A. A movie's summary reveals its ending.\nB. A movie is a visual representation of a story, and its summary provides a brief overview of the plot.\nC. A movie's summary includes character names only.\nD. A movie is defined solely by its box office success.",
+    "Answer": "A movie is a visual representation of a story, and its summary provides a brief overview of the plot."
+  },
+  {
+    "Question": "In the movie 'Boom' released in 2003, what do the details of a movie typically refer to?",
+    "Options": "A. A. The movie's box office earnings\nB. B. Specific information about its content, such as cast, director, genre, and production company\nC. C. The film's soundtrack and music score\nD. D. The audience's reviews and ratings",
+    "Answer": "B. Specific information about its content, such as cast, director, genre, and production company"
+  },
+  {
+    "Question": "In the 2003 movie 'Boom', how is the term 'boom' uniquely identified within the context of its summary?",
+    "Options": "A. A term used to describe a significant event in the film\nB. A character's name in the movie\nC. A type of music featured in the film\nD. A location where the movie takes place",
+    "Answer": "A term used to describe a significant event in the film"
+  }
+]

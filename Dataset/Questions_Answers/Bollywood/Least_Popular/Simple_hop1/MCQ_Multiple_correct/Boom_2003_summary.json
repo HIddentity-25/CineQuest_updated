@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the movie 'Boom' released in 2003?",
+    "Options": "A. A movie summary gives a brief overview of the plot.\nB. The movie 'Boom' is a visual representation of a story.\nC. Summaries are not important for understanding movies.\nD. The plot of 'Boom' can be summarized in a few sentences.",
+    "Answer": "A movie summary gives a brief overview of the plot., The movie 'Boom' is a visual representation of a story., The plot of 'Boom' can be summarized in a few sentences."
+  },
+  {
+    "Question": "Which of the following details are typically associated with the movie 'Boom' released in 2003?",
+    "Options": "A. Cast information\nB. Director's name\nC. Genre classification\nD. Production company details",
+    "Answer": "Cast information, Director's name, Genre classification, Production company details"
+  },
+  {
+    "Question": "In the context of the movie 'Boom' (2003), which of the following statements about the term 'boom' are correct?",
+    "Options": "A. 'Boom' refers to a specific event depicted in the movie.\nB. 'Boom' is used to differentiate between various meanings in the film's summary.\nC. The movie 'Boom' is a romantic comedy.\nD. 'Boom' signifies a significant object within the movie's plot.",
+    "Answer": "A, B, D"
+  }
+]

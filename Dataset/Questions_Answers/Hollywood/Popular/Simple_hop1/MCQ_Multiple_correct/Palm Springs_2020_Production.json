@@ -1,0 +1,20 @@
+[
+  {
+    "Answer": "Error parsing answer"
+  },
+  {
+    "Question": "In the movie 'Palm Springs' (2020), which of the following statements about the filming locations are correct?",
+    "Options": "A. The Cabazon Dinosaurs were used as a filming location.\nB. The movie was primarily filmed in Palm Springs.\nC. Filming took place in the Los Angeles area due to tax credit limitations.\nD. The use of Cabazon Dinosaurs was a result of budget constraints.",
+    "Answer": "The Cabazon Dinosaurs were used as a filming location., Filming took place in the Los Angeles area due to tax credit limitations., The use of Cabazon Dinosaurs was a result of budget constraints."
+  },
+  {
+    "Question": "In the movie 'Palm Springs' (2020), which of the following statements are true regarding the filming locations?",
+    "Options": "A. The movie was primarily filmed in Palm Springs.\nB. Los Angeles served as the main filming location due to tax credit limitations.\nC. Palm Springs was used as an alternate filming location.\nD. The filmmakers had complete freedom to shoot in any location they desired.",
+    "Answer": "Los Angeles served as the main filming location due to tax credit limitations., Palm Springs was used as an alternate filming location."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the film 'Palm Springs' released in 2020?",
+    "Options": "A. Andy Samberg stars in the film.\nB. The film was released in 2019.\nC. Andy Samberg was announced as starring in the film.\nD. The film is a romantic comedy.",
+    "Answer": "Andy Samberg stars in the film., Andy Samberg was announced as starring in the film., The film is a romantic comedy."
+  }
+]

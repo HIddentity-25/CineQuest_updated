@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "In the movie 'Gravity' (2013), what happens between Stone and Kowalski during their attempt to grab onto the ISS?",
+    "Options": "A. Stone's leg gets entangled in parachute cords.\nB. Kowalski successfully pulls Stone to safety.\nC. Their tether snags on one of the station's solar panels.\nD. Stone grabs a strap on Kowalski's suit.",
+    "Answer": "Stone's leg gets entangled in parachute cords., Their tether snags on one of the station's solar panels., Stone grabs a strap on Kowalski's suit."
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), which of the following events occur involving the Shenzhou capsule and its entry into the atmosphere?",
+    "Options": "A. Stone enters the Shenzhou capsule.\nB. The capsule undocks from Tiangong.\nC. The Shenzhou capsule fails to re-enter the atmosphere.\nD. The capsule lands in a lake after descent.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), what actions does Dr. Ryan Stone take when trying to reach Tiangong after losing consciousness in the Soyuz?",
+    "Options": "A. She hallucinates Kowalski entering the capsule.\nB. She rigs the Soyuz's soft landing rockets.\nC. She successfully docks with Tiangong.\nD. She uses a fire extinguisher as a makeshift thruster.",
+    "Answer": "She hallucinates Kowalski entering the capsule.; She rigs the Soyuz's soft landing rockets.; She uses a fire extinguisher as a makeshift thruster."
+  },
+  {
+    "Question": "In the 2013 movie 'Gravity', what critical situation does Dr. Ryan Stone face while attempting to angle the Soyuz towards Tiangong?",
+    "Options": "A. The Soyuz's engine has no fuel\nB. Dr. Stone successfully communicates with an Inuit on Earth\nC. Dr. Stone decides to shut off the cabin's oxygen supply\nD. Dr. Stone receives help from the Tiangong station",
+    "Answer": "The Soyuz's engine has no fuel, Dr. Stone decides to shut off the cabin's oxygen supply"
+  },
+  {
+    "Question": "In the movie 'Gravity' (2013), what actions are depicted as crucial for survival in space?",
+    "Options": "A. To swim through the hatch\nB. To communicate with mission control\nC. To repair the space station\nD. To navigate through debris",
+    "Answer": "To swim through the hatch, To communicate with mission control"
+  }
+]

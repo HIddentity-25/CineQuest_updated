@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "Does the movie \"Sidhharth\" released in 2014 not have a summary that provides details about its plot and storyline?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Does the movie \"Sidhharth\" released in 2014 have a summary that provides details about its plot and storyline?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Is there a scene in the movie \"Sidhharth\" (2014) where the message is not displayed to the user?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Does the movie \"Sidhharth\" (2014) include a moment where a message is displayed to indicate that some action or information has been communicated?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Are there other reasons why the specific message might be shown to the user in the movie \"Sidhharth\" released in 2014?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Could the potential issues or errors with the system or application being used in the movie \"Sidhharth\" released in 2014 be linked to the reasons mentioned?",
+        "Answer": "YES"
+    }
+]

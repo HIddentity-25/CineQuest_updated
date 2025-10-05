@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "In the 2007 movie 'Zodiac', which of the following elements are connected to the character Zodiac based on the plot?",
+    "Options": "A. Encrypted letters\nB. Police investigation\nC. San Francisco Chronicle\nD. A secret society",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the 2007 movie 'Zodiac', which events are depicted regarding the Zodiac killer's interaction with Bryan Hartnell and Cecelia Shepard?",
+    "Options": "A. The Zodiac killer stabbed Bryan Hartnell and Cecelia Shepard at Lake Berryessa.\nB. Bryan Hartnell and Cecelia Shepard were witnesses to the Zodiac killer's first murder.\nC. The Zodiac killer sent a letter to Bryan Hartnell and Cecelia Shepard.\nD. Bryan Hartnell and Cecelia Shepard survived the attack by the Zodiac killer.",
+    "Answer": "The Zodiac killer stabbed Bryan Hartnell and Cecelia Shepard at Lake Berryessa."
+  },
+  {
+    "Question": "In the 2007 movie 'Zodiac', which of the following statements are true regarding the relationship between the Zodiac killer and Cecelia Shepard?",
+    "Options": "A. Cecelia Shepard was a victim of the Zodiac killer.\nB. Cecelia Shepard survived the attack by the Zodiac killer.\nC. The Zodiac killer stabbed Cecelia Shepard.\nD. Cecelia Shepard died two days after the attack.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Zodiac' (2007), which of the following references are made regarding the concept of man being the most dangerous animal, as inspired by the 1932 film 'The Most Dangerous Game'?",
+    "Options": "A. The Zodiac killer's quote about man being the most dangerous animal\nB. The character Count Zaroff's hunting philosophy\nC. The Zodiac killer's methods of operation\nD. The portrayal of the police investigation in Zodiac",
+    "Answer": "The Zodiac killer's quote about man being the most dangerous animal, The character Count Zaroff's hunting philosophy"
+  },
+  {
+    "Question": "In the movie 'Zodiac' (2007), which of the following statements accurately describe the relationship between Graysmith and Toschi?",
+    "Options": "A. Graysmith frequently reaches out to Toschi regarding the Zodiac murders.\nB. Toschi provides Graysmith with direct access to evidence from the Zodiac case.\nC. Graysmith impresses Toschi with his extensive knowledge of the Zodiac case.\nD. Toschi suggests other police departments where Zodiac murders took place.",
+    "Answer": "Graysmith frequently reaches out to Toschi regarding the Zodiac murders., Graysmith impresses Toschi with his extensive knowledge of the Zodiac case., Toschi suggests other police departments where Zodiac murders took place."
+  },
+  {
+    "Question": "In the movie 'Zodiac' (2007), which of the following statements are true regarding the relationship between Graysmith and Allen?",
+    "Options": "A. Graysmith believes Allen lived near Ferrin.\nB. Graysmith discovers that Allen's birthday matches a date mentioned by the Zodiac.\nC. Graysmith and Allen are close friends.\nD. Graysmith learns Allen may have known Ferrin.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Zodiac' (2007), which of the following statements are true regarding the relationship between Allen and Graysmith?",
+    "Options": "A. Mike Mageau identified Allen from a police mugshot eight years after Graysmith's book was published.\nB. Graysmith's book 'Zodiac' was a bestseller before Mike Mageau identified Allen.\nC. Allen was a suspect in the Zodiac killings.\nD. Graysmith was a police officer investigating the Zodiac case.",
+    "Answer": "Mike Mageau identified Allen from a police mugshot eight years after Graysmith's book was published., Allen was a suspect in the Zodiac killings."
+  },
+  {
+    "Question": "In the movie 'Zodiac' (2007), which of the following statements are true regarding the relationship between Graysmith and Melanie?",
+    "Options": "A. Melanie is Graysmith's wife.\nB. Graysmith's wife, Melanie, supports his investigation into the Zodiac killer.\nC. Melanie leaves Graysmith, taking their children.\nD. Graysmith and Melanie have a happy marriage throughout the film.",
+    "Answer": "A, C"
+  }
+]

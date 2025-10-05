@@ -1,0 +1,57 @@
+[
+  {
+    "Question": "In the movie 'The Martian' (2015), how long is it estimated until the next Mars mission, Ares IV, will land at the Schiaparelli crater?",
+    "Options": "A. 2 years\nB. 3 years\nC. 4 years\nD. 5 years",
+    "Answer": "4 years"
+  },
+  {
+    "Question": "In the movie 'The Martian' (2015), what crucial discovery does Mark Watney make that helps him communicate with NASA?",
+    "Options": "A. He finds a working satellite.\nB. He retrieves the Pathfinder probe.\nC. He discovers a hidden base.\nD. He activates an old rover.",
+    "Answer": "He retrieves the Pathfinder probe."
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', what leads NASA satellite planner Mindy Park to suspect that astronaut Mark Watney might still be alive on Mars?",
+    "Options": "A. A new communication device found on Mars\nB. Satellite images showing moved equipment\nC. Reports from other astronauts\nD. A distress signal received from Mars",
+    "Answer": "Satellite images showing moved equipment"
+  },
+  {
+    "Question": "In the movie 'The Martian' (2015), what decision does NASA director Teddy Sanders make regarding the news of Mark Watney's survival?",
+    "Options": "A. He announces it to the Ares III crew immediately.\nB. He decides to keep it a secret from everyone.\nC. He releases the news to the public while withholding it from the Ares III crew.\nD. He informs only the Ares III crew about Watney's survival.",
+    "Answer": "He releases the news to the public while withholding it from the Ares III crew."
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', what is the main conflict between Flight Director Mitch Henderson and NASA Director Teddy Sanders regarding the Ares III crew?",
+    "Options": "A. Henderson wants to inform the crew about Watney's survival, while Sanders believes it should be kept secret.\nB. Henderson supports Sanders' decision to inform the crew immediately.\nC. Henderson wants to abandon the mission, while Sanders insists on continuing.\nD. Henderson and Sanders agree on all decisions regarding the mission.",
+    "Answer": "Henderson wants to inform the crew about Watney's survival, while Sanders believes it should be kept secret."
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', what is the role of Vincent Kapoor in relation to Mark Watney's survival on Mars?",
+    "Options": "A. He is the astronaut who gets stranded on Mars.\nB. He is the director of the Mars missions preparing a resupply mission.\nC. He is the head of NASA overseeing the entire operation.\nD. He is a scientist conducting experiments on Mars.",
+    "Answer": "He is the director of the Mars missions preparing a resupply mission."
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', what does the China National Space Administration provide to help resupply Watney after a catastrophic event during NASA's safety inspections?",
+    "Options": "A. A new spaceship\nB. A launch vehicle originally intended for the Taiyang Shen space probe\nC. A team of astronauts\nD. Advanced technology for communication",
+    "Answer": "A launch vehicle originally intended for the Taiyang Shen space probe"
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', what alternative plan does astrophysicist Rich Purnell devise for the Taiyang Shen launcher?",
+    "Options": "A. To abandon Mark Watney on Mars\nB. To send a message back to Earth\nC. To rendezvous with and resupply the Hermes\nD. To create a new habitat on Mars",
+    "Answer": "To rendezvous with and resupply the Hermes"
+  },
+  {
+    "Question": "In the movie 'The Martian' (2015), which location does Mark Watney travel to in order to access the MAV for Ares IV?",
+    "Options": "A. Ares III landing site\nB. Schiaparelli\nC. Acidalia Planitia\nD. Valles Marineris",
+    "Answer": "Schiaparelli"
+  },
+  {
+    "Question": "In the movie 'The Martian' (2015), what does Commander Lewis use to breach a forward airlock on the Hermes?",
+    "Options": "A. A laser cutter\nB. An explosive\nC. A wrench\nD. A fire extinguisher",
+    "Answer": "An explosive"
+  },
+  {
+    "Question": "In the 2015 movie 'The Martian', what role does Watney take on after returning to Earth?",
+    "Options": "A. He becomes a famous author.\nB. He becomes a survival instructor for astronaut candidates.\nC. He starts a space travel company.\nD. He works as a researcher in a laboratory.",
+    "Answer": "He becomes a survival instructor for astronaut candidates."
+  }
+]

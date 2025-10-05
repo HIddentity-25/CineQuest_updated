@@ -1,0 +1,402 @@
+[
+  {
+    "Question": "Who was awarded the Best Director Oscar for the movie?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Director Oscar\nD. Best Actor in a Leading Role",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Outstanding Director award from the Director's Guild of Great Britain?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Outstanding Director\nD. Director's Guild of America",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which individual is associated with the award for Best Foreign Film in the movie?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Best Original Score award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who won the Black Reel Award for Best Film for the movie directed by Clint Eastwood and produced by Albert S. Ruddy and Tom Rosenberg?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Albert S. Ruddy"
+  },
+  {
+    "Question": "Who was nominated for the Best Director award from several organizations for the movie?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who is the writer of the movie and who directed it?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Paul Haggis"
+  },
+  {
+    "Question": "Which individual won the Billie Holiday Spirit Award from the National Board of Review for the movie?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Billie Holiday Spirit Award\nD. National Board of Review",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was the writer of the movie where Clint Eastwood and Albert S. Ruddy were both producers?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Morgan Freeman",
+    "Answer": "Paul Haggis"
+  },
+  {
+    "Question": "Who was nominated for an award under Clint Eastwood's direction?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Paul Haggis"
+  },
+  {
+    "Question": "Who was involved as a producer in the movie written by Paul Haggis and directed by Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Producer\nD. Albert S. Ruddy",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was awarded the National Board of Review Award for the movie where Paul Haggis was the writer and Clint Eastwood was the director?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who is associated with the nomination for an award in the movie?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was a producer for the movie written by Paul Haggis and directed by Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was awarded the Best Director Oscar for the film?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Outstanding Director award from the Director's Guild of America?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which individual was involved in a movie that won the David di Donatello Awards for Best Foreign Film?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Best Original Score award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was involved in the movie that won the Black Reel Award for Best Film?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Best Director award from several organizations?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who directed the movie that was nominated for the Chicago Film Critics Circle Award for Best Film?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who won the Billie Holiday Spirit Award from the National Board of Review?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who were both producers of the movie nominated for the Best Film award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Best Film award for the movie *Million Dollar Baby*?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Best Film award along with Paul Haggis and Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was awarded as the Best Director by the National Board of Review for the movie?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Best Film award for the movie *Million Dollar Baby*?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was a producer for the movie involving Paul Haggis and Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was awarded the Best Director Oscar for the movie 'Million Dollar Baby'?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Outstanding Director award from the Director's Guild of Great Britain and won the Directors Guild of America Award for Outstanding Directing?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Outstanding Director\nD. Art Directors Guild",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which award did the movie directed by Paul Haggis and written by Clint Eastwood win?",
+    "Options": "A. Art Directors Guild Award for Best Contemporary Feature Film\nB. César Awards for Best Foreign Film\nC. Directors Guild of America Award for Outstanding Directing\nD. David di Donatello Awards for Best Foreign Film",
+    "Answer": "César Awards for Best Foreign Film"
+  },
+  {
+    "Question": "Who was nominated for the Best Original Score award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Original Score\nD. Art Directors Guild Award",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which movie won the Black Reel Award for Best Film, directed by Clint Eastwood and produced by Albert S. Ruddy?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Albert S. Ruddy"
+  },
+  {
+    "Question": "Who was nominated for the Best Director award from several organizations for the movie?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Director\nD. Art Directors Guild",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which individual was involved in the production of the movie that won the Art Directors Guild Award for Best Contemporary Feature Film, César Awards for Best Foreign Film, and Directors Guild of America Award for Outstanding Directing?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which individual won the Billie Holiday Spirit Award from the National Board of Review?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Billie Holiday Spirit Award\nD. César Awards",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who directed the movie that won several awards, including the Art Directors Guild Award for Best Contemporary Feature Film and the Directors Guild of America Award for Outstanding Directing?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who directed the movie that was nominated for an award under their direction?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Nominated\nD. Art Directors Guild Award",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was involved as a producer in the movie that won several awards, including the Art Directors Guild Award for Best Contemporary Feature Film and the Directors Guild of America Award for Outstanding Directing?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Producer\nD. Albert S. Ruddy",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who won the National Board of Review award for Best Director for the movie directed by Paul Haggis and Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who directed the movie that won several awards, including the Art Directors Guild Award for Best Contemporary Feature Film, the César Awards for Best Foreign Film, and the Directors Guild of America Award for Outstanding Directing?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Nominated\nD. Art Directors Guild Award",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was a producer for the movie directed by Paul Haggis and written by Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Producer\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was awarded his second Best Director Oscar for the film?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Director Oscar\nD. Best Actor in a Leading Role",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Outstanding Director award from the Director's Guild of America?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Outstanding Director\nD. Million Dollar Baby",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which accolade was won by the movie directed by Paul Haggis and written by Clint Eastwood?",
+    "Options": "A. Best Director\nB. Best Actor\nC. Best Foreign Film\nD. Best Original Screenplay",
+    "Answer": "Best Foreign Film"
+  },
+  {
+    "Question": "Who was nominated for the Best Original Score award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Original Score\nD. Million Dollar Baby",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which movie won the Black Reel Award for Best Film, directed by Clint Eastwood and produced by Albert S. Ruddy and Tom Rosenberg?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Albert S. Ruddy"
+  },
+  {
+    "Question": "Who was nominated for the Best Director award from several organizations?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Director\nD. Million Dollar Baby",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which individual was involved in the production of the movie that was nominated for the Chicago Film Critics Circle Award for Best Film?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Albert S. Ruddy"
+  },
+  {
+    "Question": "Which award did the movie directed by Paul Haggis and written by Clint Eastwood win?",
+    "Options": "A. Best Motion Picture—Drama award\nB. Billie Holiday Spirit Award\nC. Best Director award\nD. Best Original Screenplay award",
+    "Answer": "Billie Holiday Spirit Award"
+  },
+  {
+    "Question": "Who directed the movie that was nominated for the Best Motion Picture—Drama award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was involved in the direction and writing of the movie that was nominated for the Best Motion Picture—Drama award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Paul Haggis"
+  },
+  {
+    "Question": "Who was a producer for the movie directed by Paul Haggis and written by Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Producer\nD. Albert S. Ruddy",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was awarded as the Best Director by the National Board of Review for the movie directed by Paul Haggis and Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. National Board of Review Award\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which individual was involved in a movie that was nominated for the Best Motion Picture—Drama award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Nominated\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was a producer for the movie directed by Paul Haggis and written by Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Producer\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who received the Best Actor in a Supporting Role Oscars?",
+    "Options": "A. Paul Haggis\nB. Morgan Freeman\nC. Clint Eastwood\nD. Tom Hanks",
+    "Answer": "Morgan Freeman"
+  },
+  {
+    "Question": "Who was nominated for the Best Supporting Actor award in the movie directed by Clint Eastwood and written by Paul Haggis?",
+    "Options": "A. Paul Haggis\nB. Morgan Freeman\nC. Clint Eastwood\nD. Best Supporting Actor",
+    "Answer": "Morgan Freeman"
+  },
+  {
+    "Question": "Who won the Best Supporting Actor award from the Broadcast Film Critics Association?",
+    "Options": "A. Paul Haggis\nB. Morgan Freeman\nC. Clint Eastwood\nD. Hilary Swank",
+    "Answer": "Morgan Freeman"
+  },
+  {
+    "Question": "Who was nominated for an award for his performance in the movie directed by Clint Eastwood and written by Paul Haggis?",
+    "Options": "A. Paul Haggis\nB. Morgan Freeman\nC. Clint Eastwood\nD. Nominated",
+    "Answer": "Morgan Freeman"
+  },
+  {
+    "Question": "Who was awarded the Screen Actors Guild award for their performance in the movie directed by Clint Eastwood and written by Paul Haggis?",
+    "Options": "A. Paul Haggis\nB. Morgan Freeman\nC. Clint Eastwood\nD. Screen Actors Guild",
+    "Answer": "Morgan Freeman"
+  },
+  {
+    "Question": "Who directed the movie that won the Black Reel Award for Best Film?",
+    "Options": "A. Clint Eastwood\nB. Albert S. Ruddy\nC. Tom Rosenberg\nD. Paul Haggis",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which individual was involved in the production of the movie nominated for the Chicago Film Critics Circle Award for Best Film?",
+    "Options": "A. Clint Eastwood\nB. Albert S. Ruddy\nC. Tom Rosenberg\nD. Paul Haggis",
+    "Answer": "Albert S. Ruddy"
+  },
+  {
+    "Question": "Who was awarded the Best Director Oscar for the film?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Director Oscar\nD. Billie Award",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was nominated for the Outstanding Director award from the Director's Guild of America and won the Directors Guild of America Award for Outstanding Directing?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Outstanding Director\nD. Billie Holiday",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which award did the movie directed by Paul Haggis and written by Clint Eastwood win?",
+    "Options": "A. Billie Award\nB. Academy Award for Best Director\nC. Golden Globe for Best Screenplay\nD. David di Donatello Awards for Best Foreign Film",
+    "Answer": "David di Donatello Awards for Best Foreign Film"
+  },
+  {
+    "Question": "Who was nominated for the Best Original Score award?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Morgan Freeman\nD. Hilary Swank",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which movie won the Black Reel Award for Best Film?",
+    "Options": "A. Clint Eastwood\nB. Paul Haggis\nC. Albert S. Ruddy\nD. Tom Rosenberg",
+    "Answer": "Albert S. Ruddy"
+  },
+  {
+    "Question": "Who was nominated for the Best Director award from several organizations?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Best Director\nD. Billie Holiday",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Which movie was nominated for the Billie Award from the National Board of Review and was directed by Clint Eastwood and written by Paul Haggis?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Million Dollar Baby",
+    "Answer": "Million Dollar Baby"
+  },
+  {
+    "Question": "Which individual was involved in a movie that won the Billie Holiday Spirit Award from the National Board of Review?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Billie Holiday Spirit Award\nD. National Board of Review",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who were the producers of the movie that was nominated for the Billie Award from the National Board of Review?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Albert S. Ruddy\nD. Billie Holiday",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was involved in the direction and writing of the movie that was nominated for the Billie Award (Billie Holiday Spirit Award) from the National Board of Review?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Nominated\nD. Billie Award",
+    "Answer": "Paul Haggis"
+  },
+  {
+    "Question": "Who was a producer along with Albert S. Ruddy for the movie directed by Clint Eastwood and written by Paul Haggis?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Producer\nD. Albert S. Ruddy",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was awarded as the Best Director by the National Board of Review for the movie directed by Clint Eastwood and written by Paul Haggis?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Billie Holiday\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who was involved in the movie that was nominated for the Billie Award (Billie Holiday Spirit Award) from the National Board of Review?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Nominated\nD. Billie Award",
+    "Answer": "Paul Haggis"
+  },
+  {
+    "Question": "Who was a producer for the movie directed by Paul Haggis and written by Clint Eastwood?",
+    "Options": "A. Paul Haggis\nB. Clint Eastwood\nC. Producer\nD. Morgan Freeman",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who were producers of the movie 'Million Dollar Baby'?",
+    "Options": "A. Clint Eastwood\nB. Albert S. Ruddy\nC. Tom Rosenberg\nD. Paul Haggis",
+    "Answer": "Clint Eastwood"
+  },
+  {
+    "Question": "Who were producers of the movie together?",
+    "Options": "A. Tom Rosenberg\nB. Albert S. Ruddy\nC. Paul Haggis\nD. Tom Rosenberg",
+    "Answer": "Tom Rosenberg"
+  },
+  {
+    "Question": "Who worked on the movie 'Million Dollar Baby' as producers?",
+    "Options": "A. Albert S. Ruddy\nB. Tom Rosenberg\nC. Paul Haggis\nD. Clint Eastwood",
+    "Answer": "Albert S. Ruddy"
+  }
+]

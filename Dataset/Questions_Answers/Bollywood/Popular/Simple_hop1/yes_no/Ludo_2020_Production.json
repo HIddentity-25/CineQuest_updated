@@ -1,0 +1,42 @@
+[
+    {
+        "Question": "Is the movie production of \"Ludo\" from the year 2020 unrelated to the film itself?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Does the movie \"Ludo\" released in 2020 have a connection between the film and its production?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Is Anurag Basu not involved in the production of the movie Ludo released in 2020?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is Anurag Basu the producer of the movie Ludo released in 2020?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Is Taani Basu the sole producer of the movie \"Ludo\" released in 2020?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is Anurag Basu one of the producers of the movie \"Ludo\" released in 2020?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Is Bhushan Kumar the sole producer of the movie Ludo released in 2020?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Did Bhushan Kumar contribute to the production of the movie Ludo released in 2020?",
+        "Answer": "YES"
+    },
+    {
+        "Question": "Does the movie \"Ludo\" released in 2020 have music composed by anyone other than Pritam?",
+        "Answer": "NO"
+    },
+    {
+        "Question": "Is Pritam the composer of the music for the movie \"Ludo\" released in 2020?",
+        "Answer": "YES"
+    }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Who is the composer that contributed to the soundtrack of the movie PK?",
+    "Options": "A. A. A.R. Rahman\nB. B. Shantanu Moitra\nC. C. Vishal-Shekhar\nD. D. Pritam",
+    "Answer": "B. Shantanu Moitra"
+  },
+  {
+    "Question": "Who are the composers that contributed to the soundtrack of the movie PK?",
+    "Options": "A. Pritam\nB. Ajay–Atul\nC. A.R. Rahman\nD. Vishal-Shekhar",
+    "Answer": "Ajay–Atul"
+  },
+  {
+    "Question": "Who is the composer that contributed to the soundtrack of the movie PK?",
+    "Options": "A. Ankit Tiwari\nB. A.R. Rahman\nC. Pritam\nD. Shreya Ghoshal",
+    "Answer": "Ankit Tiwari"
+  },
+  {
+    "Question": "Which song is included in the soundtrack of the movie PK?",
+    "Options": "A. Chaar Kadam\nB. Tum Hi Ho\nC. Pehla Nasha\nD. Kabira",
+    "Answer": "Chaar Kadam"
+  },
+  {
+    "Question": "Which artist performed the song included in the PK (soundtrack)?",
+    "Options": "A. Sonu Nigam\nB. Shaan\nC. Arijit Singh\nD. Asha Bhosle",
+    "Answer": "Shaan"
+  },
+  {
+    "Question": "Who is the singer that performed the song included in the PK (soundtrack)?",
+    "Options": "A. Shreya Ghoshal\nB. Arijit Singh\nC. Sunidhi Chauhan\nD. Neha Kakkar",
+    "Answer": "Shreya Ghoshal"
+  }
+]

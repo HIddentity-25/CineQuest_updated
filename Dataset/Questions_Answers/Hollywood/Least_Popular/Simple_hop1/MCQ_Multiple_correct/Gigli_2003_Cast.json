@@ -1,0 +1,47 @@
+[
+  {
+    "Question": "In the movie 'Gigli' (2003), which of the following statements are true regarding the character portrayed by Ben Affleck?",
+    "Options": "A. Ben Affleck plays the character Larry Gigli.\nB. Larry Gigli is a supporting character in the film.\nC. Ben Affleck is known for his role as Larry Gigli.\nD. Larry Gigli is the main character in 'Gigli'.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Gigli' released in 2003, which of the following statements about Jennifer Lopez's character are true?",
+    "Options": "A. Jennifer Lopez plays the role of Ricki/Rochelle\nB. Ricki/Rochelle is a supporting character\nC. Jennifer Lopez is the lead actress\nD. Ricki/Rochelle is a romantic interest",
+    "Answer": "Jennifer Lopez plays the role of Ricki/Rochelle; Jennifer Lopez is the lead actress; Ricki/Rochelle is a romantic interest"
+  },
+  {
+    "Question": "In the movie 'Gigli' (2003), which of the following characters are portrayed by Justin Bartha?",
+    "Options": "A. Brian\nB. Larry\nC. Ricky\nD. Sam",
+    "Answer": "Brian"
+  },
+  {
+    "Question": "In the 2003 movie 'Gigli', which of the following statements about Lainie Kazan's character are true?",
+    "Options": "A. Lainie Kazan plays the character Mrs. Gigli.\nB. Mrs. Gigli is a central character in the movie.\nC. Lainie Kazan is known for her role in a romantic comedy.\nD. Mrs. Gigli is portrayed as the mother of the main character.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the 2003 movie 'Gigli', which of the following statements about Al Pacino's character are true?",
+    "Options": "A. Al Pacino plays the character Starkman.\nB. Starkman is a heroic figure in the film.\nC. Al Pacino's character is involved in a romantic subplot.\nD. Starkman is a criminal in the movie.",
+    "Answer": "A, D"
+  },
+  {
+    "Question": "In the 2003 movie 'Gigli', which characters are portrayed by Lenny Venito and who does he personify?",
+    "Options": "A. Lenny Venito plays Louis\nB. Lenny Venito plays Lenny\nC. Louis is a character in 'Gigli'\nD. Lenny Venito is not in 'Gigli'",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Gigli' released in 2003, which of the following statements about the cast are true?",
+    "Options": "A. Missy Crider plays the role of Robin.\nB. Robin is a character portrayed by Jennifer Lopez.\nC. Missy Crider is not part of the cast.\nD. The character Robin is involved in a romantic subplot.",
+    "Answer": "A) Missy Crider plays the role of Robin., B) Robin is a character portrayed by Jennifer Lopez., D) The character Robin is involved in a romantic subplot."
+  },
+  {
+    "Question": "In the movie 'Gigli' (2003), which of the following statements about the characters played by Christopher Walken is true?",
+    "Options": "A. Christopher Walken plays the character Stanley Jacobellis.\nB. Stanley Jacobellis is a central character in the plot.\nC. Christopher Walken's character is involved in a romantic subplot.\nD. Stanley Jacobellis is portrayed as a comedic character.",
+    "Answer": "Christopher Walken plays the character Stanley Jacobellis., Stanley Jacobellis is a central character in the plot."
+  },
+  {
+    "Question": "In the movie 'Gigli' (2003), which of the following statements about the character portrayed by Terrence Camilleri are true?",
+    "Options": "A. Terrence Camilleri plays the role of a man in a dryer.\nB. Terrence Camilleri is the main character in the film.\nC. The character played by Terrence Camilleri is involved in a comedic situation.\nD. Terrence Camilleri appears in a dramatic scene.",
+    "Answer": "Terrence Camilleri plays the role of a man in a dryer., The character played by Terrence Camilleri is involved in a comedic situation."
+  }
+]

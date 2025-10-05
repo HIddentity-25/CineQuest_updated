@@ -1,0 +1,18 @@
+[
+    {
+        "Question": "[\"Was the theme song for the movie 'Fifty Shades Darker' released in 2015 by artists Zayn and Taylor Swift?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Zayn and Taylor Swift release the theme song 'I Don't Wanna Live Forever' for the 2016 movie 'Fifty Shades Darker'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Halsey release the single 'Not Afraid Anymore' for the movie 'Fifty Shades Darker' in 2015?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was 'Not Afraid Anymore' by Halsey released as part of the 'Fifty Shades Darker' soundtrack in January 2017?\"",
+        "Answer": "yes"
+    }
+]

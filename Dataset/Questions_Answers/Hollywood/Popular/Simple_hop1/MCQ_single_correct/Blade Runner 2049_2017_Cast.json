@@ -1,0 +1,72 @@
+[
+  {
+    "Question": "In the movie 'Blade Runner 2049', released in 2017, which characters are connected in the story?",
+    "Options": "A. K and Rick Deckard\nB. K and Joi\nC. Rick Deckard and Niander Wallace\nD. K and Luv",
+    "Answer": "K and Rick Deckard"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what is the nature of the relationship between K and Joi?",
+    "Options": "A. K is Joi's creator.\nB. K is a rival of Joi.\nC. K has a romantic relationship with Joi as she is his virtual companion.\nD. K and Joi are siblings.",
+    "Answer": "K has a romantic relationship with Joi as she is his virtual companion."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what is Luv's role in relation to Rick Deckard?",
+    "Options": "A. Luv is a friend of Rick Deckard.\nB. Luv is an enforcer who works for Niander Wallace and is sent to capture Rick Deckard.\nC. Luv is a replicant created by Rick Deckard.\nD. Luv is a detective investigating Rick Deckard.",
+    "Answer": "Luv is an enforcer who works for Niander Wallace and is sent to capture Rick Deckard."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what is the relationship between Lt. Joshi and K?",
+    "Options": "A. K is Lt. Joshi's partner in the police force.\nB. Lt. Joshi is K's superior in the police force.\nC. K is a rival of Lt. Joshi.\nD. Lt. Joshi and K have no relationship.",
+    "Answer": "Lt. Joshi is K's superior in the police force."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049', released in 2017, which characters work together at a Wallace Corporation facility?",
+    "Options": "A. Mariette and K\nB. Mariette and Sapper Morton\nC. K and Sapper Morton\nD. Mariette and Joi",
+    "Answer": "Mariette and Sapper Morton"
+  },
+  {
+    "Question": "In the 2017 movie 'Blade Runner 2049', what is the relationship between Dr. Ana Stelline and Niander Wallace?",
+    "Options": "A. Dr. Ana Stelline is a replicant created by Niander Wallace.\nB. Dr. Ana Stelline is a memory designer working for Niander Wallace.\nC. Dr. Ana Stelline is a detective investigating Niander Wallace.\nD. Dr. Ana Stelline is a rival corporation owner to Niander Wallace.",
+    "Answer": "Dr. Ana Stelline is a memory designer working for Niander Wallace."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which characters work together at a Wallace Corporation facility?",
+    "Options": "A. Mister Cotton and Sapper Morton\nB. K and Joi\nC. Deckard and Luv\nD. Officer Joshi and Neander Wallace",
+    "Answer": "Mister Cotton and Sapper Morton"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what is the relationship between Niander Wallace and Dr. Ana Stelline?",
+    "Options": "A. Niander Wallace is a rival of Dr. Ana Stelline.\nB. Dr. Ana Stelline is a scientist working for Niander Wallace.\nC. Niander Wallace is Dr. Ana Stelline's father.\nD. Dr. Ana Stelline is the creator of Niander Wallace.",
+    "Answer": "Dr. Ana Stelline is a scientist working for Niander Wallace."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what is the relationship between Gaff and K?",
+    "Options": "A. Gaff is K's mentor.\nB. Gaff is a retired Blade Runner who has previously encountered K.\nC. Gaff is K's enemy.\nD. Gaff is K's partner.",
+    "Answer": "Gaff is a retired Blade Runner who has previously encountered K."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which characters work together at a Wallace Corporation facility?",
+    "Options": "A. Doc Badger and Sapper Morton\nB. K and Joi\nC. Deckard and Luv\nD. Wallace and Neander Wallace",
+    "Answer": "Doc Badger and Sapper Morton"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what is the relationship between Freysa and Niander Wallace?",
+    "Options": "A. Freysa is Niander Wallace's sister and right-hand woman.\nB. Freysa is Niander Wallace's enemy.\nC. Freysa is Niander Wallace's assistant.\nD. Freysa is Niander Wallace's mentor.",
+    "Answer": "Freysa is Niander Wallace's sister and right-hand woman."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which character works together with Sapper Morton at a Wallace Corporation facility?",
+    "Options": "A. Coco\nB. K\nC. Joi\nD. Deckard",
+    "Answer": "Coco"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' released in 2017, what is the relationship between Nandez and the Wallace Corporation?",
+    "Options": "A. Nandez is a human employee at the Wallace Corporation.\nB. Nandez is a Replicant who works at a Wallace Corporation facility.\nC. Nandez is a scientist researching Replicants.\nD. Nandez is a security guard protecting the Wallace Corporation.",
+    "Answer": "Nandez is a Replicant who works at a Wallace Corporation facility."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what is the relationship between Rachel and replicants?",
+    "Options": "A. Rachel is a human who hunts replicants.\nB. Rachel is a replicant created by the Tyrell Corporation.\nC. Rachel is a scientist studying replicants.\nD. Rachel is the leader of the replicant rebellion.",
+    "Answer": "Rachel is a replicant created by the Tyrell Corporation."
+  }
+]

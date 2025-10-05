@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the score and awards related to the movie 'Up' (2009)?",
+    "Options": "A. The score for 'Up' was nominated for a BAFTA Award.\nB. The score for 'Up' won the BAFTA Award for Best Original Score.\nC. The score for 'Toy Story 3' received the BAFTA Award in 2011.\nD. The score for 'Up' was composed by Michael Giacchino.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "Which of the following awards has the score for the Pixar film 'Up' (2009) been recognized with?",
+    "Options": "A. Oscar\nB. BAFTA Award\nC. Golden Globe\nD. Grammy Award",
+    "Answer": "Oscar, BAFTA Award"
+  }
+]

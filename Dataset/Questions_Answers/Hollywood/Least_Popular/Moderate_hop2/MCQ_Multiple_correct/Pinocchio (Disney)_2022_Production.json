@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Which individuals were involved in the production of the Disney film related to the character 'King'?",
+    "Options": "A. King\nB. Disney\nC. Simon Farnaby\nD. All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "Which individuals were involved in the production of the Disney film *Pinocchio* (2022)?",
+    "Options": "A. Robert Zemeckis\nB. Simon Farnaby\nC. Walt Disney\nD. All of the above",
+    "Answer": "Robert Zemeckis, Simon Farnaby"
+  },
+  {
+    "Question": "Which characters are voiced by Joseph Gordon-Levitt and Keegan-Michael Key in the film *Pinocchio (Disney)*?",
+    "Options": "A. Jiminy Cricket\nB. Honest John Worthington Foulfellow\nC. Sofia the Seagull\nD. All of the above",
+    "Answer": "Jiminy Cricket, Honest John Worthington Foulfellow"
+  },
+  {
+    "Question": "Which of the following characters were voiced by Joseph Gordon-Levitt and Lorraine Bracco in the film?",
+    "Options": "A. Jiminy Cricket\nB. Honest John Worthington Foulfellow\nC. Sofia the Seagull\nD. All of the above",
+    "Answer": "Jiminy Cricket, Honest John Worthington Foulfellow"
+  },
+  {
+    "Question": "Which actors were involved in the production of the 2022 Disney film *Pinocchio*?",
+    "Options": "A. Oakes Fegley\nB. Luke Evans\nC. The Coachman\nD. All of the above",
+    "Answer": "All of the above"
+  }
+]

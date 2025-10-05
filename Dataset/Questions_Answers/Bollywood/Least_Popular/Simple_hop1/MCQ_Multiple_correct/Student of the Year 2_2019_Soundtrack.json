@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "Which of the following movies were directed by Ali Abbas Zafar, as seen in the context of 'Student of the Year 2' (2019)?",
+    "Options": "A. Student of the Year 2\nB. Tiger Zinda Hai\nC. Sultan\nD. Bajrangi Bhaijaan",
+    "Answer": "Student of the Year 2, Tiger Zinda Hai"
+  },
+  {
+    "Question": "Which of the following statements about the soundtrack of 'Student of the Year 2' (2019) are correct?",
+    "Options": "A. The music of 'Student of the Year 2' is composed by Vishal–Shekhar.\nB. Vishal–Shekhar have composed music for 'Tiger Zinda Hai'.\nC. The soundtrack of 'Student of the Year 2' was composed by A.R. Rahman.\nD. Vishal–Shekhar are known for their work in Bollywood movies.",
+    "Answer": "The music of 'Student of the Year 2' is composed by Vishal–Shekhar. | Vishal–Shekhar have composed music for 'Tiger Zinda Hai'. | Vishal–Shekhar are known for their work in Bollywood movies."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the movie 'Student of the Year 2' released in 2019?",
+    "Options": "A. 'Student of the Year 2' is a sequel to 'Student of the Year'.\nB. The soundtrack of 'Student of the Year 2' was composed by Vishal–Shekhar.\nC. 'Student of the Year' was released in 2020.\nD. 'Student of the Year 2' features a similar theme to its predecessor.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the soundtrack of the movie 'Student of the Year 2' released in 2019?",
+    "Options": "A. The music of 'Student of the Year 2' is composed by Vishal–Shekhar.\nB. The soundtrack includes songs from the movie 'Tiger Zinda Hai'.\nC. Vishal–Shekhar are known for their work in multiple Bollywood films.\nD. The movie features a variety of music genres.",
+    "Answer": "The music of 'Student of the Year 2' is composed by Vishal–Shekhar., Vishal–Shekhar are known for their work in multiple Bollywood films., The movie features a variety of music genres."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the films 'Student of the Year 2' (2019) and 'Bharat'?",
+    "Options": "A. Both films were released in 2019.\nB. Both are Bollywood films.\nC. Both films feature a prominent soundtrack.\nD. Both films are directed by the same director.",
+    "Answer": "Both are Bollywood films. Both films feature a prominent soundtrack."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the soundtracks of 'Student of the Year 2' (2019)?",
+    "Options": "A. The soundtrack features songs that are popular in dance clubs.\nB. The film includes a mix of romantic and upbeat tracks.\nC. The soundtrack was composed by Amaal Mallik and Vishal-Shekhar.\nD. The songs were primarily sung by Bollywood playback singers.",
+    "Answer": "The soundtrack features songs that are popular in dance clubs., The film includes a mix of romantic and upbeat tracks., The songs were primarily sung by Bollywood playback singers."
+  },
+  {
+    "Question": "In the movie 'Student of the Year 2' (2019), which of the following statements are true regarding the soundtrack?",
+    "Options": "A. 'The jawaani song' is a recreation from a previous film.\nB. 'Yeh jawani hai deewani' is an original composition for the movie.\nC. 'The jawaani song' references 'Yeh jawani hai deewani'.\nD. 'Yeh jawani hai deewani' is featured in 'Student of the Year 2'.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the soundtrack of the movie 'Student of the Year 2' released in 2019?",
+    "Options": "A. Both 'hook up song' and 'mumbai dilli ki kudiyan' are upbeat dance numbers.\nB. 'hook up song' features a romantic theme.\nC. 'mumbai dilli ki kudiyan' is a slow ballad.\nD. Both songs are from recent Bollywood films.",
+    "Answer": "Both 'hook up song' and 'mumbai dilli ki kudiyan' are upbeat dance numbers. Both songs are from recent Bollywood films."
+  },
+  {
+    "Question": "Which of the following songs are popular party songs featured in the movie 'Student of the Year 2' released in 2019?",
+    "Options": "A. the jawaani song\nB. the hook up song\nC. the romantic melody\nD. the dance anthem",
+    "Answer": "the jawaani song, the hook up song"
+  },
+  {
+    "Question": "In the movie 'Student of the Year 2' (2019), which of the following statements are true regarding the soundtrack, particularly about 'the hook up song' and 'mumbai dilli di kudiyaan'?",
+    "Options": "A. Both songs are upbeat dance numbers.\nB. They share similar themes of youth and energy.\nC. Both songs are performed by the same artist.\nD. They are featured in the same sequence of the movie.",
+    "Answer": "Both songs are upbeat dance numbers., They share similar themes of youth and energy."
+  }
+]

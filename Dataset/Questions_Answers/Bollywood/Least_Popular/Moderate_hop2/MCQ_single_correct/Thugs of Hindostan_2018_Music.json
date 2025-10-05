@@ -1,0 +1,37 @@
+[
+  {
+    "Question": "What is the name of the movie for which the soundtrack album was released on 31st October 2018?",
+    "Options": "A. Thugs of Hindostan\nB. Dangal\nC. Bajrangi Bhaijaan\nD. PK",
+    "Answer": "Thugs of Hindostan"
+  },
+  {
+    "Question": "Who composed the music for the soundtrack album of the movie 'Thugs of Hindostan'?",
+    "Options": "A. Pritam\nB. A.R. Rahman\nC. ajay-atul\nD. Vishal-Shekhar",
+    "Answer": "ajay-atul"
+  },
+  {
+    "Question": "Which music label released the soundtrack album for the movie 'Thugs of Hindostan'?",
+    "Options": "A. Yash Raj Films\nB. T-Series\nC. yrf musicdivo\nD. Zee Music Company",
+    "Answer": "yrf musicdivo"
+  },
+  {
+    "Question": "What is the total duration of the soundtrack album for the movie 'Thugs of Hindostan'?",
+    "Options": "A. 15:36\nB. 12:45\nC. 10:30\nD. 14:20",
+    "Answer": "15:36"
+  },
+  {
+    "Question": "Which movie features music composed by Ajay-Atul and was released in 2018?",
+    "Options": "A. Dhadak\nB. Thugs of Hindostan\nC. Kabir Singh\nD. Raazi",
+    "Answer": "Thugs of Hindostan"
+  },
+  {
+    "Question": "Which song features vocals by Shreya Ghoshal and Vishal Dadlani in the film *Thugs of Hindostan*?",
+    "Options": "A. Vashmalle\nB. Manzoor-e-Khuda\nC. Suraiyya\nD. Zinda Banda",
+    "Answer": "Suraiyya"
+  },
+  {
+    "Question": "Which song features Sukhwinder Singh and Vishal Dadlani in the film *Thugs of Hindostan*?",
+    "Options": "A. Vashmalle\nB. Manzoor-e-Khuda\nC. Majjaare Khudaa\nD. Dilbaro",
+    "Answer": "Vashmalle"
+  }
+]

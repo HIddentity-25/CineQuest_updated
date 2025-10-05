@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which movie also features a soundtrack composed by Anu Malik?",
+    "Options": "A. Munna Bhai M.B.B.S.\nB. Kuch Kuch Hota Hai\nC. LOC: Kargil\nD. Kabhi Khushi Kabhie Gham",
+    "Answer": "LOC: Kargil"
+  },
+  {
+    "Question": "Which movie features a soundtrack composed by Anu Malik along with *Munna Bhai M.B.B.S.*?",
+    "Options": "A. Dil Se\nB. LOC: Kargil\nC. Kabhi Khushi Kabhie Gham\nD. Taal",
+    "Answer": "LOC: Kargil"
+  },
+  {
+    "Question": "Which movie also features a soundtrack composed by Anu Malik in 2003?",
+    "Options": "A. Lagaan\nB. LOC: Kargil\nC. Kabhi Khushi Kabhie Gham\nD. Taal",
+    "Answer": "LOC: Kargil"
+  }
+]

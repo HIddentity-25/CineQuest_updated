@@ -1,0 +1,26 @@
+[
+    {
+        "Question": "[\"Does Pinocchio find the grave of the Red Fairy in the plot of 'Pinocchio 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the plot of 'Pinocchio 2002', does Pinocchio find the grave of the Blue Fairy who supposedly died of grief because of his antics?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Pinocchio 2002', does Pinocchio get injured during his performance and then get eaten by a small fish?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the plot of 'Pinocchio 2002', is Pinocchio swallowed by a giant shark that has also swallowed Geppetto, leading to their joint escape?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Pinocchio abandon Geppetto in the movie 'Pinocchio 2002'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does Pinocchio take Geppetto to a farm to help him recover in the movie 'Pinocchio 2002'?\"]",
+        "Answer": "yes"
+    }
+]

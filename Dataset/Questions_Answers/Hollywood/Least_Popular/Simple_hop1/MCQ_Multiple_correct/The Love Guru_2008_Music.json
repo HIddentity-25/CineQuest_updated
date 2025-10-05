@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the movie 'The Love Guru' released in 2008?",
+    "Options": "A. George S. Clinton composed the original score for the film.\nB. The film features a soundtrack by various artists.\nC. The movie was directed by Mike Myers.\nD. The original score was composed by Hans Zimmer.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'The Love Guru' (2008), which of the following statements are true regarding the music and its composer?",
+    "Options": "A. George S. Clinton composed the score for 'The Love Guru'.\nB. George S. Clinton is known for composing music for the Austin Powers films.\nC. The Love Guru features music that is similar to the Austin Powers films.\nD. George S. Clinton is primarily known for his work in romantic comedies.",
+    "Answer": "George S. Clinton composed the score for 'The Love Guru'., George S. Clinton is known for composing music for the Austin Powers films."
+  },
+  {
+    "Question": "In the 2008 movie 'The Love Guru', which of the following statements about Mike Myers and the Austin Powers films are true?",
+    "Options": "A. Mike Myers starred in the Austin Powers films.\nB. Mike Myers wrote the Austin Powers films.\nC. Mike Myers produced the Austin Powers films.\nD. Mike Myers directed the Austin Powers films.",
+    "Answer": "A, B, C"
+  }
+]

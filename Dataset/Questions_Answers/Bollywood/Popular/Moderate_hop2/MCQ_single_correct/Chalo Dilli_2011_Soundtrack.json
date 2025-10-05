@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which track is part of the soundtrack album for the movie 'Chalo Dilli'?",
+    "Options": "A. Chalo Dilli\nB. Hi 5\nC. Kaun Se Badi Baat\nD. Dil Diyan Gallan",
+    "Answer": "Chalo Dilli"
+  },
+  {
+    "Question": "Which track from the movie 'Chalo Dilli' is featured alongside 'Hi 5'?",
+    "Options": "A. Chalo Dilli\nB. Laila O Laila\nC. Tumse Milke\nD. Dil Diyan Gallan",
+    "Answer": "Laila O Laila"
+  },
+  {
+    "Question": "Which track is part of the soundtrack album for the movie 'Chalo Dilli' along with 'Matargashtiya'?",
+    "Options": "A. Hi 5\nB. Kaun Se Badi Baat\nC. Tumse Milke\nD. Chalo Dilli",
+    "Answer": "Kaun Se Badi Baat"
+  },
+  {
+    "Question": "Which track from the movie 'Chalo Dilli' is featured in a different track called 'Hi 5'?",
+    "Options": "A. Matargashtiya\nB. Laila O Laila\nC. Tera Hone Laga Hoon\nD. Tum Hi Ho",
+    "Answer": "Laila O Laila"
+  },
+  {
+    "Question": "Which track is part of the soundtrack album for the movie 'Chalo Dilli' and emphasizes the significance of experiences?",
+    "Options": "A. Hi 5\nB. Kaun Se Badi Baat\nC. Moments in Life\nD. Dance Like Nobody's Watching",
+    "Answer": "Moments in Life"
+  },
+  {
+    "Question": "Which track is a remix version of 'Laila O Laila' and is featured in the movie 'Chalo Dilli'?",
+    "Options": "A. Laila O Laila\nB. Hi 5\nC. Laila\nD. Qurbani",
+    "Answer": "Laila"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "Which statements are true regarding the relationships among the nodes related to the movie 'Disaster Movie'?",
+    "Options": "A. Filming for 'Disaster Movie' began on April 28.\nB. Matt Lanter starred in 'Disaster Movie'.\nC. Matt Lanter was also the lead in 'Goodie Two Shoes'.\nD. 'Goodie Two Shoes' was released before 'Disaster Movie'.",
+    "Answer": "A) Filming for 'Disaster Movie' began on April 28., B) Matt Lanter starred in 'Disaster Movie'., C) Matt Lanter was also the lead in 'Goodie Two Shoes'."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships and roles of the nodes mentioned?",
+    "Options": "A. Filming for Disaster Movie started on April 28.\nB. Vanessa Minnillo played a character in Disaster Movie.\nC. Vanessa Minnillo was a main cast member in Goodie Two Shoes.\nD. Disaster Movie was filmed in California.",
+    "Answer": "A) Filming for Disaster Movie started on April 28., B) Vanessa Minnillo played a character in Disaster Movie., C) Vanessa Minnillo was a main cast member in Goodie Two Shoes."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships between the nodes related to the movie 'Disaster Movie'?",
+    "Options": "A. Filming for 'Disaster Movie' began on April 28.\nB. Gary 'G Thang' Johnson played a character in 'Disaster Movie'.\nC. Gary 'G Thang' Johnson was also part of the cast in 'Goodie Two Shoes'.\nD. 'Goodie Two Shoes' was released before 'Disaster Movie'.",
+    "Answer": "A) Filming for 'Disaster Movie' began on April 28., B) Gary 'G Thang' Johnson played a character in 'Disaster Movie'., C) Gary 'G Thang' Johnson was also part of the cast in 'Goodie Two Shoes'."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships and roles among the nodes related to the movie 'Disaster Movie'?",
+    "Options": "A. Filming for 'Disaster Movie' began on April 28.\nB. Carmen Electra played a character in 'Disaster Movie'.\nC. Carmen Electra was a main cast member in 'Goodie Two Shoes'.\nD. 'Goodie Two Shoes' is a sequel to 'Disaster Movie'.",
+    "Answer": "A) Filming for 'Disaster Movie' began on April 28., B) Carmen Electra played a character in 'Disaster Movie'., C) Carmen Electra was a main cast member in 'Goodie Two Shoes'."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships among the individuals and movies mentioned?",
+    "Options": "A. William Elliott worked on the sets for Disaster Movie.\nB. Matt Lanter starred in Disaster Movie.\nC. Matt Lanter was also the lead in Goodie Two Shoes.\nD. William Elliott was involved in the production of Goodie Two Shoes.",
+    "Answer": "A) William Elliott worked on the sets for Disaster Movie., B) Matt Lanter starred in Disaster Movie., C) Matt Lanter was also the lead in Goodie Two Shoes."
+  },
+  {
+    "Question": "Which roles or contributions are associated with the individuals and movies mentioned?",
+    "Options": "A. William Elliott worked on the sets for Disaster Movie.\nB. Vanessa Minnillo played a character in Disaster Movie.\nC. Vanessa Minnillo was a main cast member in Goodie Two Shoes.\nD. William Elliott directed Goodie Two Shoes.",
+    "Answer": "A) William Elliott worked on the sets for Disaster Movie., B) Vanessa Minnillo played a character in Disaster Movie., C) Vanessa Minnillo was a main cast member in Goodie Two Shoes."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the relationships among the individuals and movies mentioned?",
+    "Options": "A. William Elliott worked on the production design for Disaster Movie.\nB. Gary 'G Thang' Johnson played a character in Disaster Movie.\nC. Gary 'G Thang' Johnson was a main cast member in Goodie Two Shoes.\nD. William Elliott was involved in the production of Goodie Two Shoes.",
+    "Answer": "A) William Elliott worked on the production design for Disaster Movie., B) Gary 'G Thang' Johnson played a character in Disaster Movie., C) Gary 'G Thang' Johnson was a main cast member in Goodie Two Shoes."
+  },
+  {
+    "Question": "Which statements are true regarding the relationships among the nodes in the context of the movies?",
+    "Options": "A. William Elliott worked on the sets for Disaster Movie.\nB. Carmen Electra played a role in Disaster Movie.\nC. Carmen Electra was a main cast member in Goodie Two Shoes.\nD. William Elliott was involved in the production of Goodie Two Shoes.",
+    "Answer": "A) William Elliott worked on the sets for Disaster Movie., B) Carmen Electra played a role in Disaster Movie., C) Carmen Electra was a main cast member in Goodie Two Shoes."
+  }
+]

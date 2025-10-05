@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "Which of the following songs are part of the soundtrack album for the movie 'Bhuj: The Pride of India' released in 2021?",
+    "Options": "A. Bhuj Theme\nB. Hanjugam\nC. Dilbar\nD. Tera Ban Jaunga",
+    "Answer": "Bhuj Theme, Hanjugam"
+  },
+  {
+    "Question": "Which of the following songs are part of the soundtrack for the movie 'Bhuj: The Pride of India' released in 2021?",
+    "Options": "A. Bhuj Theme\nB. Desh Mere\nC. Teri Mitti\nD. Zaalima",
+    "Answer": "Bhuj Theme, Desh Mere"
+  },
+  {
+    "Question": "Which of the following songs are part of the soundtrack for the movie 'Bhuj: The Pride of India' released in 2021?",
+    "Options": "A. Bhuj Theme\nB. Rammo Rammo\nC. Jai Ho\nD. Tum Hi Ho",
+    "Answer": "Bhuj Theme, Rammo Rammo"
+  },
+  {
+    "Question": "Which of the following songs are part of the soundtrack for the movie 'Bhuj: The Pride of India' released in 2021?",
+    "Options": "A. Hanjugam\nB. Desh Mere\nC. Tera Ban Jaunga\nD. Tum Hi Ho",
+    "Answer": "Hanjugam, Desh Mere"
+  },
+  {
+    "Question": "Which of the following songs are included in the soundtrack of the movie 'Bhuj: The Pride of India' released in 2021?",
+    "Options": "A. Hanjugam\nB. Rammo Rammo\nC. Teri Meri Kahani\nD. Dil Diyan Gallan",
+    "Answer": "Hanjugam, Rammo Rammo"
+  },
+  {
+    "Question": "Which of the following songs are part of the soundtrack for the movie 'Bhuj: The Pride of India' released in 2021?",
+    "Options": "A. Desh Mere\nB. Rammo Rammo\nC. Chakdey India\nD. Teri Mitti",
+    "Answer": "Desh Mere, Rammo Rammo"
+  },
+  {
+    "Question": "Which of the following songs are part of the soundtrack album for the movie 'Bhuj: The Pride of India' released in 2021?",
+    "Options": "A. zaalima coca cola\nB. bhai bhai\nC. tujhe kitna chahne lage\nD. tum hi ho",
+    "Answer": "zaalima coca cola, bhai bhai"
+  },
+  {
+    "Question": "Which of the following songs were part of the soundtrack album for an earlier movie but are not included in the soundtrack for 'Bhuj: The Pride of India' (2021)?",
+    "Options": "A. Zaalima Coca Cola\nB. Ishq Mera\nC. Teri Meri Kahani\nD. Raabta",
+    "Answer": "Zaalima Coca Cola, Ishq Mera"
+  }
+]

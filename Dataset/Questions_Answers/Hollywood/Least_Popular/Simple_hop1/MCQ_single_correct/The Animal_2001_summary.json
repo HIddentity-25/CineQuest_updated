@@ -1,0 +1,12 @@
+[
+  {
+    "Question": "What does the summary of the movie 'The Animal' (2001) provide details about?",
+    "Options": "A. The soundtrack of the movie\nB. The plot, characters, and other important information\nC. The box office earnings\nD. The filming locations",
+    "Answer": "The plot, characters, and other important information"
+  },
+  {
+    "Question": "In the 2001 movie 'The Animal', when is the message displayed according to the plot?",
+    "Options": "A. When a character wins a competition\nB. When certain conditions are met, such as an error occurred or a confirmation dialog needs to be shown\nC. When a character falls in love\nD. When the main character transforms into an animal",
+    "Answer": "When certain conditions are met, such as an error occurred or a confirmation dialog needs to be shown"
+  }
+]

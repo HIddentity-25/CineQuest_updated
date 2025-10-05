@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the movie 'Sidhharth' released in 2014?",
+    "Options": "A. The movie 'Sidhharth' has a detailed summary that outlines its plot.\nB. The summary of 'Sidhharth' includes character development.\nC. The movie's summary does not provide any information about its storyline.\nD. The plot of 'Sidhharth' is described in its summary.",
+    "Answer": "The movie 'Sidhharth' has a detailed summary that outlines its plot., The summary of 'Sidhharth' includes character development., The plot of 'Sidhharth' is described in its summary."
+  },
+  {
+    "Question": "In the movie 'Sidhharth' (2014), which of the following statements accurately describe the relationship between the message and its display? Select all that apply.",
+    "Options": "A. The message is displayed to the user.\nB. The user receives information through the displayed message.\nC. The message is hidden from the user.\nD. The displayed message indicates that some action has been communicated.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Sidhharth' (2014), what are some potential reasons depicted that might lead to issues or errors with the system or application being used?",
+    "Options": "A. User input errors\nB. System compatibility issues\nC. Network connectivity problems\nD. Software bugs",
+    "Answer": "User input errors, System compatibility issues, Network connectivity problems, Software bugs"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements are true regarding the sport depicted in the film?",
+    "Options": "A. Rollerball is a non-violent sport.\nB. Rollerball involves the use of motorcycles.\nC. Rollerball is based on roller derby.\nD. Rollerball features a metal ball.",
+    "Answer": "B, C, D"
+  },
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements are true regarding the relationship between Jonathan and Aurora?",
+    "Options": "A. Jonathan is open about his relationship with Aurora.\nB. Aurora is rumored to be a lesbian.\nC. Jonathan keeps his relationship with Aurora a secret.\nD. Aurora is Jonathan's rival in the game.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the 2002 movie 'Rollerball', which of the following statements are true regarding the relationship between Sanjay and Alexi Petrovich?",
+    "Options": "A. Sanjay is a competitor in the Rollerball league.\nB. Alexi Petrovich is Sanjay's boss.\nC. Sanjay assists Alexi Petrovich.\nD. Alexi Petrovich is a player in the Rollerball game.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements accurately describe the relationship between Alexi and Jonathan?",
+    "Options": "A. Alexi and Sanjay manipulate events to increase game popularity.\nB. Jonathan is allowed to leave the team freely without consequences.\nC. The deaths in the game boost ratings significantly.\nD. Alexi has no interest in Jonathan's career or public image.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements accurately describe the relationship between Alexi and Ridley regarding the game and its popularity?",
+    "Options": "A. Alexi and Ridley are both high-profile stars of the game.\nB. Alexi plans gory 'accidents' to maintain the game's popularity.\nC. Ridley is encouraged to stay on the team despite wanting to quit.\nD. The deaths in the game negatively affect the ratings.",
+    "Answer": "Alexi plans gory 'accidents' to maintain the game's popularity., Ridley is encouraged to stay on the team despite wanting to quit."
+  },
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements accurately describe the relationship between Jonathan and Ridley regarding their situation?",
+    "Options": "A. They are trying to maintain their current lifestyle despite the dangers.\nB. They immediately confront the situation without hesitation.\nC. They decide to flee the country after an accident involving Aurora.\nD. They are unaware of the risks involved in their lifestyle.",
+    "Answer": "They are trying to maintain their current lifestyle despite the dangers., They decide to flee the country after an accident involving Aurora."
+  },
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements are true regarding the relationship between Alexi and Aurora?",
+    "Options": "A. Alexi captures Jonathan and kills Ridley.\nB. Aurora is transferred to the opposing team with Alexi's consent.\nC. Alexi and his men help Jonathan escape.\nD. Ridley manages to cross the border before being killed.",
+    "Answer": "Alexi captures Jonathan and kills Ridley., Aurora is transferred to the opposing team with Alexi's consent."
+  },
+  {
+    "Question": "In the 2002 movie 'Rollerball', what does Jonathan express regarding his relationship with Aurora and his commitment to Alexi?",
+    "Options": "A. Jonathan is willing to leave his job if Aurora is traded.\nB. Jonathan wants to protect Aurora from danger by staying with Alexi.\nC. Jonathan has no interest in Aurora's safety.\nD. Jonathan is indifferent to the team dynamics.",
+    "Answer": "Jonathan is willing to leave his job if Aurora is traded., Jonathan wants to protect Aurora from danger by staying with Alexi."
+  },
+  {
+    "Question": "In the 2002 movie 'Rollerball', which of the following actions are taken by Alexi in relation to the public execution during the Rollerball match?",
+    "Options": "A. Alexi removes all the rules from the match\nB. Alexi participates in the match himself\nC. Alexi stages a public execution\nD. Alexi manipulates the audience's perception",
+    "Answer": "Alexi removes all the rules from the match, Alexi stages a public execution"
+  },
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements are true regarding the character Jonathan and his actions towards Alexi?",
+    "Options": "A. Jonathan is a competitor in the sport\nB. Jonathan kills Alexi\nC. Jonathan is Alexi's mentor\nD. Jonathan seeks revenge against Alexi",
+    "Answer": "Jonathan kills Alexi, Jonathan is a competitor in the sport"
+  },
+  {
+    "Question": "In the movie 'Rollerball' (2002), which of the following statements are true regarding the character Jonathan's actions?",
+    "Options": "A. Jonathan kills Sanjay\nB. Jonathan is a hero\nC. Jonathan participates in the Rollerball games\nD. Jonathan seeks revenge",
+    "Answer": "Jonathan kills Sanjay, Jonathan participates in the Rollerball games"
+  },
+  {
+    "Question": "In the 2002 movie 'Rollerball', which characters does the protagonist reunite with after a fit of rage following the deaths of Alexi and Sanjay?",
+    "Options": "A. Aurora\nB. Alexi\nC. Sanjay\nD. The protagonist",
+    "Answer": "Aurora"
+  }
+]

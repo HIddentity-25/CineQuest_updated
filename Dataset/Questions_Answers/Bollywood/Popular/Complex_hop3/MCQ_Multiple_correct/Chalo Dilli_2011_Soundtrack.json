@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Which of the following tracks are part of the soundtrack album for the movie 'Chalo Dilli'?",
+    "Options": "A. Chalo Dilli\nB. Hi 5\nC. Kaun Se Badi Baat\nD. Moments in Life",
+    "Answer": "Chalo Dilli, Hi 5, Kaun Se Badi Baat, Moments in Life"
+  },
+  {
+    "Question": "Which of the following tracks are part of the soundtrack album for the movie 'Chalo Dilli'?",
+    "Options": "A. Matargashtiya\nB. Hi 5\nC. Kaun Se Badi Baat\nD. Moments in Life",
+    "Answer": "Matargashtiya, Hi 5, Kaun Se Badi Baat, Moments in Life"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the soundtrack of the movie 'Chalo Dilli'?",
+    "Options": "A. 'Chalo Dilli' and 'Hi 5' are both part of the soundtrack album for 'Chalo Dilli'.\nB. 'Laila O Laila' is a track used in 'Chalo Dilli' and is featured in 'Hi 5'.\nC. 'Laila O Laila' and 'Laila' are remix versions of each other.\nD. 'Hi 5' is not related to the movie 'Chalo Dilli'.",
+    "Answer": "A) 'Chalo Dilli' and 'Hi 5' are both part of the soundtrack album for 'Chalo Dilli'., B) 'Laila O Laila' is a track used in 'Chalo Dilli' and is featured in 'Hi 5'., C) 'Laila O Laila' and 'Laila' are remix versions of each other."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the soundtrack of the movie 'Chalo Dilli'?",
+    "Options": "A. 'Matargashtiya' is part of the soundtrack for 'Chalo Dilli'.\nB. 'Hi 5' features the track 'Laila O Laila' from the film 'Qurbani'.\nC. 'Laila' is a remix version of 'Laila O Laila'.\nD. 'Hi 5' is not related to any other track from 'Chalo Dilli'.",
+    "Answer": "A) 'Matargashtiya' is part of the soundtrack for 'Chalo Dilli'., B) 'Hi 5' features the track 'Laila O Laila' from the film 'Qurbani'., C) 'Laila' is a remix version of 'Laila O Laila'."
+  }
+]

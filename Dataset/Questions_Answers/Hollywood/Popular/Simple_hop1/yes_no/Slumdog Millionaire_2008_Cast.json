@@ -1,0 +1,122 @@
+[
+    {
+        "Question": "\"Did Dev Patel portray a character named Jamal Malik in the 2008 movie Slumdog Millionaire?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2008 movie Slumdog Millionaire, was Dev Patel's character, Jamal Malik, a wealthy businessman from New York?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2008 movie 'Slumdog Millionaire', was the character Latika portrayed by an actress other than Freida Pinto?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Did Freida Pinto portray the character Latika in the 2008 film 'Slumdog Millionaire'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Madhur Mittal portray Jamal Malik in the 2008 movie Slumdog Millionaire?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2008 film Slumdog Millionaire, did Madhur Mittal portray the character Salim Malik, who is Jamal's elder brother?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2008 movie 'Slumdog Millionaire', was the role of Prem Kumar played by Shah Rukh Khan?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Slumdog Millionaire' released in 2008, was the character of the game show host, Prem Kumar, portrayed by Anil Kapoor?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Irrfan Khan play the role of a doctor in the 2008 movie Slumdog Millionaire?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie Slumdog Millionaire released in 2008, does Irrfan Khan portray the character of a Police Inspector?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2008 movie 'Slumdog Millionaire', was Saurabh Shukla cast as a character other than Police Constable Srinivas?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Saurabh Shukla portray the character of Police Constable Srinivas in the 2008 movie 'Slumdog Millionaire'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was the character Javed Khan in the 2008 film 'Slumdog Millionaire' portrayed by an actor other than Mahesh Manjrekar?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2008 movie 'Slumdog Millionaire', did Mahesh Manjrekar play the role of the crime boss, Javed Khan?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Was Irrfan Khan not part of the cast in the 2008 movie Slumdog Millionaire?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2008 movie Slumdog Millionaire, did Irrfan Khan and Saurabh Shukla play the roles of a Police Inspector and Police Constable, respectively?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2008 movie 'Slumdog Millionaire', did Irrfan Khan play the role of a school teacher?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Slumdog Millionaire', released in 2008, is the character of Javed Khan, played by Mahesh Manjrekar, under constant watch by the police department?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2008 movie 'Slumdog Millionaire', did Ankur Vikal play the role of a school teacher?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Slumdog Millionaire', released in 2008, are the characters of Ankur Vikal and Mahesh Manjrekar associated with criminal activities?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Rajendranath Zutshi play the role of a police inspector in the 2008 movie Slumdog Millionaire?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2008 movie 'Slumdog Millionaire', did the characters played by Rajendranath Zutshi and Irrfan Khan have a relationship where the police department sometimes works in collaboration with wealthy individuals to catch criminals?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2008 movie 'Slumdog Millionaire', did Mia Drake Inderbitzin play the role of a Police Inspector?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Slumdog Millionaire' released in 2008, was Irrfan Khan's character related to Mia Drake Inderbitzin's character in the context of crime?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2008 movie 'Slumdog Millionaire', did Irrfan Khan play the role of a blind beggar?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Slumdog Millionaire', released in 2008, did Siddhesh Patil's character, Arvind, have any interaction with Irrfan Khan's character, the Police Inspector?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Irrfan Khan play the role of a Police Inspector in the 2008 movie Slumdog Millionaire?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the movie Slumdog Millionaire released in 2008, did Shruti Seth play the role of a criminal targeting call center employees?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2008 film 'Slumdog Millionaire', did Arfi Lamba and Anjum Sharma play characters that were not involved in a call center?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the movie 'Slumdog Millionaire' released in 2008, did Arfi Lamba play the role of Bardi and Anjum Sharma played the role of a call center operator?\"",
+        "Answer": "yes"
+    }
+]

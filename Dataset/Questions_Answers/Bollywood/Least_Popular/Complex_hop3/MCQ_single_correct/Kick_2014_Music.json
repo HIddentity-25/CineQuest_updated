@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Which artist performed the version of 'Tu Hi Tu' alongside Salman Khan, Palak Muchhal, and Mohammad Irfan?",
+    "Options": "A. Neeti Mohan\nB. Arijit Singh\nC. Shreya Ghoshal\nD. Sonu Nigam",
+    "Answer": "Neeti Mohan"
+  },
+  {
+    "Question": "What is the second version of the song 'Tu Hi Tu' called?",
+    "Options": "A. Original\nB. Cover\nC. Reprise\nD. Remix",
+    "Answer": "Reprise"
+  },
+  {
+    "Question": "Which artist is featured as a singer in the song 'Tu Hi Tu'?",
+    "Options": "A. Neeti Mohan\nB. Palak Muchhal\nC. Mohammad Irfan\nD. Salman Khan",
+    "Answer": "Salman Khan"
+  },
+  {
+    "Question": "What is the relationship between the original song 'Tu Hi Tu' and its remixed version 'version 2'?",
+    "Options": "A. A) They are sung by different artists.\nB. B) They have different lyrics.\nC. C) They are composed by the same person.\nD. D) They are from different albums.",
+    "Answer": "C) They are composed by the same person."
+  },
+  {
+    "Question": "Which version of the song 'Tu Hi Tu' is a remix?",
+    "Options": "A. Tu Hi Tu\nB. Tu Hi Tu (Remix)\nC. Tu Hi Tu (Acoustic)\nD. Tu Hi Tu (Live)",
+    "Answer": "Tu Hi Tu (Remix)"
+  },
+  {
+    "Question": "What is the remixed version of the song 'Tu Hi Tu' called?",
+    "Options": "A. Tu Hi Tu (Acoustic)\nB. Tu Hi Tu (House Mix)\nC. Tu Hi Tu (Piano Version)\nD. Tu Hi Tu (Dance Remix)",
+    "Answer": "Tu Hi Tu (House Mix)"
+  }
+]

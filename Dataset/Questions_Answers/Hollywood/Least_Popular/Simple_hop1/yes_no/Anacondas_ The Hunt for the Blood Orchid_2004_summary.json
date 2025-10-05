@@ -1,0 +1,210 @@
+[
+    {
+        "Question": "[\"Is the movie 'Anacondas  The Hunt for the Blood Orchid 2004' about a team of researchers searching for a rare gemstone on an island inhabited by anacondas?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Anacondas  The Hunt for the Blood Orchid 2004', is the team of researchers looking for the Blood Orchid because they believe it will bring humans a longer and healthier life?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Is the team of researchers in \"Anacondas: The Hunt for the Blood Orchid 2004\" funded by a pharmaceutical firm in London to search for the Blood Orchid?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Is the team of researchers in \"Anacondas: The Hunt for the Blood Orchid 2004\" funded by a New York pharmaceutical firm, Wexel Hall, to search for the Blood Orchid?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Gordon Mitchell not a part of the team searching for the Blood Orchid in the movie 'Anacondas The Hunt for the Blood Orchid 2004'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Are Gordon Mitchell and Cole Burris both part of the team searching for the Blood Orchid in the movie 'Anacondas The Hunt for the Blood Orchid 2004'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Dr. Jack Byron discourage Captain Bill Johnson from taking an unsafe path during their search for the Blood Orchid in the movie \"Anacondas  The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Does Dr. Jack Byron convince Captain Bill Johnson to take an unsafe path during their search for the Blood Orchid in the movie \"Anacondas  The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Cole Burris a member of the team searching for the Blood Orchid in the movie 'Anacondas  The Hunt for the Blood Orchid 2004' but Gail Stern is not?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Are Cole Burris and Gail Stern both members of the team searching for the Blood Orchid in the movie 'Anacondas  The Hunt for the Blood Orchid 2004'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', did Dr. Ben Douglas find the Blood Orchid without being attacked by an anaconda?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Anacondas The Hunt for the Blood Orchid 2004', was Dr. Ben Douglas attacked by a giant anaconda while searching for the Blood Orchid?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does Gail Stern get attacked by a shark while searching for the Blood Orchid?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Anacondas The Hunt for the Blood Orchid 2004', does Gail Stern fall into the water and get attacked by a crocodile while searching for the Blood Orchid?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Captain Bill Johnson and his partner Tran Wu choose a safe path during their search for the Blood Orchid in the movie \"Anacondas The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"Anacondas The Hunt for the Blood Orchid 2004\", did Captain Bill Johnson and his partner Tran Wu take an unsafe path during their search for the Blood Orchid despite their misgivings?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did the giant anaconda in \"Anacondas  The Hunt for the Blood Orchid 2004\" ignore Dr. Ben Douglas while he was searching for the Blood Orchid?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"Anacondas  The Hunt for the Blood Orchid 2004\", does a giant anaconda emerge from the water and swallow Dr. Ben Douglas, who was searching for the Blood Orchid?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did the giant anaconda in 'Anacondas The Hunt for the Blood Orchid 2004' ignore Ben completely?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does a giant anaconda emerge from the water and swallow Ben?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did the team in \"Anacondas: The Hunt for the Blood Orchid 2004\" fail to reach the shore?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did the rest of the team in \"Anacondas: The Hunt for the Blood Orchid 2004\" reach the shore?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Bill convinced that the snake in 'Anacondas The Hunt for the Blood Orchid 2004' is not the largest he has ever seen?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does Bill assure the others that it will take weeks for the large snake to grow hungry again?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did John Livingston decline the invitation to join the group in the movie \"Anacondas The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"Anacondas The Hunt for the Blood Orchid 2004\", does John Livingston join the group after being called by Bill's friend?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Livingston avoid conflict in the movie \"Anacondas: The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did Livingston encounter a dangerous situation in the movie \"Anacondas: The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did they find a city instead of a small native village in the movie \"Anacondas The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"Anacondas The Hunt for the Blood Orchid 2004\", did they find a small native village and a disemboweled anaconda?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', are orchids positioned outside of the food chain?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Are orchids a part of the food chain in the movie 'Anacondas The Hunt for the Blood Orchid 2004'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', do the snakes have unusually short lives?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Does the movie 'Anacondas The Hunt for the Blood Orchid 2004' depict snakes with unusually long lives?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does Jack ignore the presence of the orchids?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does Jack realize that the orchids must be nearby?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Does Gail in the movie 'Anacondas  The Hunt for the Blood Orchid 2004' believe that the orchids will definitely work on humans?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'Anacondas  The Hunt for the Blood Orchid 2004', does Gail express doubts about the effectiveness of the orchids on humans?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "In the movie \"Anacondas The Hunt for the Blood Orchid 2004\", does Gordon become paralyzed because of a car accident?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In the movie \"Anacondas The Hunt for the Blood Orchid 2004\", is Gordon paralyzed using a previously collected spider to stop him from informing the others?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Does Sam in the movie \"Anacondas The Hunt for the Blood Orchid 2004\" manage to escape from a pit filled with lions?",
+        "Answer": "no"
+    },
+    {
+        "Question": "In \"Anacondas The Hunt for the Blood Orchid 2004\", does Sam fall into a pit filled with anacondas and manages to climb out?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the movie 'Anacondas: The Hunt for the Blood Orchid 2004', does Bill get killed by the anacondas?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Anacondas: The Hunt for the Blood Orchid 2004', does Bill and the survivors manage to escape from the anacondas?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did Nerida Tyson-Chew compose the screenplay for the movie \"Anacondas: The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did Nerida Tyson-Chew compose the soundtrack for the movie \"Anacondas: The Hunt for the Blood Orchid 2004\"?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the movie 'Anacondas  The Hunt for the Blood Orchid 2004', did Bill and Sam perish in the anaconda attack?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'Anacondas  The Hunt for the Blood Orchid 2004', are Bill and Sam among the survivors who make it back to the raft?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did the audiences polled by CinemaScore give the movie \"Anacondas  The Hunt for the Blood Orchid 2004\" a poor rating on an A+ to F scale?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Did the audiences polled by CinemaScore give the movie \"Anacondas  The Hunt for the Blood Orchid 2004\" an average grade of 'B' on an A+ to F scale?",
+        "Answer": "yes"
+    },
+    {
+        "Question": "Did \"Anacondas: The Hunt for the Blood Orchid 2004\" win the Razzie Award for Worst Remake or Sequel?",
+        "Answer": "no"
+    },
+    {
+        "Question": "Was \"Anacondas: The Hunt for the Blood Orchid 2004\" nominated for a Razzie Award for Worst Remake or Sequel?",
+        "Answer": "yes"
+    }
+]

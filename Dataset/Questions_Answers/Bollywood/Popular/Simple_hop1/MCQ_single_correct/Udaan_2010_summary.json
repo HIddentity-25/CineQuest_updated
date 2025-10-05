@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What type of movie is 'Udaan', released in 2010?",
+    "Options": "A. Drama\nB. Comedy\nC. Horror\nD. Action",
+    "Answer": "Drama"
+  },
+  {
+    "Question": "What does the movie 'Udaan', released in 2010, primarily focus on in its summary?",
+    "Options": "A. A young boy's journey of self-discovery\nB. A romantic relationship between two strangers\nC. A family's struggle during a war\nD. The adventures of a group of friends",
+    "Answer": "A young boy's journey of self-discovery"
+  },
+  {
+    "Question": "In the movie 'Udaan', released in 2010, which phrase indicates the connection between the introduction and the details that follow?",
+    "Options": "A. Details are provided\nB. Here is\nC. Summary of events\nD. Character development",
+    "Answer": "Here is"
+  }
+]

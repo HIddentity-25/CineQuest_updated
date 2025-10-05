@@ -1,0 +1,62 @@
+[
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements about Remy and Linguini are true?",
+    "Options": "A. Remy can understand Linguini's words.\nB. Linguini convinces Remy to help him cook.\nC. Remy controls Linguini's movements by pulling on his hair.\nD. Linguini is a professional chef before meeting Remy.",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), what is the nature of the relationship between Linguini and Colette?",
+    "Options": "A. Colette initially dislikes Linguini's cooking skills.\nB. Colette trains Linguini to improve his culinary abilities.\nC. Linguini becomes Colette's mentor in the kitchen.\nD. Colette begins to appreciate Linguini as he follows her advice.",
+    "Answer": "Colette initially dislikes Linguini's cooking skills., Colette trains Linguini to improve his culinary abilities., Colette begins to appreciate Linguini as he follows her advice."
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), what are the implications of Skinner discovering the letter from Linguini's late mother regarding Linguini's heritage?",
+    "Options": "A. Skinner realizes that Linguini is the rightful owner of the restaurant.\nB. Skinner becomes supportive of Linguini's culinary ambitions.\nC. Skinner feels shocked and enraged by the revelation.\nD. Skinner decides to confront Gusteau's ghost about the matter.",
+    "Answer": "Skinner realizes that Linguini is the rightful owner of the restaurant., Skinner feels shocked and enraged by the revelation."
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), what does Remy tell Django regarding his intentions at the restaurant?",
+    "Options": "A. Remy wants to leave the restaurant.\nB. Remy intends to stay at the restaurant.\nC. Remy wants to open his own restaurant.\nD. Remy plans to become a chef.",
+    "Answer": "B, D"
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements are true regarding the relationship between Linguini and Colette?",
+    "Options": "A. Linguini and Colette share a romantic relationship.\nB. Colette is Linguini's mentor in cooking.\nC. Linguini and Colette have a rivalry throughout the movie.\nD. Colette helps Linguini improve his culinary skills.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the 2007 movie 'Ratatouille', what significant event occurs between Anton Ego and Linguini?",
+    "Options": "A. Anton Ego praises Linguini's cooking skills\nB. Anton Ego announces he will review the restaurant\nC. Linguini asks Anton Ego for cooking advice\nD. Anton Ego criticizes Linguini's restaurant",
+    "Answer": "Anton Ego announces he will review the restaurant"
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements are true regarding the relationship between Remy and Ego?",
+    "Options": "A. Remy creates a dish that evokes memories for Ego.\nB. Ego is unaware that Remy is the chef until after the restaurant closes.\nC. Ego is a culinary critic who initially dislikes Remy's cooking.\nD. Remy and Ego meet in the kitchen of the restaurant.",
+    "Answer": "Remy creates a dish that evokes memories for Ego., Ego is unaware that Remy is the chef until after the restaurant closes."
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements are true regarding the relationship between Linguini and Remy?",
+    "Options": "A. Linguini is a human chef who partners with Remy.\nB. Remy is a rat who has a talent for cooking.\nC. Linguini takes credit for Remy's cooking at a press conference.\nD. Remy and Linguini maintain a strong friendship throughout the movie.",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements accurately describe the relationship between Remy and Skinner during the pantry scene?",
+    "Options": "A. Remy leads his clan to raid the restaurant's pantries.\nB. Skinner successfully prevents Remy from raiding the pantry.\nC. Skinner is locked in the pantry by the rats.\nD. Remy and Skinner work together to gather food.",
+    "Answer": "Remy leads his clan to raid the restaurant's pantries., Skinner is locked in the pantry by the rats."
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements are true regarding the relationship between Remy and Colette after their falling out?",
+    "Options": "A. Remy and Colette do not reconcile and go their separate ways.\nB. Colette returns to help the clan cook under Remy's direction.\nC. Remy takes full control of the kitchen without Colette's help.\nD. Remy and Colette reconcile after their disagreement.",
+    "Answer": "B, D"
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements correctly describe the relationship between Linguini and Gusteau's restaurant?",
+    "Options": "A. Linguini is a waiter at Gusteau's restaurant.\nB. Linguini reveals Remy to his staff.\nC. The staff at Gusteau's quit after Linguini's revelation.\nD. Gusteau's restaurant becomes more credible after Linguini's actions.",
+    "Answer": "Linguini is a waiter at Gusteau's restaurant., Linguini reveals Remy to his staff., The staff at Gusteau's quit after Linguini's revelation."
+  },
+  {
+    "Question": "In the movie 'Ratatouille' (2007), which of the following statements are true regarding the relationship between La Ratatouille and Ego?",
+    "Options": "A. Ego loses his job due to the closure of Gusteau's.\nB. Remy and his friends open a new bistro named La Ratatouille.\nC. Ego invests in La Ratatouille after it is opened.\nD. Ego never visits La Ratatouille after it opens.",
+    "Answer": "A, B, C"
+  }
+]

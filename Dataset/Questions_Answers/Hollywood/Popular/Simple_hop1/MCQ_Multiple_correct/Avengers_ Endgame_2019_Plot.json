@@ -1,0 +1,72 @@
+[
+  {
+    "Question": "In the movie 'Avengers Endgame' (2019), which characters are involved in the rescue mission from deep space?",
+    "Options": "A. Carol Danvers\nB. Tony Stark\nC. Nebula\nD. Steve Rogers",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), which characters are involved in the rescue mission from deep space?",
+    "Options": "A. Carol Danvers\nB. Tony Stark\nC. Nebula\nD. Steve Rogers",
+    "Answer": "Carol Danvers, Tony Stark, Nebula"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), which characters are rescued by Carol Danvers from deep space?",
+    "Options": "A. Tony Stark\nB. Nebula\nC. Steve Rogers\nD. Natasha Romanoff",
+    "Answer": "Tony Stark, Nebula"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), which of the following actions are related to Thor's character and the New Asgardian refugee settlement?",
+    "Options": "A. Thor attempts to recruit new allies from the New Asgardian refugee settlement.\nB. Thor is depicted as overweight and despondent during his time at the New Asgardian refugee settlement.\nC. Thor leads the New Asgardian refugee settlement in a battle against Thanos.\nD. Thor seeks redemption and purpose while interacting with the inhabitants of the New Asgardian refugee settlement.",
+    "Answer": "B, D"
+  },
+  {
+    "Question": "In the movie 'Avengers Endgame' (2019), which of the following statements are true regarding the interaction between Banner and the Ancient One?",
+    "Options": "A. Banner convinces the Ancient One to give him the Time Stone.\nB. The Ancient One is unaware of the importance of the Time Stone.\nC. Banner uses emotional reasoning to persuade the Ancient One.\nD. The Ancient One refuses to help Banner despite his arguments.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Avengers Endgame' (2019), which characters travel back to New York City during Loki's attack in 2012?",
+    "Options": "A. Bruce Banner\nB. Scott Lang\nC. Steve Rogers\nD. Tony Stark",
+    "Answer": "Bruce Banner, Scott Lang, Steve Rogers, Tony Stark"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), which of the following statements are true regarding the failed attempt by Stark and Lang to steal the Space Stone from Stark Tower?",
+    "Options": "A. Stark and Lang were trying to retrieve the Space Stone from its original location.\nB. The Space Stone was located in Stark Tower during the time of their attempt.\nC. Stark and Lang successfully retrieved the Space Stone.\nD. The attempt was part of a larger plan to undo the events of 'Infinity War.'",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), how does Thanos utilize the Stones?",
+    "Options": "A. To destroy the universe\nB. To create a new universe\nC. To resurrect fallen heroes\nD. To gain ultimate power",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Avengers Endgame' (2019), which characters are involved in building a gauntlet to place the Stones into for undoing Thanos's disintegrations?",
+    "Options": "A. Tony Stark\nB. Bruce Banner\nC. Rocket Raccoon\nD. Natasha Romanoff",
+    "Answer": "Tony Stark, Bruce Banner, Rocket Raccoon"
+  },
+  {
+    "Question": "In the movie 'Avengers Endgame' (2019), which characters are involved in the use of the gauntlet to undo Thanos's disintegrations?",
+    "Options": "A. Bruce Banner\nB. Tony Stark\nC. Thor\nD. Natasha Romanoff",
+    "Answer": "Bruce Banner"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), which characters are involved in the struggle against Thanos while wielding Mjolnir?",
+    "Options": "A. Thor\nB. Steve Rogers\nC. Iron Man\nD. Black Widow",
+    "Answer": "A. Thor, B. Steve Rogers"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), which of the following statements are true regarding Thor's relationship with Valkyrie and New Asgard?",
+    "Options": "A. Thor appoints Valkyrie as the new king of New Asgard.\nB. Valkyrie becomes the ruler of New Asgard after Thor's departure.\nC. Thor and Valkyrie lead New Asgard together.\nD. Valkyrie refuses the position of leadership in New Asgard.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), what significant actions does Rogers take regarding the Infinity Stones and Mjolnir in relation to Carter?",
+    "Options": "A. Rogers decides to keep the Stones for himself.\nB. Rogers returns the Stones to their proper timelines.\nC. Rogers remains in the past to live with Carter.\nD. Rogers uses Mjolnir to defeat Thanos.",
+    "Answer": "Rogers returns the Stones to their proper timelines, Rogers remains in the past to live with Carter."
+  },
+  {
+    "Question": "In the movie 'Avengers: Endgame' (2019), which of the following statements are true regarding the relationship between Sam Wilson and the shield?",
+    "Options": "A. Sam Wilson receives the shield from an elderly Steve Rogers.\nB. Sam Wilson is the original owner of the shield.\nC. The shield symbolizes the legacy of Captain America.\nD. Sam Wilson is trained by Steve Rogers to use the shield.",
+    "Answer": "A, C"
+  }
+]

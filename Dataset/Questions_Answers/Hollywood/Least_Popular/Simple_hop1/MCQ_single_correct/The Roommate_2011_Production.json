@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "In which city was 'The Roommate' (2011) filmed, specifically at the University of Southern California?",
+    "Options": "A. San Francisco\nB. Los Angeles\nC. New York\nD. Chicago",
+    "Answer": "Los Angeles"
+  },
+  {
+    "Question": "In the 2011 movie 'The Roommate', which university was one of the filming locations in Los Angeles?",
+    "Options": "A. University of Southern California\nB. Loyola Marymount University\nC. University of California, Los Angeles\nD. California State University, Los Angeles",
+    "Answer": "Loyola Marymount University"
+  },
+  {
+    "Question": "In the 2011 movie 'The Roommate', where was the film originally planned to be shot before the location was changed to Los Angeles?",
+    "Options": "A. Chicago\nB. New York City\nC. Miami\nD. San Francisco",
+    "Answer": "New York City"
+  },
+  {
+    "Question": "In the 2011 movie 'The Roommate', which actress was originally cast to play the role of Sara before being replaced by Minka Kelly?",
+    "Options": "A. Leighton Meester\nB. Minka Kelly\nC. Katie Cassidy\nD. Aly Michalka",
+    "Answer": "Leighton Meester"
+  },
+  {
+    "Question": "In the movie 'The Roommate' (2011), which actors appeared together but did not share any scenes, despite having previously worked together in 'Titanic'?",
+    "Options": "A. Billy Zane and Frances Fisher\nB. Leighton Meester and Minka Kelly\nC. Cam Gigandet and Aly Michalka\nD. Demi Moore and Michael Douglas",
+    "Answer": "Billy Zane and Frances Fisher"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Question": "In the movie 'Inception' (2010), which characters are involved in the hiring relationship as described?",
+    "Options": "A. Ken Watanabe as Saito\nB. Leonardo DiCaprio as Dom Cobb\nC. Joseph Gordon-Levitt as Arthur\nD. Ellen Page as Ariadne",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements are true regarding Cobb's relationship with Mal's projections?",
+    "Options": "A. Cobb can easily control Mal's projections.\nB. Mal's projections challenge Cobb's abilities as an extractor.\nC. Cobb experiences unpredictability in his interactions with Mal's projections.\nD. Cobb has a strong emotional connection to Mal's projections.",
+    "Answer": "Mal's projections challenge Cobb's abilities as an extractor, Cobb experiences unpredictability in his interactions with Mal's projections, Cobb has a strong emotional connection to Mal's projections."
+  },
+  {
+    "Question": "In the 2010 movie 'Inception', how does Christopher Nolan describe the character Mal in relation to the concept of a femme fatale?",
+    "Options": "A. Mal embodies the archetypal qualities of a femme fatale.\nB. Mal is portrayed as a hero in the story.\nC. Nolan considers Mal to be a complex antagonist.\nD. Mal represents the essence of the femme fatale.",
+    "Answer": "Mal embodies the archetypal qualities of a femme fatale., Mal represents the essence of the femme fatale."
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), how did Leonardo DiCaprio describe Marion Cotillard's performance as Mal?",
+    "Options": "A. Strong and vulnerable\nB. Heartbreaking and hopeful\nC. One-dimensional and flat\nD. Nuanced and complex",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements about the character Ariadne is true?",
+    "Options": "A. Ariadne is a graduated student of architecture.\nB. Ariadne is a trained thief.\nC. Ariadne is a dream architect.\nD. Ariadne is a skilled forger.",
+    "Answer": "Ariadne is a graduated student of architecture., Ariadne is a dream architect."
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements about the character Ariadne are true?",
+    "Options": "A. Ariadne is a skilled architect who constructs dreamscapes.\nB. Ariadne is the leader of the dream team.\nC. Ariadne helps Cobb navigate through his subconscious.\nD. Ariadne learns to manipulate the dream world.",
+    "Answer": "Ariadne is a skilled architect who constructs dreamscapes., Ariadne helps Cobb navigate through his subconscious., Ariadne learns to manipulate the dream world."
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements about Ariadne's role are true?",
+    "Options": "A. Ariadne is recruited to construct the various dreamscapes.\nB. Ariadne is a skilled architect of mazes.\nC. Ariadne is the main antagonist of the film.\nD. Ariadne helps the team navigate through dreams.",
+    "Answer": "Ariadne is recruited to construct the various dreamscapes., Ariadne is a skilled architect of mazes., Ariadne helps the team navigate through dreams."
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which characters are involved in the betrayal and replacement relationship where Nash betrays Cobb's team and is replaced by Ariadne?",
+    "Options": "A. Nash\nB. Cobb\nC. Ariadne\nD. Mal",
+    "Answer": "Nash, Ariadne"
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements about the character Nash, played by Lukas Haas, are true?",
+    "Options": "A. Lukas Haas portrays Nash, an architect.\nB. Nash is a loyal member of Cobb's team.\nC. Nash betrays Cobb's team during the mission.\nD. Nash is responsible for designing the dream landscapes.",
+    "Answer": "Lukas Haas portrays Nash, an architect.; Nash betrays Cobb's team during the mission.; Nash is responsible for designing the dream landscapes."
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements about the relationship between Nash and Cobb are true?",
+    "Options": "A. Nash is employed by Cobb.\nB. Cobb is a dream architect.\nC. Nash is a skilled extractor.\nD. Cobb is Nash's mentor.",
+    "Answer": "Nash is employed by Cobb., Cobb is a dream architect., Nash is a skilled extractor."
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements about Talulah Riley's character are true?",
+    "Options": "A. Talulah Riley plays a character named Blonde.\nB. Eames disguises himself as Talulah Riley's character in a dream.\nC. Talulah Riley's character is a key architect of the dream.\nD. The character played by Talulah Riley is involved in a heist.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements about the character Eames and the character credited as 'Blonde' are correct?",
+    "Options": "A. Eames disguises himself as the character played by Talulah Riley.\nB. Eames is a dream architect in the film.\nC. The character 'Blonde' is a key member of the extraction team.\nD. Eames uses the disguise to manipulate a situation within a dream.",
+    "Answer": "Eames disguises himself as the character played by Talulah Riley., Eames uses the disguise to manipulate a situation within a dream."
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), which of the following statements are true regarding the character Maurice Fischer?",
+    "Options": "A. Maurice Fischer is portrayed by Pete Postlethwaite.\nB. Maurice Fischer is the founder of a business empire.\nC. Maurice Fischer is Robert Fischer's brother.\nD. Maurice Fischer is a dying character in the film.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "In the movie 'Inception' (2010), what is the relationship between Robert Fischer and Maurice Fischer?",
+    "Options": "A. Robert Fischer is Maurice Fischer's son\nB. Robert Fischer is Maurice Fischer's brother\nC. Maurice Fischer is Robert Fischer's father\nD. Maurice Fischer is Robert Fischer's uncle",
+    "Answer": "A) Robert Fischer is Maurice Fischer's son, C) Maurice Fischer is Robert Fischer's father"
+  }
+]

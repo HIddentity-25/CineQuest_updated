@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "In the movie 'Mystic River' (2003), which of the following statements are true regarding the portrayal of Sean Penn's character?",
+    "Options": "A. Sean Penn plays the adult version of his character.\nB. Jason Kelly portrays the young version of Sean Penn's character.\nC. Sean Penn and Jason Kelly are both credited as main actors.\nD. Jason Kelly is known for his role in another major film.",
+    "Answer": "B"
+  },
+  {
+    "Question": "In the 2003 movie 'Mystic River', which of the following statements are true regarding the portrayal of Tim Robbins' character as a child?",
+    "Options": "A. Tim Robbins plays the adult version of his character.\nB. Cameron Bowen portrays the young version of Tim Robbins' character.\nC. Tim Robbins' character has a significant childhood backstory.\nD. Cameron Bowen is not involved in the film.",
+    "Answer": "B, C"
+  },
+  {
+    "Question": "In the movie 'Mystic River' (2003), which of the following statements are true regarding the character of Kevin Bacon and his portrayal?",
+    "Options": "A. Kevin Bacon plays the adult version of the character.\nB. Connor Paolo portrays the young version of Kevin Bacon.\nC. Kevin Bacon is the main antagonist in the film.\nD. Connor Paolo is featured in flashback scenes as young Kevin Bacon.",
+    "Answer": "A, B, D"
+  }
+]

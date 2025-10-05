@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "What type of songs does the movie's soundtrack feature alongside 'Tere Liye'?",
+    "Options": "A. Cover songs\nB. Original songs\nC. Remixes\nD. Instrumental pieces",
+    "Answer": "Original songs"
+  },
+  {
+    "Question": "How many different versions does the song 'Tere Liye' appear in on the movie's soundtrack?",
+    "Options": "A. One version\nB. Two versions\nC. Three versions\nD. Four versions",
+    "Answer": "Four versions"
+  },
+  {
+    "Question": "Which song is sung by Atif Aslam along with 'O Mere Khuda'?",
+    "Options": "A. Kaun Hoon Main\nB. Tere Liye\nC. Aa Bhi Jaa Sanam\nD. Dil Diyan Gallan",
+    "Answer": "Aa Bhi Jaa Sanam"
+  },
+  {
+    "Question": "Which song is included in the same album as 'Aa Bhi Jaa Sanam'?",
+    "Options": "A. O Mere Khuda\nB. Ishq Mein\nC. Tere Liye\nD. Kaun Hoon Main",
+    "Answer": "O Mere Khuda"
+  }
+]

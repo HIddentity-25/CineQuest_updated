@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "What is the title of the song that is listed in the track listing of the movie's soundtrack?",
+    "Options": "A. Chal Tu Apna Kaam Kar\nB. Panchi Ud Gaya\nC. Tum Se Hi\nD. Kabira",
+    "Answer": "Panchi Ud Gaya"
+  },
+  {
+    "Question": "What is the title of the song that is included in the track listing of the movie's soundtrack?",
+    "Options": "A. Panchi Ud Gaya\nB. Tum Hi Ho\nC. Channa Mereya\nD. Kabira",
+    "Answer": "Panchi Ud Gaya"
+  },
+  {
+    "Question": "What is the number associated with the song 'Panchi Ud Gaya' in the soundtrack of the movie?",
+    "Options": "A. 1\nB. 2\nC. 3\nD. 4",
+    "Answer": "1"
+  }
+]

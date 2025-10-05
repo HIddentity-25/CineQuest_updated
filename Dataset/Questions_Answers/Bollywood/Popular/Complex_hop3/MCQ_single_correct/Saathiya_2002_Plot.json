@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Who did Aditya threaten for causing the car accident that seriously injured Suhani?",
+    "Options": "A. Ravi\nB. Yeshwant Rao\nC. Rahul\nD. Vikram",
+    "Answer": "Yeshwant Rao"
+  },
+  {
+    "Question": "Where was Suhani admitted after her car accident?",
+    "Options": "A. Home\nB. School\nC. Hospital\nD. Police Station",
+    "Answer": "Hospital"
+  },
+  {
+    "Question": "Where does Aditya learn about Suhani's condition after the car accident?",
+    "Options": "A. Police station\nB. Hospital\nC. Home\nD. School",
+    "Answer": "Hospital"
+  },
+  {
+    "Question": "Who threatens Yeshwant Rao for causing the car accident that seriously injured Suhani?",
+    "Options": "A. Yeshwant Rao\nB. Suhani\nC. Aditya\nD. None of the above",
+    "Answer": "Aditya"
+  },
+  {
+    "Question": "Who caused the car accident that seriously injured Suhani?",
+    "Options": "A. Aditya\nB. Suhani\nC. Yeshwant Rao\nD. None of the above",
+    "Answer": "Yeshwant Rao"
+  },
+  {
+    "Question": "Where is Suhani being treated after the car accident?",
+    "Options": "A. Clinic\nB. Home\nC. Hospital\nD. Rehabilitation Center",
+    "Answer": "Hospital"
+  }
+]

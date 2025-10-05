@@ -1,0 +1,20 @@
+[
+  {
+    "Question": "In the movie 'Everything Everywhere All at Once' (2022), which of the following statements are true regarding the character Audrey Wasilewski?",
+    "Options": "A. Audrey Wasilewski is a member of the Alpha RV Officers.\nB. Audrey Wasilewski plays the lead role in the film.\nC. Audrey Wasilewski appears in a supporting role.\nD. Audrey Wasilewski is not a character in the movie.",
+    "Answer": "A, C"
+  },
+  {
+    "Question": "In the movie 'Everything Everywhere All at Once' (2022), which of the following relationships are accurately described in the context of the cast?",
+    "Options": "A. Li Jing is Evelyn's kung-fu teacher.\nB. Evelyn is Li Jing's student.\nC. Li Jing teaches Evelyn martial arts.\nD. Evelyn and Li Jing are rivals.",
+    "Answer": "Li Jing is Evelyn's kung-fu teacher., Evelyn is Li Jing's student., Li Jing teaches Evelyn martial arts."
+  },
+  {
+    "Question": "In the movie 'Everything Everywhere All at Once' (2022), which of the following characters is portrayed by Michiko Nishiwaki?",
+    "Options": "A. Evelyn's kung-fu opponent\nB. Evelyn's co-star\nC. A villain in the multiverse\nD. A mentor figure",
+    "Answer": "A, B"
+  },
+  {
+    "Answer": "Error parsing answer"
+  }
+]

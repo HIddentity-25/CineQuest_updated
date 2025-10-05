@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "[\"Did Tommy Wiseau play the character of Mark in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Tommy Wiseau play the character of Johnny in the movie 'The Room 2003'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Juliette Danielle portray a character named Lisa in the movie Titanic?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Juliette Danielle portray a character named Lisa in the movie The Room 2003?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Greg Sestero play the role of Johnny in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the movie 'The Room 2003', did Greg Sestero act as Mark?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Philip Haldiman play the role of Johnny in 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Philip Haldiman play the role of Denny in 'The Room 2003'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Carolyn Minnott play the role of Denny in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Carolyn Minnott portray the character Claudette in the movie 'The Room 2003'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Robyn Paris play the role of Denny in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Did Robyn Paris act as Michelle in the movie 'The Room 2003'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Scott Holmes play the character of Lisa in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Room 2003', was the character of Mike portrayed by Scott Holmes?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Dan Janjigian play the role of Lisa in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Is Dan Janjigian the actor who played Chris-R in the movie 'The Room 2003'?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Kyle Vogt play the role of Johnny in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Room 2003', did Kyle Vogt act as Peter?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Greg Ellery play the role of Mark in the movie 'The Room 2003'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In 'The Room 2003', was the character Steven portrayed by Greg Ellery?\"]",
+        "Answer": "yes"
+    }
+]

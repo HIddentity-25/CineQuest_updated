@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "Which countries or regions were involved in the production and filming of the film?",
+    "Options": "A. Luxembourg\nB. Belgium\nC. United States\nD. Regional governments",
+    "Answer": "Luxembourg, Belgium, United States"
+  },
+  {
+    "Question": "Which locations were used to represent 17th century Paris in the film?",
+    "Options": "A. Sarlat-la-Canéda\nB. Cité de Carcassonne\nC. Paris\nD. Both Sarlat-la-Canéda and Paris",
+    "Answer": "Both Sarlat-la-Canéda and Paris"
+  },
+  {
+    "Question": "Which locations were involved in the recreation of 17th century Paris for the film?",
+    "Options": "A. Paris\nB. Sarlat-la-Canéda\nC. The Cité de Carcassonne\nD. All of the above",
+    "Answer": "A) Paris, B) Sarlat-la-Canéda, C) The Cité de Carcassonne"
+  },
+  {
+    "Question": "Which locations were used to represent Paris in the film?",
+    "Options": "A. Sarlat-la-Canéda\nB. Cité de Carcassonne\nC. Toulouse\nD. All of the above",
+    "Answer": "A) Sarlat-la-Canéda, C) Toulouse"
+  }
+]

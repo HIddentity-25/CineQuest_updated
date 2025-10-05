@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the production of the movie 'The Roommate' released in 2011?",
+    "Options": "A. The movie was filmed at the University of Southern California.\nB. The University of Southern California is located in New York.\nC. Los Angeles served as a filming location for the movie.\nD. The production took place in Los Angeles.",
+    "Answer": "The movie was filmed at the University of Southern California., Los Angeles served as a filming location for the movie., The production took place in Los Angeles."
+  },
+  {
+    "Question": "In the production of the movie 'The Roommate' (2011), which locations were used for filming?",
+    "Options": "A. Loyola Marymount University\nB. University of Southern California\nC. Los Angeles\nD. New York University",
+    "Answer": "Loyola Marymount University, University of Southern California, Los Angeles"
+  },
+  {
+    "Question": "In the movie 'The Roommate' (2011), which of the following statements are true regarding the filming locations?",
+    "Options": "A. The movie was originally intended to be filmed in New York City.\nB. The filming was ultimately done in Los Angeles.\nC. The University of Southern California was one of the filming locations.\nD. The movie was shot entirely in New York City.",
+    "Answer": "The movie was originally intended to be filmed in New York City., The filming was ultimately done in Los Angeles., The University of Southern California was one of the filming locations."
+  },
+  {
+    "Question": "In the movie 'The Roommate' (2011), which of the following statements are true regarding the casting of the characters Sara and Rebecca?",
+    "Options": "A. Leighton Meester was originally cast to play Sara.\nB. Minka Kelly played the role of Sara in the final version of the movie.\nC. Leighton Meester portrayed Rebecca in the film.\nD. Minka Kelly was initially cast for the role of Rebecca.",
+    "Answer": "Leighton Meester was originally cast to play Sara., Minka Kelly played the role of Sara in the final version of the movie."
+  },
+  {
+    "Question": "In the movie 'The Roommate' (2011), which of the following statements about Billy Zane and Frances Fisher are correct?",
+    "Options": "A. Billy Zane and Frances Fisher appeared together in 'Titanic'.\nB. Billy Zane and Frances Fisher's characters shared scenes in 'The Roommate'.\nC. Billy Zane and Frances Fisher did not share any scenes in 'The Roommate'.\nD. 'Titanic' was released fourteen years before 'The Roommate'.",
+    "Answer": "A, C, D"
+  }
+]

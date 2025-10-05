@@ -1,0 +1,186 @@
+[
+    {
+        "Question": "[\"Is Pandora, the setting of the 2009 movie 'Avatar', located in our solar system?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', is Pandora described as a lush habitable moon orbiting a gas giant in the Alpha Centauri star system?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the RDA not involved in mining the valuable mineral unobtanium on Pandora in the 2009 movie Avatar?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"Does the RDA mine the valuable mineral unobtanium on Pandora in the 2009 movie Avatar?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is the movie 'Avatar' from 2009 set on Mars with the Na'vi as inhabitants?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', is Pandora, a lush habitable moon in the Alpha Centauri star system, inhabited by the Na'vi?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Is the head of the Avatar Program in the 2009 movie 'Avatar' someone other than Dr. Grace Augustine?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Is Dr. Grace Augustine the head of the Avatar Program in the 2009 movie 'Avatar'?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is Jake Sully, the character in the 2009 movie 'Avatar', not a paraplegic former marine?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', is Jake Sully a paraplegic former Marine?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Jake Sully refuse to participate in the Avatar program in the 2009 movie 'Avatar'?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', was Jake Sully recruited by the Avatar Program to replace his deceased identical twin?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', is the Na'vi princess Neytiri who rescues Jake's avatar a different character?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', does Neytiri, the Na'vi princess, rescue Jake's avatar when it is attacked by Pandoran wildlife and flees into the forest?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2009 movie 'Avatar', did Neytiri take Jake to a different clan?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2009 film 'Avatar', is it correct that Neytiri takes Jake to her clan?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 film Avatar, is Mo'at not associated as the spiritual leader of Neytiri's clan?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film Avatar, is Mo'at the spiritual leader of Neytiri's clan?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', is Colonel Miles Quaritch a member of the RDA's security force, not its head?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film 'Avatar', does Colonel Miles Quaritch lead the RDA's security force?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2009 movie 'Avatar', was Dr. Norm Spellman not associated with Dr. Grace Augustine?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In the 2009 film 'Avatar', did Dr. Norm Spellman share screen time with Dr. Grace Augustine?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Grace leave herself, Jake, and Norm at the main base instead of transferring them to an outpost?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film 'Avatar', did Grace transfer herself, Jake, and Norm to an outpost?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Jake ignore the threat to the sacred Na'vi site?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Jake attempt to disable a bulldozer threatening a sacred Na'vi site?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Is it true that in the 2009 movie 'Avatar', Jake did not fall in love with Neytiri as he is initiated into the tribe?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film 'Avatar', does Jake fall in love with Neytiri as he is initiated into the tribe?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Jake deny being a spy leading to his and Grace's captivity?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film 'Avatar', were Jake and Grace taken captive by the Na'vi after Jake confessed to being a spy?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Quaritch's soldiers spare Hometree and the clan chief in the 2009 movie Avatar?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film Avatar, did Quaritch's soldiers destroy Hometree, resulting in the death of Neytiri's father and the clan chief?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Trudy Chacón abandon Jake due to Quaritch's brutality?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Pilot Trudy Chacón airlift Jake, Grace, and Norm to Grace's outpost after being disgusted by Quaritch's brutality?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"Did Grace survive the gunshot wound she received at the outpost in the 2009 film 'Avatar'?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"Was Grace shot and fatally wounded at the outpost in the movie 'Avatar' released in 2009?\"",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Jake, in the 2009 movie Avatar, fail to unite the clan by connecting his mind to that of the Toruk?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 movie Avatar, was Jake's effort to unite the clan by connecting his mind to that of the Toruk supported by Neytiri and the new chief Tsu'tey?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Jake fight the battle without praying to the Na'vi deity Eywa via a neural connection with the Tree of Souls?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film 'Avatar', does Jake pray to the Na'vi deity Eywa via a neural connection with the Tree of Souls before the battle?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"Did Jake, in the 2009 movie 'Avatar', pray to the Na'vi deity Eywa via a neural connection with the Tree of Souls after the battle?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film 'Avatar', did Jake pray to the Na'vi deity Eywa via a neural connection with the Tree of Souls before the battle?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "[\"In the 2009 movie 'Avatar', did Neytiri leave Jake to suffocate when she saw his human form for the first time?\"]",
+        "Answer": "no"
+    },
+    {
+        "Question": "[\"In the 2009 film 'Avatar', does Neytiri save Jake from suffocation, seeing his human form for the first time?\"]",
+        "Answer": "yes"
+    },
+    {
+        "Question": "\"In the 2009 movie 'Avatar', did Quaritch decide to spare Jake's avatar instead of preparing to kill it?\"",
+        "Answer": "no"
+    },
+    {
+        "Question": "\"In 'Avatar', released in 2009, does Quaritch prepare to kill Jake's avatar?\"",
+        "Answer": "yes"
+    }
+]

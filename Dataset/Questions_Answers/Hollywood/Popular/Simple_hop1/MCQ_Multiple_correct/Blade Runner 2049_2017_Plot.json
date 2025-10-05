@@ -1,0 +1,67 @@
+[
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about replicants and their role in society are true?",
+    "Options": "A. Replicants are bioengineered humans.\nB. Replicants are treated as free citizens in 2049.\nC. Replicants are used for slave labor.\nD. Replicants have the same rights as humans.",
+    "Answer": "Replicants are bioengineered humans., Replicants are used for slave labor."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the character K (KD6-3.7) and his role as a blade runner?",
+    "Options": "A. K is a Nexus-9 replicant.\nB. K works for the Los Angeles Police Department.\nC. K is a human detective.\nD. K tracks down rogue replicants.",
+    "Answer": "K is a Nexus-9 replicant., K works for the Los Angeles Police Department., K tracks down rogue replicants."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the character Rachael and her connection to the experimental Nexus 7 replicant?",
+    "Options": "A. Rachael is a deceased female replicant found by K at Morton's farm.\nB. Rachael is an experimental Nexus 7 replicant.\nC. K is the creator of the Nexus 7 replicant Rachael.\nD. Rachael plays a significant role in the history of replicants.",
+    "Answer": "Rachael is a deceased female replicant found by K at Morton's farm., Rachael is an experimental Nexus 7 replicant., Rachael plays a significant role in the history of replicants."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the relationship between Lt. Joshi and K?",
+    "Options": "A. Lt. Joshi is K's superior in the Los Angeles Police Department.\nB. K is a higher-ranking officer than Lt. Joshi.\nC. Lt. Joshi oversees K's investigations.\nD. K is a replicant working under Lt. Joshi's command.",
+    "Answer": "Lt. Joshi is K's superior in the Los Angeles Police Department., Lt. Joshi oversees K's investigations., K is a replicant working under Lt. Joshi's command."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements about Rick Deckard's relationship with Rachael are true?",
+    "Options": "A. Rick Deckard had romantic ties with Rachael.\nB. Rachael is a human character in the film.\nC. Rachael is an experimental Nexus 7 replicant.\nD. Rick Deckard and Rachael's relationship is central to the plot.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' released in 2017, what roles do Luv and the replicant enforcer play in the plot?",
+    "Options": "A. Luv is a replicant enforcer sent by Niander Wallace.\nB. K is a human detective monitoring Luv.\nC. Niander Wallace creates Luv to control K.\nD. Luv is tasked with monitoring K.",
+    "Answer": "Luv is a replicant enforcer sent by Niander Wallace., Luv is tasked with monitoring K."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the character Joi?",
+    "Options": "A. Joi is a holographic AI girlfriend.\nB. Joi is a physical being with human characteristics.\nC. Joi helps K navigate his emotional struggles.\nD. Joi is a product designed to provide companionship.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what consequences does K face after failing the baseline test?",
+    "Options": "A. K is marked as rogue.\nB. K is promoted to a higher rank.\nC. K is given 48 hours to pass the test.\nD. K is retired immediately.",
+    "Answer": "K is marked as rogue., K is given 48 hours to pass the test."
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding Deckard's relationship to Rachael's child?",
+    "Options": "A. Deckard is the father of Rachael's child.\nB. Deckard scrambled the birth records to protect the child's identity.\nC. Deckard is unaware of his parenthood.\nD. Rachael's child is a replicant.",
+    "Answer": "A, B"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), what significant action did Deckard take regarding the child?",
+    "Options": "A. Deckard raised the child himself\nB. Deckard left the child in the custody of the replicant freedom movement\nC. Deckard sought to protect the child from harm\nD. Deckard revealed the child's identity to the world",
+    "Answer": "Deckard left the child in the custody of the replicant freedom movement"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the relationship between Luv and Joshi?",
+    "Options": "A. Luv is a replicant working for the Wallace Corporation.\nB. Joshi is the chief of the LAPD.\nC. Luv kills Joshi during their confrontation.\nD. Luv tracks K to Las Vegas after killing Joshi.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which of the following statements are true regarding the relationship between Mariette and Joi?",
+    "Options": "A. Joi hires Mariette to fulfill her desires.\nB. Mariette is a human character.\nC. Joi is a digital companion.\nD. Mariette is a replicant prostitute.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "In the movie 'Blade Runner 2049' (2017), which characters are involved in the action where Mariette places a tracker on K's jacket?",
+    "Options": "A. Mariette\nB. Joi\nC. K\nD. The tracker",
+    "Answer": "A, C, D"
+  }
+]

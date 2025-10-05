@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Which of the following statements are true regarding the production of the movie 'Fifty Shades Freed' released in 2018?",
+    "Options": "A. 'Fifty Shades Freed' was filmed back-to-back with 'Fifty Shades Darker'.\nB. Universal Studios produced 'Fifty Shades Freed'.\nC. 'Fifty Shades Freed' was announced in November 2015.\nD. 'Fifty Shades Freed' is a sequel to 'Fifty Shades of Grey'.",
+    "Answer": "A, B, C"
+  },
+  {
+    "Question": "In the movie 'Fifty Shades Freed' (2018), which of the following statements are true regarding Dakota Johnson's role and its connection to 'Fifty Shades Darker'?",
+    "Options": "A. Dakota Johnson plays the lead role in both 'Fifty Shades Darker' and 'Fifty Shades Freed'.\nB. Dakota Johnson is not associated with 'Fifty Shades Darker'.\nC. Both movies feature Dakota Johnson in a significant role.\nD. Dakota Johnson's character is only present in 'Fifty Shades Freed'.",
+    "Answer": "Dakota Johnson plays the lead role in both 'Fifty Shades Darker' and 'Fifty Shades Freed'.; Both movies feature Dakota Johnson in a significant role."
+  },
+  {
+    "Question": "Which of the following statements are true regarding the movie 'Fifty Shades Freed' released in 2018?",
+    "Options": "A. Jamie Dornan plays the lead role in 'Fifty Shades Freed'.\nB. 'Fifty Shades Freed' is a sequel to 'Fifty Shades Darker'.\nC. 'Fifty Shades Freed' is the first film in the Fifty Shades series.\nD. Jamie Dornan reprises his role in both 'Fifty Shades Darker' and 'Fifty Shades Freed'.",
+    "Answer": "A, B, D"
+  },
+  {
+    "Question": "Which of the following statements are true regarding the production of 'Fifty Shades Freed' released in 2018?",
+    "Options": "A. 'Fifty Shades Freed' was shot back-to-back with 'Fifty Shades Darker'.\nB. 'Fifty Shades Freed' was released in 2016.\nC. Universal Studios announced the production of both films in November 2015.\nD. 'Fifty Shades Freed' is a sequel to 'Fifty Shades Darker'.",
+    "Answer": "A, C, D"
+  },
+  {
+    "Question": "Which of the following locations were used for filming 'Fifty Shades Freed' in 2018?",
+    "Options": "A. Paris\nB. Vancouver\nC. Los Angeles\nD. New York",
+    "Answer": "Paris, Vancouver"
+  }
+]
